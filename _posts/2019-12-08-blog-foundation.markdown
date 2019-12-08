@@ -2,7 +2,7 @@
 layout: post
 title:  "吞噬了 Yoro_Chino 的依田萌绘"
 date:   2019-12-08 21:47:11 +0800
-categories: 萌绘故事
+categories: MoeStory
 ---
 是的，如你所见，我把原来那个自称 Yoro_Chino 的粉毛吞噬了，或者说，二重存在。
 
