@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "依田萌绘 / 依田もえ"
 ---
-
-# 依田萌绘 / 依田もえ
 
 <img src="https://i.loli.net/2020/01/07/oJ7jGgQIZKuMBnf.jpg" alt="依田萌绘 1st “HoshiRabbit”" style="zoom:20%;" />
 
