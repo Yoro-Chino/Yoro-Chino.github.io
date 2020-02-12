@@ -32,6 +32,8 @@ permalink: /impression/
 
 [サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：未完结
 
+[Riddle Joker](http://yoro.xyz/impression/rj)：11.42（9.30)
+
 ## Anime
 
 ### 私に天使が舞い降りた！（天使降临到了我身边！）
