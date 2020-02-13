@@ -14,7 +14,7 @@ permalink: /impression/
 
 不过在推千恋万花的时候发现了可能出现的评分通货膨胀，所以上面的标准也只能作为参考。
 
-最新更新日期：2020 年 02 月 11 日
+最新更新日期：2020 年 02 月 13 日
 
 ## AVG/Gal
 
@@ -28,9 +28,9 @@ permalink: /impression/
 
 [ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.35（8.34）（暂定）
 
-[千恋\*万花](http://yoro.xyz/impression/srbk)：11.07（9.02)
+[千恋\*万花](http://yoro.xyz/impression/srbk)：11.11（9.05)
 
-[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：未完结
+[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：11.75（9.50）
 
 [Riddle Joker](http://yoro.xyz/impression/rj)：11.42（9.30)
 
