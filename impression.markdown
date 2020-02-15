@@ -28,7 +28,7 @@ permalink: /impression/
 
 [ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.35（8.34）（暂定）
 
-[千恋\*万花](http://yoro.xyz/impression/srbk)：11.11（9.05)
+[千恋\*万花](http://yoro.xyz/impression/srbk)：11.15（9.08)
 
 [サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：11.75（9.50）
 
