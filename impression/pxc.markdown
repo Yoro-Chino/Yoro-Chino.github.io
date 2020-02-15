@@ -16,27 +16,27 @@ permalink: /impression/pxc/
 
 SMEE 7th Project 「ピュア×コネクト」（2015）
 
-游玩时间：2019 年 12 月
+游玩时间：2019 年 12 月 - 2020 年 1 月
 
-#### [あゆみ线](http://yoro.xyz/kawaiigirls/2019/12/27/pc-ayumi-sora.html)（20%）
+#### [あゆみ](http://yoro.xyz/kawaiigirls/2019/12/27/pc-ayumi-sora.html)（20%）
 
 整体观感 9 + 回味 (±0) + 个人线剧情 / 人物刻画 (±0) + 人设 (0.2+0.2) = 9.4
 
-#### [空线](http://yoro.xyz/kawaiigirls/2019/12/27/pc-ayumi-sora.html)（20%）
+#### [空](http://yoro.xyz/kawaiigirls/2019/12/27/pc-ayumi-sora.html)（20%）
 
 整体观感 9 + 趣味 0.3 + 个人线剧情 0.1 + 人物刻画 0.2 + 人设 (0+0.2) + 情感投入（引发的思考） 0.2  = 10.0<br />
 这条线的个人线剧情是给在甜到掉牙的逆告白回的（）
 
-#### [萌美线](http://yoro.xyz/kawaiigirls/2020/01/03/pc-moemi.html)（20%）
+#### [萌美](http://yoro.xyz/kawaiigirls/2020/01/03/pc-moemi.html)（20%）
 
 整体观感 9.1 + 情感投入 0.5 + 个人线剧情 / 人物刻画 0.3 + 人设 (0+0.3) + 配角表现 (-0.1) = 10.1<br />
 人设分数意外地扣在了配角（指弟弟和妹妹）身上
 
-#### [志帆线](http://yoro.xyz/kawaiigirls/2020/01/07/pc-shiho.html)（20%）
+#### [志帆](http://yoro.xyz/kawaiigirls/2020/01/07/pc-shiho.html)（20%）
 
 整体观感 9.5 + 情感投入 0.5 + 人物刻画 0.3 + 人设 (0.1+0.3) = 10.7<br />
 
-#### 彩里沙线（20%）
+#### 彩里沙（20%）
 
 鸽了
 
