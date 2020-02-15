@@ -20,19 +20,21 @@ permalink: /impression/
 
 个人认为，很多游戏的不同线路讲的完全是不同的故事，之间的关联性几乎可以说没有。对于这种作品，我会把每一条线单独评分，可能还会追加一个整体评分。
 <br />以及共鸣和回味 / （能够让我投入的）情感投入很大程度上是一个东西，画面基本被算进人设里了。
-<br />以及所谓加分项就是我在整体观感基础之上愿意拿出来特别强调的东西。
+<br />以及所谓加分项就是我在整体观感 / 印象分基础之上愿意拿出来特别强调的东西。
 
 点击以下链接获得作品对应详情。括号内为按照一定标准折算成 10 分制的结果。
 
-[Making\*Lovers](http://yoro.xyz/impression/ml)：10.20（8.28）
+[Making\*Lovers](http://yoro.xyz/impression/ml)：10.24（8.31）
 
-[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.35（8.34）（暂定）
+[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.40（8.38）（暂定）
 
 [千恋\*万花](http://yoro.xyz/impression/srbk)：11.15（9.08)
 
 [サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：11.75（9.50）
 
 [Riddle Joker](http://yoro.xyz/impression/rj)：11.47（9.33)
+
+[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：未完结
 
 ## Anime
 
