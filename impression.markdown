@@ -14,7 +14,7 @@ permalink: /impression/
 
 不过在推千恋万花的时候发现了可能出现的评分通货膨胀，所以上面的标准也只能作为参考。
 
-最新更新日期：2020 年 02 月 13 日
+最新更新日期：2020 年 02 月 15 日
 
 ## AVG/Gal
 
@@ -26,7 +26,7 @@ permalink: /impression/
 
 [Making\*Lovers](http://yoro.xyz/impression/ml)：10.24（8.31）
 
-[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.40（8.38）（暂定）
+[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.50（8.46）（暂定）
 
 [千恋\*万花](http://yoro.xyz/impression/srbk)：11.15（9.08)
 
