@@ -12,6 +12,12 @@ permalink: /impression/pxc/
 
 根据作品结构，每一条线的评分也包含了对应的角色在共通线的对应 Chapter 也即在[这里](http://yoro.xyz/kawaiigirls/2019/12/23/pc-main.html)提到的「个人回」
 
+---
+
+SMEE 7th Project 「ピュア×コネクト」（2015）
+
+游玩时间：2019 年 12 月
+
 #### [あゆみ线](http://yoro.xyz/kawaiigirls/2019/12/27/pc-ayumi-sora.html)（20%）
 
 整体观感 9 + 回味 (±0) + 个人线剧情 / 人物刻画 (±0) + 人设 (0.2+0.2) = 9.4

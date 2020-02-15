@@ -8,7 +8,13 @@ permalink: /impression/ml/
 
 主页面：[MoeImp](http://yoro.xyz/impression)
 
-人设分为声音和作画两部分
+人设分为声音和作画两部分，按先后顺序标明。
+
+---
+
+SMEE 9th Project 「Making\*Lovers」（2017）
+
+游玩时间：2019 年 12 月
 
 #### [亚子线](http://yoro.xyz/kawaiigirls/2019/12/12/ml-ako-mashiro.html)（20%）
 

@@ -12,6 +12,12 @@ permalink: /impression/srbk/
 
 根据作品结构，共通线和个人线将作为一个整体计入各条线的评价
 
+---
+
+Yuzusoft 9th Project 「千恋\*万花」（2016）
+
+游玩时间：2020 年 1 月
+
 #### [芳乃线](http://yoro.xyz/kawaiigirls/2020/01/24/srbk-yoshino.html)（21%）
 
 整体观感 9.5 + 情感投入 0.5 + 个人线剧情 0.2 + 人物刻画 0.3 + 人设 (0.2+0.3) = 11.0<br />

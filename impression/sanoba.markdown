@@ -12,6 +12,12 @@ permalink: /impression/sanoba/
 
 「因幡爱瑠还是因幡巡？」我姑且按照因为汉化组的翻译形成的个人习惯依旧使用爱瑠这一称呼。
 
+---
+
+Yuzusoft 8th Project 「サノバウィッチ」（2015）
+
+游玩时间：2020 年 2 月
+
 #### [宁宁 / 宁宁 Re:Start 线](http://yoro.xyz/kawaiigirls/2020/02/06/sanoba-nene.html)（50%）
 
 双  倍  的  快  乐<br />
