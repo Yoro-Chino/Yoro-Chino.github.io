@@ -14,7 +14,7 @@ permalink: /impression/
 
 不过在推千恋万花的时候发现了可能出现的评分通货膨胀，所以上面的标准也只能作为参考。
 
-最新更新日期：2020 年 02 月 15 日
+最新更新日期：2020 年 02 月 16 日
 
 ## AVG/Gal
 
@@ -34,7 +34,7 @@ permalink: /impression/
 
 [Riddle Joker](http://yoro.xyz/impression/rj)：11.47（9.33)
 
-[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：未完结
+[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：10.33（8.30）
 
 ## Anime
 
