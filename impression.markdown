@@ -28,7 +28,7 @@ permalink: /impression/
 
 [Making\*Lovers](http://yoro.xyz/impression/ml)：10.24（8.31）
 
-[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.50（8.46）（暂定）
+[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.58（8.52）（暂定）
 
 [千恋\*万花](http://yoro.xyz/impression/srbk)：11.15（9.08)
 
