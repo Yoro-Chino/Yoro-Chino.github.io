@@ -6,7 +6,7 @@ layout: home
 title: "依田萌绘 / 依田もえ"
 ---
 
-<img src="https://i.loli.net/2020/01/07/oJ7jGgQIZKuMBnf.jpg" alt="依田萌绘 1st “HoshiRabbit”" style="zoom:20%;" />
+<img src="https://i.loli.net/2020/01/07/oJ7jGgQIZKuMBnf.jpg" alt="依田萌绘 1st “HoshiRabbit”" width="324" height="324" align="middle" />
 
 半退坑音游狗，智乃厨，大半个柚子厨
 
