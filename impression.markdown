@@ -26,17 +26,23 @@ permalink: /impression/
 
 点击以下链接获得作品对应详情。数字为作品整体评分，括号内为按照一定标准折算成 10 分制的结果（在部分场合会称为 MoeImp Normalize 或 MoeImp-N）。
 
-[Making\*Lovers](http://yoro.xyz/impression/ml)：10.24（8.31）
+20/02/28 更新：为了解决 8 分和 9 分阻塞的问题，采用 MoeImp-v2 和 MoeImp-N2。主要改动是将印象分项目高低分差别比重拉大，按照原有印象分 `x` 按照 Excel 公式 `=IF(x>9,2.5*x-15,MAX(5*x-37.5,0))` 换算成新的印象分，其余不变。该结果即日起应用至 MoeImp AVG/Gal 的所有项目。以下各行的格式为：
 
-[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.69（8.63）
+~~MoeImp（MoeImp-N）~~ MoeImp-v2 （MoeImp-N2）
 
-[千恋\*万花](http://yoro.xyz/impression/srbk)：11.15（9.08）
+[Making\*Lovers](http://yoro.xyz/impression/ml)：~~10.24（8.31）~~ 8.55 （6.96）
 
-[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：11.75（9.50）
+[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：~~10.69（8.63）~~ 9.58 （7.74）
 
-[Riddle Joker](http://yoro.xyz/impression/rj)：11.47（9.33）
+[千恋\*万花](http://yoro.xyz/impression/srbk)：~~11.15（9.08）~~ 10.09 （8.23）
 
-[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：10.33（8.30）
+[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：~~11.75（9.50）~~ 10.93 （8.84）
+
+[Riddle Joker](http://yoro.xyz/impression/rj)：~~11.47（9.33）~~ 10.41 （8.49）
+
+[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：~~10.33（8.30）~~ 8.74 （7.03）
+
+[推しのラブより恋のラブ（一生推不如一生恋）](http://yoro.xyz/impression/oshilove)：~~9.35（7.47）~~ 7.05 （5.63）
 
 注：MoeImp 大部分评分标准因为个人阅历原因一直是适合带有一定剧情的（偏感动向？）萌系作品的，但是到了像 恋愛、借りちゃいました 这种重视搞笑胜过内涵的作品好像不太奏效。对于这种作品稍微做了一点补正。虽然**不推荐**将这种作品评分和其他作品直接比较（主要是直接比较这种作品和其他作品的话最好的说法也是各有千秋），但是非要说的话其实分数并不是是没有一点可比性的。
 
