@@ -24,19 +24,19 @@ permalink: /impression/
 <br />以及共鸣和回味 / （能够让我投入的）情感投入很大程度上是一个东西，画面基本被算进人设里了。
 <br />以及所谓加分项就是我在整体观感 / 印象分基础之上愿意拿出来特别强调的东西。
 
-点击以下链接获得作品对应详情。数字为作品整体评分，括号内为按照一定标准折算成 10 分制的结果（在部分场合会称为 MoeImp Normalize 或 MoeImp-N）（20/02/28 更新：折算算法更新 MoeImp-N2，在括号内斜线标出）。
+点击以下链接获得作品对应详情。数字为作品整体评分，括号内为按照一定标准折算成 10 分制的结果（在部分场合会称为 MoeImp Normalize 或 MoeImp-N）。
 
-[Making\*Lovers](http://yoro.xyz/impression/ml)：10.24（8.31/7.92）
+[Making\*Lovers](http://yoro.xyz/impression/ml)：10.24（8.31）
 
-[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.63（8.58/8.28）
+[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：10.69（8.63）
 
-[千恋\*万花](http://yoro.xyz/impression/srbk)：11.15（9.08/8.94）
+[千恋\*万花](http://yoro.xyz/impression/srbk)：11.15（9.08）
 
-[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：11.75（9.50/9.50）
+[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：11.75（9.50）
 
-[Riddle Joker](http://yoro.xyz/impression/rj)：11.47（9.33/9.28）
+[Riddle Joker](http://yoro.xyz/impression/rj)：11.47（9.33）
 
-[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：10.33（8.30/7.90）
+[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：10.33（8.30）
 
 注：MoeImp 大部分评分标准因为个人阅历原因一直是适合带有一定剧情的（偏感动向？）萌系作品的，但是到了像 恋愛、借りちゃいました 这种重视搞笑胜过内涵的作品好像不太奏效。对于这种作品稍微做了一点补正。虽然**不推荐**将这种作品评分和其他作品直接比较（主要是直接比较这种作品和其他作品的话最好的说法也是各有千秋），但是非要说的话其实分数并不是是没有一点可比性的。
 
