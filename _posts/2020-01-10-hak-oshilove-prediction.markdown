@@ -29,6 +29,8 @@ categories: KawaiiGirls
 
 ![awsl](https://i.loli.net/2020/01/10/rF6hlU5u84WpLiw.gif)
 
+20/03/01 更新：这部已经坠毁了，期望越大失望越大，堪称 OP 欺诈的典范。我是打死也没想到 OP 里面出现了的 CG 已经是这游戏的大部分的 CG 了。下载版 60 块我都觉得亏。具体评价看 [MoeImp](http://yoro.xyz/impression/oshilove)。
+
 ---
 
 <br />上次就说了的下回预告：ML (3) & P×C (5) - 音乐：为什么我甚至要关注 gal 音乐<br />预告仅供参考（）
