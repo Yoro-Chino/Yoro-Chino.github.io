@@ -16,7 +16,7 @@ permalink: /impression/
 ~~对于其他分项暂时依然可以认为是 9-9.5 分及格，10 分佳作，11 分以上神作。~~<br />
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 03 月 04 日
+评分最新更新日期：2020 年 03 月 06 日
 
 ## AVG/Gal
 
@@ -31,15 +31,17 @@ permalink: /impression/
 
 ~~MoeImp（MoeImp-N）~~ MoeImp-v2 （MoeImp-N2）
 
-[Making\*Lovers](http://yoro.xyz/impression/ml)：~~10.30（8.36）~~ 8.61 （7.01）
+20/03/06 更新：考虑到部分作品存在「一线封神」的情况，在部分线路作品质量远高于或者远差于其他线路的时候试行采用非完全平均的线路权重，典型的例子就是 Making*Lovers。
 
-[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：~~10.69（8.63）~~ 9.58 （7.74）
+[Making\*Lovers](http://yoro.xyz/impression/ml)：~~10.66（8.65）~~ 9.26 （7.53）
 
-[千恋\*万花](http://yoro.xyz/impression/srbk)：~~11.15（9.08）~~ 10.09 （8.23）
+[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)：~~10.76（8.70）~~ 9.65 （7.81）
 
-[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：~~11.75（9.50）~~ 10.93 （8.84）
+[千恋\*万花](http://yoro.xyz/impression/srbk)：~~11.22（9.14）~~ 10.21 （8.33）
 
-[Riddle Joker](http://yoro.xyz/impression/rj)：~~11.47（9.33）~~ 10.41 （8.49）
+[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)：~~11.75（9.50）~~ 10.94 （8.85）
+
+[Riddle Joker](http://yoro.xyz/impression/rj)：~~11.49（9.35）~~ 10.44 （8.51）
 
 [恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)：~~10.33（8.30）~~ 8.74 （7.03）
 
