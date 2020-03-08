@@ -23,7 +23,6 @@ title: "依田萌绘 / 依田もえ"
 相关链接：<br />
 [提问箱](https://www.popiask.cn/Yoda_Moe)   <br />
 [MoeImp](http://yoro.xyz/impression) <br />
-[MoeImp\-Gal Excel ver.](http://yoro.xyz/MoeImp-Gal.xlsx)  <br />
 [Bilibili@依田もえ](https://space.bilibili.com/431901596)   <br />
 [Bilibili@Yoro_Chino](https://space.bilibili.com/12802748)
 
