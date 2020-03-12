@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - 9-nine 系列"
 date:   2020-03-11 13:00:00 +0800
 categories: Special
-permalink: /impression/9nine/
+permalink: /impression/9nine
 
 ---
 

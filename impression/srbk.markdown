@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - 千恋*万花"
 date:   2020-02-09 16:33:00 +0800
 categories: Special
-permalink: /impression/srbk/
+permalink: /impression/srbk
 ---
 
 主页面：[MoeImp](http://yoro.xyz/impression)

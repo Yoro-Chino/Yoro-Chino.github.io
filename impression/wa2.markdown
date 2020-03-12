@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - White Album 2"
 date:   2020-02-22 10:33:00 +0800
 categories: Special
-permalink: /impression/wa2/
+permalink: /impression/wa2
 ---
 
 主页面：[MoeImp](http://yoro.xyz/impression)

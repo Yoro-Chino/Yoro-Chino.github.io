@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - 个人欣赏与评分"
 date:   2020-01-09 01:33:00 +0800
 categories: Special
-permalink: /impression/
+permalink: /impression
 ---
 
 想了想，要不要开始搞一点评分？
@@ -55,8 +55,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 |[推しのラブより恋のラブ（一生推不如一生恋）](http://yoro.xyz/impression/oshilove)|9.35|7.47|7.35|5.87|C|
 |[VA-11 Hall-A: Cyberpunk Bartender Action](http://yoro.xyz/impression/va11)|12.08|9.78|11.67|9.45|S+|
 |[HaremKingdom](http://yoro.xyz/impression/hak)（已弃坑）|3.71|3.07|3.47|2.88|D|
-|[9-nine 九次九日九重色](http://yoro.xyz/impression/9nine)|11.05|8.96|10.15|8.24|A+|
-|[9-nine 天色天歌天籁音](http://yoro.xyz/impression/9nine)|12.30|9.96|11.90|9.64|SS|
+|[9-nine 九次九日九重色](http://yoro.xyz/impression/9nine#九次九日九重色（九條都）)|11.05|8.96|10.15|8.24|A+|
+|[9-nine 天色天歌天籁音](http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）)|12.30|9.96|11.90|9.64|SS|
 
 注：MoeImp 大部分评分标准因为个人阅历原因一直是适合带有一定剧情的（偏感动向？）萌系作品的，但是到了像 恋愛、借りちゃいました 这种重视搞笑胜过内涵的作品好像不太奏效。对于这种作品稍微做了一点补正。虽然**不推荐**将这种作品评分和其他作品直接比较（主要是直接比较这种作品和其他作品的话最好的说法也是各有千秋），但是非要说的话其实分数并不是是没有一点可比性的。
 

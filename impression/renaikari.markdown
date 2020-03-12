@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - 恋愛、借りちゃいました"
 date:   2020-02-20 16:33:00 +0800
 categories: Special
-permalink: /impression/renaikari/
+permalink: /impression/renaikari
 ---
 
 主页面：[MoeImp](http://yoro.xyz/impression)
@@ -105,4 +105,3 @@ H-scene 趣味 +0.1<br />
 **「奇怪的知识增加了！」**
 
 MoeImp 之前的评分标准因为阅历原因一直是适合带有一定剧情的萌系作品的，但是到了这作好像不太奏效。考虑到情感和剧情表现这两个分项的重合度很高，这种作品有点吃亏。想了想把生草力也算进剧情表现里了，算是稍微做了一点补正。因此**不推荐**将本作评分和其他作品直接比较。
-

@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - HaremKingdom"
 date:   2020-03-06 16:33:00 +0800
 categories: Special
-permalink: /impression/hak/
+permalink: /impression/hak
 ---
 
 主页面：[MoeImp](http://yoro.xyz/impression)
@@ -96,4 +96,3 @@ SMEE 11th Project 「HaremKingdom」（2020）
 点名表扬这个游戏的 SE，虽然吸引我注意的只有「噔噔——」和「哔——」（口哨声），但是插入的位置给这作的搞笑气氛着实增色不少。除此之外还有夸张的反色演出等等，一系列演出效果更是给这部戏剧作品增色不少。
 
 但是很遗憾这作的剧情实在是没有吸引力。
-

@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - 推しのラブより恋のラブ"
 date:   2020-02-28 20:00:00 +0800
 categories: Special
-permalink: /impression/oshilove/
+permalink: /impression/oshilove
 
 ---
 

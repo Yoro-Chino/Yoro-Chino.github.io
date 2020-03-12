@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - Making*Lovers"
 date:   2020-02-09 16:33:00 +0800
 categories: Special
-permalink: /impression/ml/
+permalink: /impression/ml
 ---
 
 主页面：[MoeImp](http://yoro.xyz/impression)

@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - サノバウィッチ"
 date:   2020-02-09 16:33:00 +0800
 categories: Special
-permalink: /impression/sanoba/
+permalink: /impression/sanoba
 ---
 
 主页面：[MoeImp](http://yoro.xyz/impression)
