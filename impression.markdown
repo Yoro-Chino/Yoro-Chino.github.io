@@ -48,7 +48,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 | 满分 | 12.50 | 10.00 | 12.50 | 10.00 |SSS|
 | [Making\*Lovers](http://yoro.xyz/impression/ml) |10.66|8.65|9.61|7.81|A|
 |[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)|10.76|8.70|10.02|8.11|A+|
-|[千恋\*万花](http://yoro.xyz/impression/srbk)|11.22|9.14|10.55|8.60|S|
+|[千恋\*万花](http://yoro.xyz/impression/srbk)|11.25|9.16|10.57|8.62|S|
 |[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)|11.75|9.50|11.21|9.07|S+|
 |[Riddle Joker](http://yoro.xyz/impression/rj)|11.49|9.35|10.79|8.79|S|
 |[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)|10.33|8.30|9.16|7.36|B|
