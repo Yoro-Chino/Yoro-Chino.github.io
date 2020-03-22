@@ -28,7 +28,9 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 03 月 17 日
+评分最新更新日期：2020 年 03 月 21 日
+
+<p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
 ## AVG/Gal
 
@@ -37,30 +39,32 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 以及所谓加分项就是我在整体观感 / 印象分基础之上愿意拿出来特别强调的东西。<br />
 详细解读见[这里](http://yoro.xyz/kawaiigirls/2020/03/04/moeimp.html)。
 
-点击以下链接获得作品对应详情。数字为作品整体评分，括号内为按照一定标准折算成 10 分制的结果（在部分场合会称为 MoeImp Normalize 或 MoeImp-N）。
+点击以下链接获得作品对应详情。
 
 20/03/09 更新：为了解决 8 分和 9 分阻塞的问题，采用 MoeImp-v2 和 MoeImp-N2。主要改动是将印象分项目高低分差别比重拉大，按照原有印象分 `x` 按照 Excel 公式 ~~`=IF(x>9,2.5*x-15,MAX(5*x-37.5,0))`~~ `=IF(x>9,2*x-10,MAX(6*x-46,0))` 换算成新的印象分，其余不变。该结果即日起应用至 MoeImp AVG/Gal 的所有项目。此后的分数以 MoeImp-N2 为准，其余分数均为参考。
 
+20/03/22 更新：从本页面移除 MoeImp-v1 和 MoeImp-N，MoeImp-v1 和 MoeImp-N（即旧版评分）可从作品对应页面查看。同时添加 Bangumi 与 EGS 分数作为参考（数据截至 20/03/22 或对应作品 MoeImp 分数创建日期），Bangumi 排名用 # 表示，EGS 中位数以括号表示。
+
 20/03/06 更新：考虑到部分作品存在「一线封神」的情况，在部分线路作品质量远高于或者远差于其他线路的时候试行采用非完全平均的线路权重，典型的例子就是 Making\*Lovers。
 
-| 作品名称 | MoeImp | -N | -v2 | -N2 | Rank |
-| ------ | ------: | ------: | ------: | ------: | :------: |
-| 满分 | 12.50 | 10.00 | 12.50 | 10.00 |SSS|
-| [Making\*Lovers](http://yoro.xyz/impression/ml) |10.56|8.55|9.51|7.71|A|
-|[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)|10.71|8.64|9.97|8.05|A+|
-|[千恋\*万花](http://yoro.xyz/impression/srbk)|11.25|9.16|10.57|8.62|S|
-|[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)|11.75|9.50|11.21|9.07|S+|
-|[Riddle Joker](http://yoro.xyz/impression/rj)|11.49|9.35|10.79|8.79|S|
-|[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)|10.33|8.30|9.16|7.36|B|
-|[推しのラブより恋のラブ（一生推不如一生恋）](http://yoro.xyz/impression/oshilove)|9.35|7.47|7.35|5.87|C|
-|[VA-11 Hall-A: Cyberpunk Bartender Action](http://yoro.xyz/impression/va11)|12.08|9.78|11.67|9.45|S+|
-|[HaremKingdom](http://yoro.xyz/impression/hak)（已弃坑）|3.71|3.07|3.47|2.88|D|
-|[9-nine 九次九日九重色](http://yoro.xyz/impression/9nine#九次九日九重色（九條都）)|11.05|8.96|10.15|8.24|A+|
-|[9-nine 天色天歌天籁音](http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）)|12.30|9.96|11.90|9.64|SS|
-|[9-nine 春色春恋春熙风](http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）)|11.80|9.56|11.20|9.08|S+|
-|[9-nine 整体评价](http://yoro.xyz/impression/9nine#整体评分（暂定）)（暂定）|11.72|9.49|11.08|8.99|S|
-|[フレラバ ~Friend to Lover~](http://yoro.xyz/impression/ftl)|11.46|9.29|10.78|8.75|S|
-|[CROSS†CHANNEL](http://yoro.xyz/impression/cc)|12.15|9.80|11.85|9.56|SS|
+| MoeImp | -v2 | -N2 | Rank | Bangumi | EGS | 
+| ------ | ------: | ----: | :-----: | ------: | ------: |
+| 满分 | 12.50 | 10.00 |SSS|-|-|
+| [Making\*Lovers](http://yoro.xyz/impression/ml) |9.51|7.71|A|534×7.61<br />#1193|444×81<br />(80)|
+|[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)|9.97|8.05|A+|149×7.73<br />#972|683×81<br />(81)|
+|[千恋\*万花](http://yoro.xyz/impression/srbk)|10.57|8.62|S|1216×7.21<br />#2430|835×78<br />(78)|
+|[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)|11.21|9.07|S+|1181×7.48<br />#1544|1234×80<br />(80)|
+|[Riddle Joker](http://yoro.xyz/impression/rj)|10.79|8.79|S|930×6.95<br />#3254|579×76<br />(77)|
+|[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)|9.16|7.36|B|235×7.14<br />#2621|205×76<br />(78)|
+|[推しのラブより恋のラブ（一生推不如一生恋）](http://yoro.xyz/impression/oshilove)|7.35|5.87|C|119×6.76<br />#3519|37×71<br />(70)|
+|[VA-11 Hall-A: Cyberpunk Bartender Action](http://yoro.xyz/impression/va11)|11.67|9.45|S+|403×8.16<br />#330|-|
+|[HaremKingdom](http://yoro.xyz/impression/hak)（已弃坑）|3.47|2.88|D|52×7.27<br />#2064|77×76<br />(75)|
+|[9-nine 九次九日九重色](http://yoro.xyz/impression/9nine#九次九日九重色（九條都）)|10.15|8.24|A+|665×6.57<br />#4089|410×74<br />(75)|
+|[9-nine 天色天歌天籁音](http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）)|11.90|9.64|SS|591×7.43<br />#1725|354×81<br />(80)|
+|[9-nine 春色春恋春熙风](http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）)|11.20|9.08|S+|354×7.35<br />#1987|265×83<br />(83)|
+|[9-nine 整体评价](http://yoro.xyz/impression/9nine#整体评分（暂定）)（暂定）|11.08|8.99|S|-|-|
+|[フレラバ ~Friend to Lover~](http://yoro.xyz/impression/ftl)|10.78|8.75|S|571×7.73<br />#948|712×81<br />(80)|
+|[CROSS†CHANNEL](http://yoro.xyz/impression/cc)|11.85|9.56|SS|1214×8.71<br />#34|4095×85<br />(90)|
 
 注：MoeImp 大部分评分标准因为个人阅历原因一直是适合带有一定剧情的（偏感动向？）萌系作品的，但是到了像 恋愛、借りちゃいました 这种重视搞笑胜过内涵的作品好像不太奏效。对于这种作品稍微做了一点补正。虽然**不推荐**将这种作品评分和其他作品直接比较（主要是直接比较这种作品和其他作品的话最好的说法也是各有千秋），但是非要说的话其实分数并不是是没有一点可比性的。
 
