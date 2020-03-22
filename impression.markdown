@@ -47,24 +47,148 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 20/03/06 更新：考虑到部分作品存在「一线封神」的情况，在部分线路作品质量远高于或者远差于其他线路的时候试行采用非完全平均的线路权重，典型的例子就是 Making\*Lovers。
 
-| MoeImp | -v2 | -N2 | Rank | Bangumi | EGS | 
-| ------ | ------: | ----: | :-----: | ------: | ------: |
-| 满分 | 12.50 | 10.00 |SSS|-|-|
-| [Making\*Lovers](http://yoro.xyz/impression/ml) |9.51|7.71|A|534×7.61<br />#1193|444×81<br />(80)|
-|[ピュア×コネクト（Pure×Connect）](http://yoro.xyz/impression/pxc)|9.97|8.05|A+|149×7.73<br />#972|683×81<br />(81)|
-|[千恋\*万花](http://yoro.xyz/impression/srbk)|10.57|8.62|S|1216×7.21<br />#2430|835×78<br />(78)|
-|[サノバウィッチ （魔女的夜宴）](http://yoro.xyz/impression/sanoba)|11.21|9.07|S+|1181×7.48<br />#1544|1234×80<br />(80)|
-|[Riddle Joker](http://yoro.xyz/impression/rj)|10.79|8.79|S|930×6.95<br />#3254|579×76<br />(77)|
-|[恋愛、借りちゃいました（恋爱，我就借走了）](http://yoro.xyz/impression/renaikari)|9.16|7.36|B|235×7.14<br />#2621|205×76<br />(78)|
-|[推しのラブより恋のラブ（一生推不如一生恋）](http://yoro.xyz/impression/oshilove)|7.35|5.87|C|119×6.76<br />#3519|37×71<br />(70)|
-|[VA-11 Hall-A: Cyberpunk Bartender Action](http://yoro.xyz/impression/va11)|11.67|9.45|S+|403×8.16<br />#330|-|
-|[HaremKingdom](http://yoro.xyz/impression/hak)（已弃坑）|3.47|2.88|D|52×7.27<br />#2064|77×76<br />(75)|
-|[9-nine 九次九日九重色](http://yoro.xyz/impression/9nine#九次九日九重色（九條都）)|10.15|8.24|A+|665×6.57<br />#4089|410×74<br />(75)|
-|[9-nine 天色天歌天籁音](http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）)|11.90|9.64|SS|591×7.43<br />#1725|354×81<br />(80)|
-|[9-nine 春色春恋春熙风](http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）)|11.20|9.08|S+|354×7.35<br />#1987|265×83<br />(83)|
-|[9-nine 整体评价](http://yoro.xyz/impression/9nine#整体评分（暂定）)（暂定）|11.08|8.99|S|-|-|
-|[フレラバ ~Friend to Lover~](http://yoro.xyz/impression/ftl)|10.78|8.75|S|571×7.73<br />#948|712×81<br />(80)|
-|[CROSS†CHANNEL](http://yoro.xyz/impression/cc)|11.85|9.56|SS|1214×8.71<br />#34|4095×85<br />(90)|
+<table style="max-width: calc(100% - 20px);">
+  <thead>
+    <tr>
+      <th>MoeImp</th>
+      <th style="text-align: right">-v2</th>
+      <th style="text-align: right">-N2</th>
+      <th style="text-align: center">Rank</th>
+      <th style="text-align: right">Bangumi</th>
+      <th style="text-align: right">EGS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>满分</td>
+      <td style="text-align: right">12.50</td>
+      <td style="text-align: right">10.00</td>
+      <td style="text-align: center">SSS</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: right">-</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
+      <td style="text-align: right">9.51</td>
+      <td style="text-align: right">7.71</td>
+      <td style="text-align: center">A</td>
+      <td style="text-align: right">534×7.61<br>#1193</td>
+      <td style="text-align: right">444×81<br>(80)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
+      <td style="text-align: right">9.97</td>
+      <td style="text-align: right">8.05</td>
+      <td style="text-align: center">A+</td>
+      <td style="text-align: right">149×7.73<br>#972</td>
+      <td style="text-align: right">683×81<br>(81)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
+      <td style="text-align: right">10.57</td>
+      <td style="text-align: right">8.62</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">1216×7.21<br>#2430</td>
+      <td style="text-align: right">835×78<br>(78)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
+      <td style="text-align: right">11.21</td>
+      <td style="text-align: right">9.07</td>
+      <td style="text-align: center">S+</td>
+      <td style="text-align: right">1181×7.48<br>#1544</td>
+      <td style="text-align: right">1234×80<br>(80)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
+      <td style="text-align: right">10.79</td>
+      <td style="text-align: right">8.79</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">930×6.95<br>#3254</td>
+      <td style="text-align: right">579×76<br>(77)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
+      <td style="text-align: right">9.16</td>
+      <td style="text-align: right">7.36</td>
+      <td style="text-align: center">B</td>
+      <td style="text-align: right">235×7.14<br>#2621</td>
+      <td style="text-align: right">205×76<br>(78)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
+      <td style="text-align: right">7.35</td>
+      <td style="text-align: right">5.87</td>
+      <td style="text-align: center">C</td>
+      <td style="text-align: right">119×6.76<br>#3519</td>
+      <td style="text-align: right">37×71<br>(70)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
+      <td style="text-align: right">11.67</td>
+      <td style="text-align: right">9.45</td>
+      <td style="text-align: center">S+</td>
+      <td style="text-align: right">403×8.16<br>#330</td>
+      <td style="text-align: right">-</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/hak">HaremKingdom</a>（已弃坑）</td>
+      <td style="text-align: right">3.47</td>
+      <td style="text-align: right">2.88</td>
+      <td style="text-align: center">D</td>
+      <td style="text-align: right">52×7.27<br>#2064</td>
+      <td style="text-align: right">77×76<br>(75)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色（九條都）">9-nine 九次九日九重色</a></td>
+      <td style="text-align: right">10.15</td>
+      <td style="text-align: right">8.24</td>
+      <td style="text-align: center">A+</td>
+      <td style="text-align: right">665×6.57<br>#4089</td>
+      <td style="text-align: right">410×74<br>(75)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）">9-nine 天色天歌天籁音</a></td>
+      <td style="text-align: right">11.90</td>
+      <td style="text-align: right">9.64</td>
+      <td style="text-align: center">SS</td>
+      <td style="text-align: right">591×7.43<br>#1725</td>
+      <td style="text-align: right">354×81<br>(80)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）">9-nine 春色春恋春熙风</a></td>
+      <td style="text-align: right">11.20</td>
+      <td style="text-align: right">9.08</td>
+      <td style="text-align: center">S+</td>
+      <td style="text-align: right">354×7.35<br>#1987</td>
+      <td style="text-align: right">265×83<br>(83)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/9nine#整体评分（暂定）">9-nine 整体评价</a>（暂定）</td>
+      <td style="text-align: right">11.08</td>
+      <td style="text-align: right">8.99</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: right">-</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
+      <td style="text-align: right">10.78</td>
+      <td style="text-align: right">8.75</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">571×7.73<br>#948</td>
+      <td style="text-align: right">712×81<br>(80)</td>
+    </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/cc">CROSS†CHANNEL</a></td>
+      <td style="text-align: right">11.85</td>
+      <td style="text-align: right">9.56</td>
+      <td style="text-align: center">SS</td>
+      <td style="text-align: right">1214×8.71<br>#34</td>
+      <td style="text-align: right">4095×85<br>(90)</td>
+    </tr>
+  </tbody>
+</table>
 
 注：MoeImp 大部分评分标准因为个人阅历原因一直是适合带有一定剧情的（偏感动向？）萌系作品的，但是到了像 恋愛、借りちゃいました 这种重视搞笑胜过内涵的作品好像不太奏效。对于这种作品稍微做了一点补正。虽然**不推荐**将这种作品评分和其他作品直接比较（主要是直接比较这种作品和其他作品的话最好的说法也是各有千秋），但是非要说的话其实分数并不是是没有一点可比性的。
 
