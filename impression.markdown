@@ -5,6 +5,9 @@ date:   2020-01-09 01:33:00 +0800
 categories: Special
 permalink: /impression
 ---
+<style type="text/css">
+table{max-width: calc(100% - 40px);margin: 0 auto;}
+</style>
 
 想了想，要不要开始搞一点评分？
 
@@ -47,7 +50,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 20/03/06 更新：考虑到部分作品存在「一线封神」的情况，在部分线路作品质量远高于或者远差于其他线路的时候试行采用非完全平均的线路权重，典型的例子就是 Making\*Lovers。
 
-<table style="max-width: 95%;">
+<table>
   <thead>
     <tr>
       <th>MoeImp</th>
