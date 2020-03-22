@@ -6,7 +6,71 @@ categories: Special
 permalink: /impression
 ---
 <style type="text/css">
-table{max-width: calc(100% - 40px);margin: 0 auto;overflow:scroll;}
+.table-responsive {
+  overflow-x: auto;
+  min-height: 0.01%; // Workaround for IE9 bug (see https://github.com/twbs/bootstrap/issues/14837)
+
+  @media screen and (max-width: @screen-xs-max) {
+    width: 100%;
+    margin-bottom: (@line-height-computed * 0.75);
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid @table-border-color;
+
+    // Tighten up spacing
+    > .table {
+      margin-bottom: 0;
+
+      // Ensure the content doesn't wrap
+      > thead,
+      > tbody,
+      > tfoot {
+        > tr {
+          > th,
+          > td {
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+
+    // Special overrides for the bordered tables
+    > .table-bordered {
+      border: 0;
+
+      // Nuke the appropriate borders so that the parent can handle them
+      > thead,
+      > tbody,
+      > tfoot {
+        > tr {
+          > th:first-child,
+          > td:first-child {
+            border-left: 0;
+          }
+          > th:last-child,
+          > td:last-child {
+            border-right: 0;
+          }
+        }
+      }
+
+      // Only nuke the last row's bottom-border in `tbody` and `tfoot` since
+      // chances are there will be only one `tr` in a `thead` and that would
+      // remove the border altogether.
+      > tbody,
+      > tfoot {
+        > tr:last-child {
+          > th,
+          > td {
+            border-bottom: 0;
+          }
+        }
+      }
+
+    }
+  }
+}
+
 </style>
 
 想了想，要不要开始搞一点评分？
@@ -50,6 +114,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 20/03/06 更新：考虑到部分作品存在「一线封神」的情况，在部分线路作品质量远高于或者远差于其他线路的时候试行采用非完全平均的线路权重，典型的例子就是 Making\*Lovers。
 
+<div class="table-responsive">
 <table>
   <thead>
     <tr>
@@ -192,6 +257,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     </tr>
   </tbody>
 </table>
+</div>
 
 注：MoeImp 大部分评分标准因为个人阅历原因一直是适合带有一定剧情的（偏感动向？）萌系作品的，但是到了像 恋愛、借りちゃいました 这种重视搞笑胜过内涵的作品好像不太奏效。对于这种作品稍微做了一点补正。虽然**不推荐**将这种作品评分和其他作品直接比较（主要是直接比较这种作品和其他作品的话最好的说法也是各有千秋），但是非要说的话其实分数并不是是没有一点可比性的。
 
