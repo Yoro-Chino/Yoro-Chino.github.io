@@ -6,7 +6,7 @@ categories: Special
 permalink: /impression
 ---
 <style type="text/css">
-table{max-width: calc(100% - 40px);margin: 0 auto;}
+table{max-width: calc(100% - 40px);margin: 0 auto;overflow:scroll;}
 </style>
 
 想了想，要不要开始搞一点评分？
