@@ -255,6 +255,14 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">1214×8.71<br>#34</td>
       <td style="text-align: right">4095×85<br>(90)</td>
     </tr>
+    <tr>
+      <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">262×7.03<br>#2935</td>
+      <td style="text-align: right">383×78<br>(79)</td>
+    </tr>
   </tbody>
 </table>
 </div>
