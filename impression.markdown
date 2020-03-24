@@ -124,6 +124,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <th style="text-align: center">Rank</th>
       <th style="text-align: right">Bangumi</th>
       <th style="text-align: right">EGS</th>
+      <th style="text-align: center">分类</th>
     </tr>
   </thead>
   <tbody>
@@ -134,6 +135,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">SSS</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
@@ -142,6 +144,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">A</td>
       <td style="text-align: right">534×7.61<br>#1193</td>
       <td style="text-align: right">444×81<br>(80)</td>
+      <td style="text-align: center">甜萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
@@ -150,6 +153,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">A+</td>
       <td style="text-align: right">149×7.73<br>#972</td>
       <td style="text-align: right">683×81<br>(81)</td>
+      <td style="text-align: center">甜萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
@@ -158,6 +162,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S</td>
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
+      <td style="text-align: center">轻剧情萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
@@ -166,6 +171,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S+</td>
       <td style="text-align: right">1181×7.48<br>#1544</td>
       <td style="text-align: right">1234×80<br>(80)</td>
+      <td style="text-align: center">轻剧情萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
@@ -174,6 +180,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S</td>
       <td style="text-align: right">930×6.95<br>#3254</td>
       <td style="text-align: right">579×76<br>(77)</td>
+      <td style="text-align: center">轻剧情萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
@@ -182,6 +189,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">B</td>
       <td style="text-align: right">235×7.14<br>#2621</td>
       <td style="text-align: right">205×76<br>(78)</td>
+      <td style="text-align: center">搞笑萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
@@ -190,6 +198,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">C</td>
       <td style="text-align: right">119×6.76<br>#3519</td>
       <td style="text-align: right">37×71<br>(70)</td>
+      <td style="text-align: center">百合</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
@@ -198,6 +207,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S+</td>
       <td style="text-align: right">403×8.16<br>#330</td>
       <td style="text-align: right">-</td>
+      <td style="text-align: center">全年龄</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/hak">HaremKingdom</a>（已弃坑）</td>
@@ -206,6 +216,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">D</td>
       <td style="text-align: right">52×7.27<br>#2064</td>
       <td style="text-align: right">77×76<br>(75)</td>
+      <td style="text-align: center">搞笑萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色（九條都）">9-nine 九次九日九重色</a></td>
@@ -214,6 +225,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">A+</td>
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
+      <td style="text-align: center" rowspan="4">剧情萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）">9-nine 天色天歌天籁音</a></td>
@@ -246,6 +258,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S</td>
       <td style="text-align: right">571×7.73<br>#948</td>
       <td style="text-align: right">712×81<br>(80)</td>
+      <td style="text-align: center">甜萌</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/cc">CROSS†CHANNEL</a></td>
@@ -254,6 +267,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">SS</td>
       <td style="text-align: right">1214×8.71<br>#34</td>
       <td style="text-align: right">4095×85<br>(90)</td>
+      <td style="text-align: center">气氛 - 郁</td>
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a>（未完成）</td>
@@ -262,12 +276,13 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">-</td>
       <td style="text-align: right">262×7.03<br>#2935</td>
       <td style="text-align: right">383×78<br>(79)</td>
+      <td style="text-align: center">搞笑萌</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-注：MoeImp 大部分评分标准因为个人阅历原因一直是适合带有一定剧情的（偏感动向？）萌系作品的，但是到了像 恋愛、借りちゃいました 这种重视搞笑胜过内涵的作品好像不太奏效。对于这种作品稍微做了一点补正。虽然**不推荐**将这种作品评分和其他作品直接比较（主要是直接比较这种作品和其他作品的话最好的说法也是各有千秋），但是非要说的话其实分数并不是是没有一点可比性的。
+注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
 注：因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。
 
