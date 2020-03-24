@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MoeImp - 恋愛、借りちゃいました"
+title:  "MoeImp - かりぐらし恋愛"
 date:   2020-03-23 22:47:00 +0800
 categories: Special
 permalink: /impression/karigurashi
