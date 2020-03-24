@@ -124,7 +124,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <th style="text-align: center">Rank</th>
       <th style="text-align: right">Bangumi</th>
       <th style="text-align: right">EGS</th>
-      <th style="text-align: center">分类</th>
+      <th style="text-align: center; min-width: 100px">分类</th>
     </tr>
   </thead>
   <tbody>
