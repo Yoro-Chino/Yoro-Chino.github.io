@@ -271,9 +271,9 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     </tr>
     <tr>
       <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: right">9.21</td>
+      <td style="text-align: right">7.39</td>
+      <td style="text-align: center">B</td>
       <td style="text-align: right">262×7.03<br>#2935</td>
       <td style="text-align: right">383×78<br>(79)</td>
       <td style="text-align: center">搞笑萌</td>
