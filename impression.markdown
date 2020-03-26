@@ -270,7 +270,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">气氛 - 郁</td>
     </tr>
     <tr>
-      <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a>（未完成）</td>
+      <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a></td>
       <td style="text-align: right">9.21</td>
       <td style="text-align: right">7.39</td>
       <td style="text-align: center">B</td>
