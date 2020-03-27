@@ -182,8 +182,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
-      <td style="text-align: right">10.79</td>
-      <td style="text-align: right">8.79</td>
+      <td style="text-align: right">10.70</td>
+      <td style="text-align: right">8.72</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">930×6.95<br>#3254</td>
       <td style="text-align: right">579×76<br>(77)</td>
