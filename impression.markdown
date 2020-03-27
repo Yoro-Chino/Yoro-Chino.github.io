@@ -118,6 +118,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 <table>
   <thead>
     <tr>
+      <th style="text-align: right">序号</th>
       <th>MoeImp</th>
       <th style="text-align: right">-v2</th>
       <th style="text-align: right">-N2</th>
@@ -129,6 +130,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: right">-</td>
       <td>满分</td>
       <td style="text-align: right">12.50</td>
       <td style="text-align: right">10.00</td>
@@ -138,6 +140,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">-</td>
     </tr>
     <tr>
+      <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
       <td style="text-align: right">9.51</td>
       <td style="text-align: right">7.71</td>
@@ -147,6 +150,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">甜萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">2</td>
       <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
       <td style="text-align: right">9.97</td>
       <td style="text-align: right">8.05</td>
@@ -156,6 +160,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">甜萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
       <td style="text-align: right">10.57</td>
       <td style="text-align: right">8.62</td>
@@ -165,6 +170,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">轻剧情萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">4</td>
       <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
       <td style="text-align: right">11.21</td>
       <td style="text-align: right">9.07</td>
@@ -174,6 +180,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">轻剧情萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
       <td style="text-align: right">10.79</td>
       <td style="text-align: right">8.79</td>
@@ -183,6 +190,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">轻剧情萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">6</td>
       <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
       <td style="text-align: right">9.16</td>
       <td style="text-align: right">7.36</td>
@@ -192,6 +200,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">搞笑萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">8</td>
       <td><a href="http://yoro.xyz/impression/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
       <td style="text-align: right">7.35</td>
       <td style="text-align: right">5.87</td>
@@ -201,6 +210,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">百合</td>
     </tr>
     <tr>
+      <td style="text-align: right">A1</td>
       <td><a href="http://yoro.xyz/impression/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
       <td style="text-align: right">11.67</td>
       <td style="text-align: right">9.45</td>
@@ -210,6 +220,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">全年龄</td>
     </tr>
     <tr>
+      <td style="text-align: right">9</td>
       <td><a href="http://yoro.xyz/impression/hak">HaremKingdom</a>（已弃坑）</td>
       <td style="text-align: right">3.47</td>
       <td style="text-align: right">2.88</td>
@@ -219,6 +230,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">搞笑萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色（九條都）">9-nine 九次九日九重色</a></td>
       <td style="text-align: right">10.15</td>
       <td style="text-align: right">8.24</td>
@@ -228,6 +240,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center" rowspan="4">剧情萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">11B</td>
       <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）">9-nine 天色天歌天籁音</a></td>
       <td style="text-align: right">11.90</td>
       <td style="text-align: right">9.64</td>
@@ -236,6 +249,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">354×81<br>(80)</td>
     </tr>
     <tr>
+      <td style="text-align: right">11C</td>
       <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）">9-nine 春色春恋春熙风</a></td>
       <td style="text-align: right">11.20</td>
       <td style="text-align: right">9.08</td>
@@ -244,6 +258,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">265×83<br>(83)</td>
     </tr>
     <tr>
+      <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评分（暂定）">9-nine 整体评价</a>（暂定）</td>
       <td style="text-align: right">11.08</td>
       <td style="text-align: right">8.99</td>
@@ -252,6 +267,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">-</td>
     </tr>
     <tr>
+      <td style="text-align: right">12</td>
       <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
       <td style="text-align: right">10.78</td>
       <td style="text-align: right">8.75</td>
@@ -261,6 +277,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">甜萌</td>
     </tr>
     <tr>
+      <td style="text-align: right">13</td>
       <td><a href="http://yoro.xyz/impression/cc">CROSS†CHANNEL</a></td>
       <td style="text-align: right">11.85</td>
       <td style="text-align: right">9.56</td>
@@ -270,6 +287,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">气氛 - 郁</td>
     </tr>
     <tr>
+      <td style="text-align: right">14</td>
       <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a></td>
       <td style="text-align: right">9.21</td>
       <td style="text-align: right">7.39</td>
@@ -277,6 +295,16 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">262×7.03<br>#2935</td>
       <td style="text-align: right">383×78<br>(79)</td>
       <td style="text-align: center">搞笑萌</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">7</td>
+      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">2313×8.88<br>#12</td>
+      <td style="text-align: right">2223×89<br>(94)</td>
+      <td style="text-align: center">胃药</td>
     </tr>
   </tbody>
 </table>
