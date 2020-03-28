@@ -112,6 +112,10 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 20/03/22 更新：从本页面移除 MoeImp-v1 和 MoeImp-N，MoeImp-v1 和 MoeImp-N（即旧版评分）可从作品对应页面查看。同时添加 Bangumi 与 EGS 分数作为参考（数据截至 20/03/22 或对应作品 MoeImp 分数创建日期），Bangumi 排名用 # 表示，EGS 中位数以括号表示。
 
+20/03/28 更新：从 MoeImp #15 「金色 Loveriche」开始不再提供旧版评分，原有的旧版评分彻底废除。从本页面移除 MoeImp-v2，可从作品对应页面查看。此后除非特殊说明 MoeImp 统一指代 MoeImp-N2。
+
+20/03/28 更新：作品总分中系统与音乐加分的倍数从原有的 1.0 调整为 0.6。
+
 20/03/06 更新：考虑到部分作品存在「一线封神」的情况，在部分线路作品质量远高于或者远差于其他线路的时候试行采用非完全平均的线路权重，典型的例子就是 Making\*Lovers。
 
 <div class="table-responsive">
@@ -120,19 +124,17 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <th style="text-align: right">序号</th>
       <th>MoeImp</th>
-      <th style="text-align: right">-v2</th>
       <th style="text-align: right">-N2</th>
       <th style="text-align: center">Rank</th>
       <th style="text-align: right">Bangumi</th>
       <th style="text-align: right">EGS</th>
-      <th style="text-align: center; min-width: 100px">分类</th>
+      <th style="text-align: center; min-width: 80px">分类</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: right">-</td>
       <td>满分</td>
-      <td style="text-align: right">12.50</td>
       <td style="text-align: right">10.00</td>
       <td style="text-align: center">SSS</td>
       <td style="text-align: right">-</td>
@@ -142,8 +144,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
-      <td style="text-align: right">9.51</td>
-      <td style="text-align: right">7.71</td>
+      <td style="text-align: right">7.51</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">534×7.61<br>#1193</td>
       <td style="text-align: right">444×81<br>(80)</td>
@@ -152,9 +153,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">2</td>
       <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
-      <td style="text-align: right">9.97</td>
-      <td style="text-align: right">8.05</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: right">7.90</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">149×7.73<br>#972</td>
       <td style="text-align: right">683×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
@@ -162,9 +162,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
-      <td style="text-align: right">10.57</td>
-      <td style="text-align: right">8.62</td>
-      <td style="text-align: center">S</td>
+      <td style="text-align: right">8.30</td>
+      <td style="text-align: center">A+</td>
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
       <td style="text-align: center">轻剧情萌</td>
@@ -172,9 +171,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">4</td>
       <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
-      <td style="text-align: right">11.21</td>
-      <td style="text-align: right">9.07</td>
-      <td style="text-align: center">S+</td>
+      <td style="text-align: right">8.87</td>
+      <td style="text-align: center">S</td>
       <td style="text-align: right">1181×7.48<br>#1544</td>
       <td style="text-align: right">1234×80<br>(80)</td>
       <td style="text-align: center">轻剧情萌</td>
@@ -182,9 +180,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
-      <td style="text-align: right">10.70</td>
-      <td style="text-align: right">8.72</td>
-      <td style="text-align: center">S</td>
+      <td style="text-align: right">8.40</td>
+      <td style="text-align: center">A+</td>
       <td style="text-align: right">930×6.95<br>#3254</td>
       <td style="text-align: right">579×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌</td>
@@ -192,8 +189,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">6</td>
       <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
-      <td style="text-align: right">9.16</td>
-      <td style="text-align: right">7.36</td>
+      <td style="text-align: right">7.29</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">235×7.14<br>#2621</td>
       <td style="text-align: right">205×76<br>(78)</td>
@@ -202,8 +198,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">8</td>
       <td><a href="http://yoro.xyz/impression/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
-      <td style="text-align: right">7.35</td>
-      <td style="text-align: right">5.87</td>
+      <td style="text-align: right">5.89</td>
       <td style="text-align: center">C</td>
       <td style="text-align: right">119×6.76<br>#3519</td>
       <td style="text-align: right">37×71<br>(70)</td>
@@ -212,8 +207,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">A1</td>
       <td><a href="http://yoro.xyz/impression/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
-      <td style="text-align: right">11.67</td>
-      <td style="text-align: right">9.45</td>
+      <td style="text-align: right">9.21</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">403×8.16<br>#330</td>
       <td style="text-align: right">-</td>
@@ -222,7 +216,6 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">9</td>
       <td><a href="http://yoro.xyz/impression/hak">HaremKingdom</a>（已弃坑）</td>
-      <td style="text-align: right">3.47</td>
       <td style="text-align: right">2.88</td>
       <td style="text-align: center">D</td>
       <td style="text-align: right">52×7.27<br>#2064</td>
@@ -232,8 +225,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色（九條都）">9-nine 九次九日九重色</a></td>
-      <td style="text-align: right">10.15</td>
-      <td style="text-align: right">8.24</td>
+      <td style="text-align: right">8.00</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
@@ -242,26 +234,23 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">11B</td>
       <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）">9-nine 天色天歌天籁音</a></td>
-      <td style="text-align: right">11.90</td>
-      <td style="text-align: right">9.64</td>
-      <td style="text-align: center">SS</td>
+      <td style="text-align: right">9.40</td>
+      <td style="text-align: center">S+</td>
       <td style="text-align: right">591×7.43<br>#1725</td>
       <td style="text-align: right">354×81<br>(80)</td>
     </tr>
     <tr>
       <td style="text-align: right">11C</td>
       <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）">9-nine 春色春恋春熙风</a></td>
-      <td style="text-align: right">11.20</td>
-      <td style="text-align: right">9.08</td>
-      <td style="text-align: center">S+</td>
+      <td style="text-align: right">8.84</td>
+      <td style="text-align: center">S</td>
       <td style="text-align: right">354×7.35<br>#1987</td>
       <td style="text-align: right">265×83<br>(83)</td>
     </tr>
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评分（暂定）">9-nine 整体评价</a>（暂定）</td>
-      <td style="text-align: right">11.08</td>
-      <td style="text-align: right">8.99</td>
+      <td style="text-align: right">8.75</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
@@ -269,8 +258,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">12</td>
       <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
-      <td style="text-align: right">10.78</td>
-      <td style="text-align: right">8.75</td>
+      <td style="text-align: right">8.50</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">571×7.73<br>#948</td>
       <td style="text-align: right">712×81<br>(80)</td>
@@ -279,9 +267,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">13</td>
       <td><a href="http://yoro.xyz/impression/cc">CROSS†CHANNEL</a></td>
-      <td style="text-align: right">11.85</td>
-      <td style="text-align: right">9.56</td>
-      <td style="text-align: center">SS</td>
+      <td style="text-align: right">9.40</td>
+      <td style="text-align: center">S+</td>
       <td style="text-align: right">1214×8.71<br>#34</td>
       <td style="text-align: right">4095×85<br>(90)</td>
       <td style="text-align: center">气氛 - 郁</td>
@@ -289,8 +276,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">14</td>
       <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a></td>
-      <td style="text-align: right">9.21</td>
-      <td style="text-align: right">7.39</td>
+      <td style="text-align: right">7.34</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">262×7.03<br>#2935</td>
       <td style="text-align: right">383×78<br>(79)</td>
@@ -300,11 +286,19 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">7</td>
       <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（未完成）</td>
       <td style="text-align: right">-</td>
-      <td style="text-align: right">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: right">2313×8.88<br>#12</td>
       <td style="text-align: right">2223×89<br>(94)</td>
       <td style="text-align: center">胃药</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">15</td>
+      <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">504×7.96<br>#569</td>
+      <td style="text-align: right">857×82<br>(84)</td>
+      <td style="text-align: center">-</td>
     </tr>
   </tbody>
 </table>
