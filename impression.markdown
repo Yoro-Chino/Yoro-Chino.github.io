@@ -298,7 +298,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">-</td>
       <td style="text-align: right">504×7.96<br>#569</td>
       <td style="text-align: right">857×82<br>(84)</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">甜萌（？）</td>
     </tr>
   </tbody>
 </table>
