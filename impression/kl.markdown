@@ -64,7 +64,7 @@ Saga Planets 21st Project 「金色ラブリッチェ」（2017）
 
 <p style="color: #AAAAAA">能那样子撒娇真好啊——</p>
 
-![izumi: 没有觉得玲奈妈妈很棒吗（bushi）](http:yoro.xyz/izumi.png)
+![izumi: 没有觉得玲奈妈妈很棒吗（bushi）](http://yoro.xyz/izumi.png)
 
 #### 系统与音乐
 
