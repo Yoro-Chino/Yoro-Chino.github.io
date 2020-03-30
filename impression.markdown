@@ -153,8 +153,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">2</td>
       <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
-      <td style="text-align: right">7.90</td>
-      <td style="text-align: center">A</td>
+      <td style="text-align: right">8.01</td>
+      <td style="text-align: center">A+</td>
       <td style="text-align: right">149×7.73<br>#972</td>
       <td style="text-align: right">683×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
