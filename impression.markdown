@@ -293,16 +293,18 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     </tr>
     <tr>
       <td style="text-align: right">15</td>
-      <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a></td>
+      <td style="text-align: right">9.54</td>
+      <td style="text-align: center">SS</td>
       <td style="text-align: right">504×7.96<br>#569</td>
       <td style="text-align: right">857×82<br>(84)</td>
-      <td style="text-align: center">甜萌（？）</td>
+      <td style="text-align: center">纯爱萌<br>气氛 - 泣*</td>
     </tr>
   </tbody>
 </table>
 </div>
+
+\* 怎么说呢……金恋这部作品说它是那种没有剧情的日常甜萌也不太准确，说它是魔宴千恋那种轻剧情的话感觉剧情又没多到那个程度，况且这作还有一条特殊的线路，所以分类上不太好分。
 
 注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
