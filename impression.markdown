@@ -300,6 +300,15 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">857×82<br>(84)</td>
       <td style="text-align: center">纯爱萌<br>气氛 - 泣*</td>
     </tr>
+    <tr>
+      <td style="text-align: right">16</td>
+      <td><a href="http://yoro.xyz/impression/stella">喫茶ステラと死神の蝶（星光咖啡馆与死神之蝶）</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">185×7.16<br>#2524</td>
+      <td style="text-align: right">263×75<br>(75)</td>
+      <td style="text-align: center">甜萌</td>
+    </tr>
   </tbody>
 </table>
 </div>
