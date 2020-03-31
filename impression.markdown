@@ -162,7 +162,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
-      <td style="text-align: right">8.30</td>
+      <td style="text-align: right">8.21</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
@@ -171,7 +171,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">4</td>
       <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
-      <td style="text-align: right">8.79</td>
+      <td style="text-align: right">8.70</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">1181×7.48<br>#1544</td>
       <td style="text-align: right">1234×80<br>(80)</td>
@@ -180,7 +180,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
-      <td style="text-align: right">8.40</td>
+      <td style="text-align: right">8.31</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">930×6.95<br>#3254</td>
       <td style="text-align: right">579×76<br>(77)</td>
@@ -225,8 +225,8 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色（九條都）">9-nine 九次九日九重色</a></td>
-      <td style="text-align: right">8.00</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: right">7.97</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
       <td style="text-align: center" rowspan="4">剧情萌</td>
@@ -234,7 +234,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">11B</td>
       <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）">9-nine 天色天歌天籁音</a></td>
-      <td style="text-align: right">9.40</td>
+      <td style="text-align: right">9.37</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">591×7.43<br>#1725</td>
       <td style="text-align: right">354×81<br>(80)</td>
@@ -242,7 +242,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">11C</td>
       <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）">9-nine 春色春恋春熙风</a></td>
-      <td style="text-align: right">8.84</td>
+      <td style="text-align: right">8.81</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">354×7.35<br>#1987</td>
       <td style="text-align: right">265×83<br>(83)</td>
@@ -250,7 +250,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评分（暂定）">9-nine 整体评价</a>（暂定）</td>
-      <td style="text-align: right">8.75</td>
+      <td style="text-align: right">8.72</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
