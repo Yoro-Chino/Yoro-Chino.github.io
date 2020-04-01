@@ -95,7 +95,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 03 月 21 日
+评分最新更新日期：2020 年 04 月 01 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -307,7 +307,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">-</td>
       <td style="text-align: right">185×7.16<br>#2524</td>
       <td style="text-align: right">263×75<br>(75)</td>
-      <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">轻剧情萌</td>
     </tr>
   </tbody>
 </table>
