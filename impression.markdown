@@ -162,7 +162,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
-      <td style="text-align: right">8.21</td>
+      <td style="text-align: right">8.30</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
@@ -171,7 +171,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">4</td>
       <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
-      <td style="text-align: right">8.70</td>
+      <td style="text-align: right">8.68</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">1181×7.48<br>#1544</td>
       <td style="text-align: right">1234×80<br>(80)</td>
@@ -294,7 +294,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">15</td>
       <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a></td>
-      <td style="text-align: right">9.54</td>
+      <td style="text-align: right">9.56</td>
       <td style="text-align: center">SS</td>
       <td style="text-align: right">504×7.96<br>#569</td>
       <td style="text-align: right">857×82<br>(84)</td>
