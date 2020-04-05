@@ -95,7 +95,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 04 月 01 日
+评分最新更新日期：2020 年 04 月 05 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -162,7 +162,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
-      <td style="text-align: right">8.31</td>
+      <td style="text-align: right">8.37</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
