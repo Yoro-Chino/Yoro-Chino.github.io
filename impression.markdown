@@ -130,7 +130,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <th style="text-align: center">Rank</th>
       <th style="text-align: right">Bangumi</th>
       <th style="text-align: right">EGS</th>
-      <th style="text-align: center; min-width: 80px">分类</th>
+      <th style="text-align: center; min-width: 75px">分类</th>
       <th style="text-align: center">推荐度</th>
     </tr>
   </thead>
