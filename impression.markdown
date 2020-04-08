@@ -95,7 +95,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 04 月 05 日
+评分最新更新日期：2020 年 04 月 08 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -110,13 +110,15 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 20/03/09 更新：为了解决 8 分和 9 分阻塞的问题，采用 MoeImp-v2 和 MoeImp-N2。主要改动是将印象分项目高低分差别比重拉大，按照原有印象分 `x` 按照 Excel 公式 ~~`=IF(x>9,2.5*x-15,MAX(5*x-37.5,0))`~~ `=IF(x>9,2*x-10,MAX(6*x-46,0))` 换算成新的印象分，其余不变。该结果即日起应用至 MoeImp AVG/Gal 的所有项目。此后的分数以 MoeImp-N2 为准，其余分数均为参考。
 
-20/03/22 更新：从本页面移除 MoeImp-v1 和 MoeImp-N，MoeImp-v1 和 MoeImp-N（即旧版评分）可从作品对应页面查看。同时添加 Bangumi 与 EGS 分数作为参考（数据截至 20/03/22 或对应作品 MoeImp 分数创建日期），Bangumi 排名用 # 表示，EGS 中位数以括号表示。
+20/03/22 更新：从本页面移除 MoeImp-v1 和 MoeImp-N，MoeImp-v1 和 MoeImp-N（即旧版评分）~~可从作品对应页面查看~~已被移除。同时添加 Bangumi 与 EGS 分数作为参考（数据截至 20/03/22 或对应作品 MoeImp 分数创建日期），Bangumi 排名用 # 表示，EGS 中位数以括号表示。
 
 20/03/28 更新：从 MoeImp #15 「金色 Loveriche」开始不再提供旧版评分，原有的旧版评分彻底废除。从本页面移除 MoeImp-v2，可从作品对应页面查看。此后除非特殊说明 MoeImp 统一指代 MoeImp-N2。
 
 20/03/28 更新：作品总分中系统与音乐加分的倍数从原有的 1.0 调整为 0.6。
 
 20/03/06 更新：考虑到部分作品存在「一线封神」的情况，在部分线路作品质量远高于或者远差于其他线路的时候试行采用非完全平均的线路权重，典型的例子就是 Making\*Lovers。
+
+20/04/07 更新：从 MoeImp #17 「ラブラブル ~Lover Able~」开始添加「推荐度」，即作品与我个人偏好的符合程度与对与我类似的（以萌系作品为主的）玩家的推荐程度，由高到低为 T0、T1、T1.5、T2、T2.5、T3、T4。同时整理并添加之前作品的推荐度。
 
 <div class="table-responsive">
 <table>
@@ -129,6 +131,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <th style="text-align: right">Bangumi</th>
       <th style="text-align: right">EGS</th>
       <th style="text-align: center; min-width: 80px">分类</th>
+      <th style="text-align: center">推荐度</th>
     </tr>
   </thead>
   <tbody>
@@ -140,6 +143,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
       <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td style="text-align: right">1</td>
@@ -149,6 +153,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">534×7.61<br>#1193</td>
       <td style="text-align: right">444×81<br>(80)</td>
       <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">2</td>
@@ -158,6 +163,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">149×7.73<br>#972</td>
       <td style="text-align: right">683×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">3</td>
@@ -167,6 +173,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
       <td style="text-align: center">轻剧情萌</td>
+      <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">4</td>
@@ -176,6 +183,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">1181×7.48<br>#1544</td>
       <td style="text-align: right">1234×80<br>(80)</td>
       <td style="text-align: center">轻剧情萌</td>
+      <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">5</td>
@@ -185,6 +193,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">930×6.95<br>#3254</td>
       <td style="text-align: right">579×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌</td>
+      <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">6</td>
@@ -194,6 +203,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">235×7.14<br>#2621</td>
       <td style="text-align: right">205×76<br>(78)</td>
       <td style="text-align: center">搞笑萌</td>
+      <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">8</td>
@@ -203,6 +213,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">119×6.76<br>#3519</td>
       <td style="text-align: right">37×71<br>(70)</td>
       <td style="text-align: center">百合</td>
+      <td style="text-align: center">T4</td>
     </tr>
     <tr>
       <td style="text-align: right">A1</td>
@@ -212,15 +223,17 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">403×8.16<br>#330</td>
       <td style="text-align: right">-</td>
       <td style="text-align: center">全年龄</td>
+      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td style="text-align: right">9</td>
       <td><a href="http://yoro.xyz/impression/hak">HaremKingdom</a>（已弃坑）</td>
-      <td style="text-align: right">2.88</td>
+      <td style="text-align: right">2.68</td>
       <td style="text-align: center">D</td>
       <td style="text-align: right">52×7.27<br>#2064</td>
       <td style="text-align: right">77×76<br>(75)</td>
       <td style="text-align: center">搞笑萌</td>
+      <td style="text-align: center">T3</td>
     </tr>
     <tr>
       <td style="text-align: right">11A</td>
@@ -230,6 +243,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
       <td style="text-align: center" rowspan="4">剧情萌</td>
+      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td style="text-align: right">11B</td>
@@ -238,6 +252,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S+</td>
       <td style="text-align: right">591×7.43<br>#1725</td>
       <td style="text-align: right">354×81<br>(80)</td>
+      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td style="text-align: right">11C</td>
@@ -246,6 +261,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S</td>
       <td style="text-align: right">354×7.35<br>#1987</td>
       <td style="text-align: right">265×83<br>(83)</td>
+      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td style="text-align: right">11</td>
@@ -254,15 +270,17 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
+      <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">12</td>
       <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
-      <td style="text-align: right">8.50</td>
+      <td style="text-align: right">8.53</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">571×7.73<br>#948</td>
       <td style="text-align: right">712×81<br>(80)</td>
       <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">T0</td>
     </tr>
     <tr>
       <td style="text-align: right">13</td>
@@ -272,6 +290,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">1214×8.71<br>#34</td>
       <td style="text-align: right">4095×85<br>(90)</td>
       <td style="text-align: center">气氛 - 郁</td>
+      <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">14</td>
@@ -281,15 +300,17 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">262×7.03<br>#2935</td>
       <td style="text-align: right">383×78<br>(79)</td>
       <td style="text-align: center">搞笑萌</td>
+      <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">7</td>
-      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（未完成）</td>
+      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（未完成）**</td>
       <td style="text-align: right">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: right">2313×8.88<br>#12</td>
       <td style="text-align: right">2223×89<br>(94)</td>
       <td style="text-align: center">胃药</td>
+      <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">15</td>
@@ -299,6 +320,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">504×7.96<br>#569</td>
       <td style="text-align: right">857×82<br>(84)</td>
       <td style="text-align: center">纯爱萌<br>气氛 - 泣*</td>
+      <td style="text-align: center">T0</td>
     </tr>
     <tr>
       <td style="text-align: right">16</td>
@@ -308,12 +330,25 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">225×7.15<br>#2651</td>
       <td style="text-align: right">271×75<br>(75)</td>
       <td style="text-align: center">轻剧情萌</td>
+      <td style="text-align: center">T1.5</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">17</td>
+      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル ~Lover Able~</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">79×7.56<br>#1407</td>
+      <td style="text-align: right">885×79<br>(80)</td>
+      <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">T2.5</td>
     </tr>
   </tbody>
 </table>
 </div>
 
 \* 怎么说呢……金恋这部作品说它是那种没有剧情的日常甜萌也不太准确，说它是魔宴千恋那种轻剧情的话感觉剧情又没多到那个程度，况且这作还有一条特殊的线路，所以分类上不太好分。
+
+\*\* 因各种原因本页面 White Album 2 条目只对 coda 部分进行评价，「三女线」暂时不打算动（）
 
 注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
