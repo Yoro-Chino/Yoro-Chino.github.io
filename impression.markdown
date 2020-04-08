@@ -148,7 +148,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
-      <td style="text-align: right">7.51</td>
+      <td style="text-align: right">7.57</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">534×7.61<br>#1193</td>
       <td style="text-align: right">444×81<br>(80)</td>
