@@ -334,7 +334,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     </tr>
     <tr>
       <td style="text-align: right">17</td>
-      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル ~Lover Able~</a>（未完成）</td>
+      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル ~Lover Able~</a></td>
       <td style="text-align: right">8.30</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">79×7.56<br>#1407</td>
