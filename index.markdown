@@ -3,15 +3,15 @@ layout: home
 title: "依田萌绘 / 依田もえ"
 ---
 
-<img src="https://i.loli.net/2020/01/07/oJ7jGgQIZKuMBnf.jpg" alt="依田萌绘 1st “HoshiRabbit”" width="324" height="324" align="middle" />
+<img src="http://yoro.xyz/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
 
-半退坑音游狗，智乃厨，大半个柚子厨
+准博士生，大半退坑音游狗，智乃厨
 
-最近在追《恋爱小行星》，好看
+信奉「可爱即正义」，柚子厨，SMEE 厨
 
-信奉「可爱即正义」
+没事闲的会推 gal 然后随便写点感想打个分什么的
 
-「千年の恋が、いつか万の花を咲かせられるように。」
+最新灵感：「桃子汽水味的夏天女孩」
 
 
 
