@@ -21,6 +21,7 @@ title: "依田萌绘 / 依田もえ"
 [提问箱](https://www.popiask.cn/Yoda_Moe)   <br />
 [MoeImp](http://yoro.xyz/impression) <br />
 [Bilibili@依田もえ](https://space.bilibili.com/431901596)   <br />
+[Bangumi@依田もえ](http://bgm.tv/user/523627)<br />
 [Bilibili@Yoro_Chino](https://space.bilibili.com/12802748)
 
 ---
