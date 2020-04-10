@@ -8,6 +8,8 @@ permalink: /impression/loverable
 
 主页面：[MoeImp](http://yoro.xyz/impression)
 
+续作：[MoeImp - 同棲ラブラブル](http://yoro.xyz/impression/dsla)
+
 人设分为声音和作画两部分，按先后顺序标明。
 
 ---
