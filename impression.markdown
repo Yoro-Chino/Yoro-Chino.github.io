@@ -243,7 +243,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
       <td style="text-align: center" rowspan="4">剧情萌</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center" rowspan="4">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">11B</td>
@@ -252,7 +252,6 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S+</td>
       <td style="text-align: right">591×7.43<br>#1725</td>
       <td style="text-align: right">354×81<br>(80)</td>
-      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td style="text-align: right">11C</td>
@@ -261,7 +260,6 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S</td>
       <td style="text-align: right">354×7.35<br>#1987</td>
       <td style="text-align: right">265×83<br>(83)</td>
-      <td style="text-align: center">-</td>
     </tr>
     <tr>
       <td style="text-align: right">11</td>
@@ -270,7 +268,6 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
-      <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">12</td>
@@ -333,24 +330,30 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
-      <td style="text-align: right">17</td>
+      <td style="text-align: right">17A</td>
       <td><a href="http://yoro.xyz/impression/loverable">ラブラブル ~Lover Able~</a></td>
       <td style="text-align: right">8.30</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">79×7.56<br>#1407</td>
       <td style="text-align: right">885×79<br>(80)</td>
-      <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">T2</td>
+      <td style="text-align: center" rowspan="3">甜萌</td>
+      <td style="text-align: center" rowspan="3">T1.5***</td>
     </tr>
     <tr>
-      <td style="text-align: right">18</td>
-      <td><a href="http://yoro.xyz/impression/dsla">同棲ラブラブル</a>（未完成）</td>
+      <td style="text-align: right">17B</td>
+      <td><a href="http://yoro.xyz/impression/loverable">同棲ラブラブル</a>（未完成）</td>
       <td style="text-align: right">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: right">45×7.64<br>#1290</td>
       <td style="text-align: right">360×75<br>(75)</td>
-      <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">-***</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">17</td>
+      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル 系列</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: right">-</td>
     </tr>
   </tbody>
 </table>
@@ -360,7 +363,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 \*\* 因各种原因本页面 White Album 2 条目只对 coda 部分进行评价，「三女线」暂时不打算动（）
 
-\*\*\* 强烈建议在游玩 ラブラブル 后游玩，因此不提供推荐度。
+\*\*\* 强烈建议在游玩 ラブラブル 后游玩 同棲ラブラブル，推荐度以整体提供。
 
 注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
