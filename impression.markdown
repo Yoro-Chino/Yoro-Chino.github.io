@@ -243,7 +243,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
       <td style="text-align: center" rowspan="4">剧情萌</td>
-      <td style="text-align: center" rowspan="4">T1</td>
+      <td style="text-align: center" rowspan="4">T1 ***</td>
     </tr>
     <tr>
       <td style="text-align: right">11B</td>
@@ -337,7 +337,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">79×7.56<br>#1407</td>
       <td style="text-align: right">885×79<br>(80)</td>
       <td style="text-align: center" rowspan="3">甜萌</td>
-      <td style="text-align: center" rowspan="3">T1.5***</td>
+      <td style="text-align: center" rowspan="3">T1.5 ***</td>
     </tr>
     <tr>
       <td style="text-align: right">17B</td>
@@ -363,7 +363,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 \*\* 因各种原因本页面 White Album 2 条目只对 coda 部分进行评价，「三女线」暂时不打算动（）
 
-\*\*\* 强烈建议在游玩 ラブラブル 后游玩 同棲ラブラブル，推荐度以整体提供。
+\*\*\* 强烈建议在按顺序游玩，推荐度以整体提供。
 
 注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
