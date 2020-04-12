@@ -341,17 +341,17 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     </tr>
     <tr>
       <td style="text-align: right">17B</td>
-      <td><a href="http://yoro.xyz/impression/loverable">同棲ラブラブル</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td><a href="http://yoro.xyz/impression/loverable">同棲ラブラブル</a></td>
+      <td style="text-align: right">8.42</td>
+      <td style="text-align: center">A+</td>
       <td style="text-align: right">45×7.64<br>#1290</td>
       <td style="text-align: right">360×75<br>(75)</td>
     </tr>
     <tr>
       <td style="text-align: right">17</td>
-      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル 系列</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル 系列</a></td>
+      <td style="text-align: right">8.36</td>
+      <td style="text-align: center">A+</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
     </tr>
