@@ -81,7 +81,7 @@ permalink: /impression
 
 |Rank|MoeImp-N2|评价等级|
 |:------:|:------:|:------|
-|SSS|≥ 10.00|无可挑剔的绝对完美，人类文明之光|
+|SSS|≥ 10.00|人类文明之光|
 |SS|9.50~9.99|稀有的超神作，值得每一个人都玩一玩|
 |S+|9.00~9.49|当之无愧的神作|
 |S|8.50~8.99|非常优秀的作品|
@@ -95,7 +95,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 04 月 13 日
+评分最新更新日期：2020 年 04 月 15 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -158,7 +158,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">2</td>
       <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
-      <td style="text-align: right">8.01</td>
+      <td style="text-align: right">8.04</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">149×7.73<br>#972</td>
       <td style="text-align: right">683×81<br>(81)</td>
