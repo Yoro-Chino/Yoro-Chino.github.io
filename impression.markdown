@@ -355,6 +355,16 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
     </tr>
+    <tr>
+      <td style="text-align: right">18</td>
+      <td><a href="http://yoro.xyz/impression/ks">カノジョ＊ステップ（彼女*心渐近）</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">123×7.16<br>#2522</td>
+      <td style="text-align: right">323×77<br>(78)</td>
+      <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">-</td>
+    </tr>
   </tbody>
 </table>
 </div>
