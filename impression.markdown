@@ -357,7 +357,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     </tr>
     <tr>
       <td style="text-align: right">18</td>
-      <td><a href="http://yoro.xyz/impression/ks">カノジョ＊ステップ（彼女*心渐近）</a>（未完成）</td>
+      <td><a href="http://yoro.xyz/impression/ks">カノジョ＊ステップ（彼女*心渐近）</a></td>
       <td style="text-align: right">8.19</td>
       <td style="text-align: center">A+</td>
       <td style="text-align: right">128×7.19<br>#2465</td>
