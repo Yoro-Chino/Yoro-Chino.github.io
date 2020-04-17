@@ -130,7 +130,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <th style="text-align: center">Rank</th>
       <th style="text-align: right">Bangumi</th>
       <th style="text-align: right">EGS</th>
-      <th style="text-align: center; min-width: 75px">分类</th>
+      <th style="text-align: center; min-width: 70px">分类</th>
       <th style="text-align: center">推荐度</th>
     </tr>
   </thead>
@@ -163,7 +163,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">149×7.73<br>#972</td>
       <td style="text-align: right">683×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">T1.5</td>
+      <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">3</td>
@@ -363,7 +363,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: right">123×7.16<br>#2522</td>
       <td style="text-align: right">323×77<br>(78)</td>
       <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">T1.5</td>
     </tr>
   </tbody>
 </table>
