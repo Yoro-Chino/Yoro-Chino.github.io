@@ -95,7 +95,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 04 月 15 日
+评分最新更新日期：2020 年 04 月 17 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -358,9 +358,9 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">18</td>
       <td><a href="http://yoro.xyz/impression/ks">カノジョ＊ステップ（彼女*心渐近）</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: right">123×7.16<br>#2522</td>
+      <td style="text-align: right">8.19</td>
+      <td style="text-align: center">A+</td>
+      <td style="text-align: right">128×7.19<br>#2465</td>
       <td style="text-align: right">323×77<br>(78)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1.5</td>
