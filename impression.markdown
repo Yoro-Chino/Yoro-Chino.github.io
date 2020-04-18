@@ -198,7 +198,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">6</td>
       <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
-      <td style="text-align: right">7.29</td>
+      <td style="text-align: right">7.35</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">235×7.14<br>#2621</td>
       <td style="text-align: right">205×76<br>(78)</td>
@@ -292,7 +292,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">14</td>
       <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a></td>
-      <td style="text-align: right">7.34</td>
+      <td style="text-align: right">7.40</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">262×7.03<br>#2935</td>
       <td style="text-align: right">383×78<br>(79)</td>
