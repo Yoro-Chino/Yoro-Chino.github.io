@@ -372,7 +372,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
       <td style="text-align: center">-</td>
       <td style="text-align: right">956×9.11<br>#4</td>
       <td style="text-align: right">1176×88<br>(90)</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">剧情</td>
       <td style="text-align: center">-</td>
     </tr>
   </tbody>
