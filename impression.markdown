@@ -312,7 +312,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">15</td>
       <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a></td>
-      <td style="text-align: right">9.53</td>
+      <td style="text-align: right">9.56</td>
       <td style="text-align: center">SS</td>
       <td style="text-align: right">504×7.96<br>#569</td>
       <td style="text-align: right">857×82<br>(84)</td>
