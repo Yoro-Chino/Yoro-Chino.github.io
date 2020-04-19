@@ -48,7 +48,7 @@ permalink: /impression/sakuuta
 
 在平淡的日常中，之前的伏笔相互串联，最终展开了令人震撼的画卷。
 
-#### III 真琴
+#### [III 真琴](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-3-makoto.html)
 
 印象分 9.3→8.6/10 情感 0.3/0.5  
 剧情深度与伏笔处理 0.15/0.3  
