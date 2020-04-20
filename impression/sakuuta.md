@@ -26,7 +26,7 @@ permalink: /impression/sakuuta
 | 整体评分 | -<br />N- |
 |Rank| - |
 
-#### I
+#### I Fruhlingsbeginn
 
 印象分 9.15→8.3/10 趣味 0.15/0.5 情感 0.1/0.3  
 人物刻画 0.2/0.5 剧情表现 0.1/0.5  
@@ -34,12 +34,14 @@ permalink: /impression/sakuuta
 某个特别烦人的外国人配角 -0.03  
 章节总计 9.37/12.5
 
+I 春天的开始
+
 如某个把这作推荐给我的 H 姓群友所言，这一部分就是废萌。  
 就是没啥内容的日常，显得这作节奏特别慢，然后还塞了个特别烦人的外国人配角。
 
 （与其说这一部分是我给 I 章的打分，不如说也包含了 II 章前半段）
 
-#### [II](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-2.html)
+#### [II Abend](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-2.html)
 
 印象分 9.6→9.2/10 情感 0.6/0.8  
 人物刻画 0.4/0.5 剧情表现 0.3/0.5  
@@ -47,9 +49,11 @@ permalink: /impression/sakuuta
 剧情深度与伏笔处理 +0.1 趣味 +0.1  
 章节总计 11.25/12.5
 
+II 傍晚
+
 在平淡的日常中，之前的伏笔相互串联，最终展开了令人震撼的画卷。
 
-#### [III 真琴](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-3-makoto.html)
+#### [III PicaPica 真琴](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-3-makoto.html)
 
 印象分 9.3→8.6/10 情感 0.3/0.5  
 剧情深度与伏笔处理 0.15/0.3  
@@ -66,7 +70,7 @@ ED 设计 +0.1
 
 唉，主要是我对这种家族斗争和艺术本身都没太大兴趣。
 
-#### III 稟
+#### III Olympia 稟
 
 印象分 9.45→8.9/10 情感 0.3/0.3  
 剧情深度与伏笔处理 0.3/0.5  
@@ -103,3 +107,6 @@ ED 设计 +0.1
 音乐 +0.5  
 作品总计 -/N- -
 
+---
+
+鸣谢：谷歌翻译
