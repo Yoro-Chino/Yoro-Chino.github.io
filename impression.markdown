@@ -367,7 +367,7 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     </tr>
     <tr>
       <td style="text-align: right">19</td>
-      <td><a href="http://yoro.xyz/impression/sakuuta">サクラノ詩 －櫻の森の上を舞う－</a>（未完成）</td>
+      <td><a href="http://yoro.xyz/impression/sakuuta">サクラノ詩 －櫻の森の上を舞う－</a></td>
       <td style="text-align: right">10.04</td>
       <td style="text-align: center">SSS</td>
       <td style="text-align: right">956×9.11<br>#4</td>
