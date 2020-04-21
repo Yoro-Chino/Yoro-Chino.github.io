@@ -81,21 +81,21 @@ permalink: /impression
 
 |Rank|MoeImp-N2|评价等级|
 |:------:|:------:|:------|
-|SSS|≥ 10.00|人类文明之光|
+|SSS|≥ 10.00|……|
 |SS|9.50~9.99|稀有的超神作，值得每一个人都玩一玩|
-|S+|9.00~9.49|当之无愧的神作|
+|S+|9.00~9.49|当之无愧的神作，有着特殊的闪光点|
 |S|8.50~8.99|非常优秀的作品|
 |A+|8.00~8.49|良作，看起来没什么缺点，但是有些地方差点意思|
 |A|7.50~7.99|整体良作，但是有明显缺陷|
 |B|6.50~7.49|及格的作品，但也就那样|
-|C|5.50~6.49|我姑且能推完且愿意给个评分（没推过的就没必要浪费这时间了）|
-|D|< 5.50|我甚至不想推完|
+|C|5.50~6.49|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
+|D|< 5.50|我甚至不想推完，一般是按照推完的部分的比例计算出的分数|
 
 SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告诉我。
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。（20/03/03 更新）
 
-评分最新更新日期：2020 年 04 月 17 日
+评分最新更新日期：2020 年 04 月 21 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -368,12 +368,12 @@ SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告�
     <tr>
       <td style="text-align: right">19</td>
       <td><a href="http://yoro.xyz/impression/sakuuta">サクラノ詩 －櫻の森の上を舞う－</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: right">10.04</td>
+      <td style="text-align: center">SSS</td>
       <td style="text-align: right">956×9.11<br>#4</td>
       <td style="text-align: right">1176×88<br>(90)</td>
       <td style="text-align: center">剧情</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">T0</td>
     </tr>
   </tbody>
 </table>
