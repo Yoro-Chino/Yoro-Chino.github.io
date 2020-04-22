@@ -361,17 +361,17 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">20A</td>
-      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a></td>
+      <td style="text-align: right">7.79</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">380×6.61<br>#4028</td>
       <td style="text-align: right">231×76<br>(77)</td>
       <td style="text-align: center" rowspan="2">轻剧情萌<br />气氛-燃⁵</td>
-      <td style="text-align: center" rowspan="2">T2</td>
+      <td style="text-align: center" rowspan="2">T2~T3⁶</td>
     </tr>
     <tr>
       <td style="text-align: right">20B</td>
-      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは -椿恋歌-</a>（未开始）</td>
+      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは -椿恋歌-</a>（未完成）</td>
       <td style="text-align: right">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: right">194×7.01<br>#2996</td>
@@ -390,6 +390,8 @@ permalink: /impression
 ⁴ 因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。ラブラブル系列同理。强烈建议在按顺序游玩，推荐度以整体提供。
 
 ⁵ 我大约是可以理解这一作试图带一点战斗系的燃系风格的，但是我只能说勉勉强强。
+
+⁶ 絆きらめく恋いろは 的推荐度按线路给出。椿线 T2，其他线路 T3。
 
 注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
