@@ -77,17 +77,16 @@ permalink: /impression
 
 对于 AVG/Gal 的评分相对来说形成了一个比较成体系的体系，评价等级按照下表，大概就是这么个等级。
 
-|Rank|MoeImp-N2|评价等级|
-|:------:|:------:|:------|
-|SSS|≥ 10.00|……|
-|SS|9.50~9.99|稀有的超神作，值得每一个人都玩一玩|
-|S+|9.00~9.49|当之无愧的神作，有着特殊的闪光点|
-|S|8.50~8.99|非常优秀的作品|
-|A+|8.00~8.49|良作，看起来没什么缺点，但是有些地方差点意思|
-|A|7.50~7.99|整体良作，但是有明显缺陷|
-|B|6.50~7.49|及格的作品，但也就那样|
-|C|5.50~6.49|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
-|D|< 5.50|我甚至不想推完，一般是按照推完的部分的比例计算出的分数|
+|Rank|MoeImp-N2|评分|评价|
+|:------:|:------:|---:|:------|
+|SSS|≥ 10.00|10|……|
+|SS|9.50~9.99|10|稀有的超神作，值得每一个人都玩一玩|
+|S+|9.00~9.49|9|当之无愧的神作，有着特殊的闪光点|
+|S|8.40~8.99|9|非常优秀的作品|
+|A|8.00~8.39|8|良作，看起来没什么缺点，但是有些地方差点意思|
+|B|6.50~7.99|7|及格的作品，但是有明显缺陷|
+|C|5.50~6.49|6|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
+|D|< 5.50|<6|我甚至不想推完，一般是按照推完的部分的比例计算出的分数|
 
 ~~SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告诉我。~~ 已经有了。
 
@@ -360,22 +359,14 @@ permalink: /impression
       <td style="text-align: center">T0</td>
     </tr>
     <tr>
-      <td style="text-align: right">20A</td>
-      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a></td>
+      <td style="text-align: right">20</td>
+      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a>（含 -椿恋歌-）</td>
       <td style="text-align: right">7.79</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">380×6.61<br>#4028</td>
       <td style="text-align: right">231×76<br>(77)</td>
-      <td style="text-align: center" rowspan="2">轻剧情萌<br />气氛-燃⁵</td>
-      <td style="text-align: center" rowspan="2">T2~T3⁶</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">20B</td>
-      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは -椿恋歌-</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: right">194×7.01<br>#2996</td>
-      <td style="text-align: right">115×76<br>(78)</td>
+      <td style="text-align: center">轻剧情萌<br />气氛-燃⁵</td>
+      <td style="text-align: center">T2~T3⁶</td>
     </tr>
   </tbody>
 </table>
