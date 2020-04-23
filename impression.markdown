@@ -366,7 +366,7 @@ permalink: /impression
       <td style="text-align: right">380×6.61<br>#4028</td>
       <td style="text-align: right">231×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌<br />气氛-燃⁵</td>
-      <td style="text-align: center">T2~T3⁶</td>
+      <td style="text-align: center">T2⁶</td>
     </tr>
   </tbody>
 </table>
