@@ -132,7 +132,7 @@ permalink: /impression
       <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
       <td style="text-align: right">8.00</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">534×7.61<br>#1193</td>
       <td style="text-align: right">444×81<br>(80)</td>
       <td style="text-align: center">甜萌</td>
@@ -142,7 +142,7 @@ permalink: /impression
       <td style="text-align: right">2</td>
       <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
       <td style="text-align: right">8.12</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">149×7.73<br>#972</td>
       <td style="text-align: right">683×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
@@ -152,7 +152,7 @@ permalink: /impression
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
       <td style="text-align: right">8.37</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
       <td style="text-align: center">轻剧情萌</td>
@@ -172,7 +172,7 @@ permalink: /impression
       <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
       <td style="text-align: right">8.31</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">930×6.95<br>#3254</td>
       <td style="text-align: right">579×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌</td>
@@ -222,7 +222,7 @@ permalink: /impression
       <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色（九條都）">9-nine 九次九日九重色</a></td>
       <td style="text-align: right">7.97</td>
-      <td style="text-align: center">A</td>
+      <td style="text-align: center">B</td>
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
       <td style="text-align: center" rowspan="4">剧情萌</td>
@@ -306,7 +306,7 @@ permalink: /impression
       <td style="text-align: right">16</td>
       <td><a href="http://yoro.xyz/impression/stella">喫茶ステラと死神の蝶（星光咖啡馆与死神之蝶）</a></td>
       <td style="text-align: right">8.30</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">225×7.15<br>#2651</td>
       <td style="text-align: right">271×75<br>(75)</td>
       <td style="text-align: center">轻剧情萌</td>
@@ -316,7 +316,7 @@ permalink: /impression
       <td style="text-align: right">17A</td>
       <td><a href="http://yoro.xyz/impression/loverable">ラブラブル ~Lover Able~</a></td>
       <td style="text-align: right">8.30</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">79×7.56<br>#1407</td>
       <td style="text-align: right">885×79<br>(80)</td>
       <td style="text-align: center" rowspan="3">甜萌</td>
@@ -326,7 +326,7 @@ permalink: /impression
       <td style="text-align: right">17B</td>
       <td><a href="http://yoro.xyz/impression/loverable">同棲ラブラブル</a></td>
       <td style="text-align: right">8.42</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">S</td>
       <td style="text-align: right">45×7.64<br>#1290</td>
       <td style="text-align: right">360×75<br>(75)</td>
     </tr>
@@ -334,7 +334,7 @@ permalink: /impression
       <td style="text-align: right">17</td>
       <td><a href="http://yoro.xyz/impression/loverable">ラブラブル 系列</a></td>
       <td style="text-align: right">8.36</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
     </tr>
@@ -342,7 +342,7 @@ permalink: /impression
       <td style="text-align: right">18</td>
       <td><a href="http://yoro.xyz/impression/ks">カノジョ＊ステップ（彼女*心渐近）</a></td>
       <td style="text-align: right">8.19</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">128×7.19<br>#2465</td>
       <td style="text-align: right">323×77<br>(78)</td>
       <td style="text-align: center">甜萌</td>
@@ -362,7 +362,7 @@ permalink: /impression
       <td style="text-align: right">20</td>
       <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a>（含 -椿恋歌-）</td>
       <td style="text-align: right">7.79</td>
-      <td style="text-align: center">A</td>
+      <td style="text-align: center">B</td>
       <td style="text-align: right">380×6.61<br>#4028</td>
       <td style="text-align: right">231×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌<br />气氛-燃⁵</td>
