@@ -26,7 +26,7 @@ SMEE 9th Project 「Making\*Lovers」（2017）
 | 咲   | 8.70 |15%|
 | レイナ | 6.80 |10%|
 | 整体评分 |10.13<br />N8.00||
-| Rank |A+||
+| Rank |A||
 
 ### [亚子](http://yoro.xyz/kawaiigirls/2019/12/12/ml-ako-mashiro.html)
 

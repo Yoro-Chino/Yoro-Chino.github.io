@@ -220,17 +220,17 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">11A</td>
-      <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色（九條都）">9-nine 九次九日九重色</a></td>
+      <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色">9-nine 九次九日九重色</a></td>
       <td style="text-align: right">7.97</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
-      <td style="text-align: center" rowspan="4">剧情萌</td>
-      <td style="text-align: center" rowspan="4">T1⁴</td>
+      <td style="text-align: center" rowspan="5">剧情萌</td>
+      <td style="text-align: center" rowspan="5">T1⁴</td>
     </tr>
     <tr>
       <td style="text-align: right">11B</td>
-      <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音（新海天）">9-nine 天色天歌天籁音</a></td>
+      <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音">9-nine 天色天歌天籁音</a></td>
       <td style="text-align: right">9.37</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">591×7.43<br>#1725</td>
@@ -238,15 +238,23 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">11C</td>
-      <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风（香坂春风）">9-nine 春色春恋春熙风</a></td>
+      <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风">9-nine 春色春恋春熙风</a></td>
       <td style="text-align: right">8.81</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">354×7.35<br>#1987</td>
       <td style="text-align: right">265×83<br>(83)</td>
     </tr>
     <tr>
+      <td style="text-align: right">11D</td>
+      <td><a href="http://yoro.xyz/impression/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">-×-<br>#-</td>
+      <td style="text-align: right">-×-<br>(-)</td>
+    </tr>
+    <tr>
       <td style="text-align: right">11</td>
-      <td><a href="http://yoro.xyz/impression/9nine#整体评分（暂定）">9-nine 整体评价</a>（暂定）</td>
+      <td><a href="http://yoro.xyz/impression/9nine#整体评价">9-nine 整体评价</a></td>
       <td style="text-align: right">8.72</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
@@ -378,7 +386,7 @@ permalink: /impression
 
 ³ 怎么说呢……金恋这部作品说它是那种没有剧情的日常甜萌也不太准确，说它是魔宴千恋那种轻剧情的话感觉剧情又没多到那个程度，况且这作还有一条特殊的线路，所以分类上不太好分。
 
-⁴ 因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。ラブラブル系列同理。强烈建议在按顺序游玩，推荐度以整体提供。
+⁴ 因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。ラブラブル系列同理。强烈建议在按顺序游玩，推荐度以整体提供。另：9-nine 雪色雪花雪之痕 的大众评分数过少，之后更新。
 
 ⁵ 我大约是可以理解这一作试图带一点战斗系的燃系风格的，但是我只能说勉勉强强。
 
