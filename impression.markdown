@@ -105,6 +105,8 @@ permalink: /impression
 以及所谓加分项就是我在整体观感 / 印象分基础之上愿意拿出来特别强调的东西。<br />
 详细解读见[这里](http://yoro.xyz/kawaiigirls/2020/03/04/moeimp.html)。
 
+### [计算方式](http://yoro.xyz/impression/exp)
+
 ### [更新日志](http://yoro.xyz/impression/history)
 
 ### 得分总览
@@ -221,7 +223,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色">9-nine 九次九日九重色</a></td>
-      <td style="text-align: right">7.97</td>
+      <td style="text-align: right">7.99</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">665×6.57<br>#4089</td>
       <td style="text-align: right">410×74<br>(75)</td>
@@ -231,7 +233,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11B</td>
       <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音">9-nine 天色天歌天籁音</a></td>
-      <td style="text-align: right">9.37</td>
+      <td style="text-align: right">9.47</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">591×7.43<br>#1725</td>
       <td style="text-align: right">354×81<br>(80)</td>
@@ -239,7 +241,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11C</td>
       <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风">9-nine 春色春恋春熙风</a></td>
-      <td style="text-align: right">8.81</td>
+      <td style="text-align: right">8.75</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">354×7.35<br>#1987</td>
       <td style="text-align: right">265×83<br>(83)</td>
@@ -247,15 +249,15 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11D</td>
       <td><a href="http://yoro.xyz/impression/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: right">8.71</td>
+      <td style="text-align: center">S</td>
       <td style="text-align: right">-×-<br>#-</td>
       <td style="text-align: right">-×-<br>(-)</td>
     </tr>
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评价">9-nine 整体评价</a></td>
-      <td style="text-align: right">8.72</td>
+      <td style="text-align: right">8.73</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
