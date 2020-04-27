@@ -378,6 +378,16 @@ permalink: /impression
       <td style="text-align: center">轻剧情萌<br />气氛-燃⁵</td>
       <td style="text-align: center">T2⁶</td>
     </tr>
+    <tr>
+      <td style="text-align: right">21</td>
+      <td><a href="http://yoro.xyz/impression/cd">Clover Day's</a> Plus</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">887×7.42<br>#1781</td>
+      <td style="text-align: right">720×78<br>(80)</td>
+      <td style="text-align: center">甜萌<br />治愈</td>
+      <td style="text-align: center">T0</td>
+    </tr>
   </tbody>
 </table>
 </div>
