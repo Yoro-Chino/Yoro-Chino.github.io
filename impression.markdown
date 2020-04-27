@@ -115,6 +115,8 @@ permalink: /impression
 
 按得分排序的表格可在[这里](http://yoro.xyz/MoeImp.png)查看。
 
+推荐度分为 T0、T1、T1.5、T2、T3、T4 ，其中 T0 内部存在顺序，以 T0#n 表示。
+
 <div class="table-responsive">
 <table>
   <thead>
@@ -270,7 +272,7 @@ permalink: /impression
       <td style="text-align: right">571×7.73<br>#948</td>
       <td style="text-align: right">712×81<br>(80)</td>
       <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">T0</td>
+      <td style="text-align: center">T0#4</td>
     </tr>
     <tr>
       <td style="text-align: right">13</td>
@@ -310,7 +312,7 @@ permalink: /impression
       <td style="text-align: right">504×7.96<br>#569</td>
       <td style="text-align: right">857×82<br>(84)</td>
       <td style="text-align: center">纯爱萌<br>气氛 - 泣³</td>
-      <td style="text-align: center">T0</td>
+      <td style="text-align: center">T0#3</td>
     </tr>
     <tr>
       <td style="text-align: right">16</td>
@@ -366,7 +368,7 @@ permalink: /impression
       <td style="text-align: right">956×9.11<br>#4</td>
       <td style="text-align: right">1176×88<br>(90)</td>
       <td style="text-align: center">剧情</td>
-      <td style="text-align: center">T0</td>
+      <td style="text-align: center">T0#1</td>
     </tr>
     <tr>
       <td style="text-align: right">20</td>
@@ -385,8 +387,8 @@ permalink: /impression
       <td style="text-align: center">-</td>
       <td style="text-align: right">887×7.42<br>#1781</td>
       <td style="text-align: right">720×78<br>(80)</td>
-      <td style="text-align: center">甜萌<br />治愈</td>
-      <td style="text-align: center">T0</td>
+      <td style="text-align: center">纯爱萌<br />治愈</td>
+      <td style="text-align: center">T0#2</td>
     </tr>
   </tbody>
 </table>
