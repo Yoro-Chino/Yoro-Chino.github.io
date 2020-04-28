@@ -281,7 +281,7 @@ permalink: /impression
       <td style="text-align: center">S+</td>
       <td style="text-align: right">1214×8.71<br>#34</td>
       <td style="text-align: right">4095×85<br>(90)</td>
-      <td style="text-align: center">气氛 - 郁</td>
+      <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
