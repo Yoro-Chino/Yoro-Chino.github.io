@@ -253,7 +253,7 @@ permalink: /impression
       <td><a href="http://yoro.xyz/impression/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
       <td style="text-align: right">8.71</td>
       <td style="text-align: center">S</td>
-      <td style="text-align: right">54×8.1<br>#587</td>
+      <td style="text-align: right">54×8.09<br>#587</td>
       <td style="text-align: right">142×89<br>(90)</td>
     </tr>
     <tr>
