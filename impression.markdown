@@ -301,7 +301,7 @@ permalink: /impression
       <td style="text-align: center">-</td>
       <td style="text-align: right">2313×8.88<br>#12</td>
       <td style="text-align: right">2223×89<br>(94)</td>
-      <td style="text-align: center">胃药</td>
+      <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
@@ -311,7 +311,7 @@ permalink: /impression
       <td style="text-align: center">SS</td>
       <td style="text-align: right">504×7.96<br>#569</td>
       <td style="text-align: right">857×82<br>(84)</td>
-      <td style="text-align: center">纯爱萌<br>气氛 - 泣³</td>
+      <td style="text-align: center">纯爱萌<br>气氛-泣³</td>
       <td style="text-align: center">T0#3</td>
     </tr>
     <tr>
