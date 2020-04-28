@@ -127,7 +127,7 @@ permalink: /impression
       <th style="text-align: center">Rank</th>
       <th style="text-align: right">Bangumi</th>
       <th style="text-align: right">EGS</th>
-      <th style="text-align: center; min-width: 70px">分类</th>
+      <th style="text-align: center; min-width: 65px">分类</th>
       <th style="text-align: center">推荐度</th>
     </tr>
   </thead>
