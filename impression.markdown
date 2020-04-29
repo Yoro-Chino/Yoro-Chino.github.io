@@ -92,7 +92,7 @@ permalink: /impression
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。
 
-评分最新更新日期：2020 年 04 月 22 日
+评分最新更新日期：2020 年 04 月 29 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -383,8 +383,8 @@ permalink: /impression
     <tr>
       <td style="text-align: right">21</td>
       <td><a href="http://yoro.xyz/impression/cd">Clover Day's</a> Plus</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: right">9.00</td>
+      <td style="text-align: center">S+</td>
       <td style="text-align: right">887×7.42<br>#1781</td>
       <td style="text-align: right">720×78<br>(80)</td>
       <td style="text-align: center">纯爱萌<br />治愈</td>
