@@ -10,7 +10,7 @@ permalink: /impression/history
 
 20/03/09 更新：为了解决 8 分和 9 分阻塞的问题，采用 MoeImp-v2 和 MoeImp-N2。主要改动是将印象分项目高低分差别比重拉大，按照原有印象分 `x` 按照 Excel 公式 ~~`=IF(x>9,2.5*x-15,MAX(5*x-37.5,0))`~~ `=IF(x>9,2*x-10,MAX(6*x-46,0))` 换算成新的印象分，其余不变。该结果即日起应用至 MoeImp AVG/Gal 的所有项目。此后的分数以 MoeImp-N2 为准，其余分数均为参考。
 
-20/03/22 更新：从本页面移除 MoeImp-v1 和 MoeImp-N，MoeImp-v1 和 MoeImp-N（即旧版评分）~~可从作品对应页面查看~~已被移除。同时添加 Bangumi 与 EGS 分数作为参考（数据截至 20/03/22 或对应作品 MoeImp 分数创建日期），Bangumi 排名用 # 表示，EGS 中位数以括号表示。
+20/03/22 更新：从本页面移除 MoeImp-v1 和 MoeImp-N，MoeImp-v1 和 MoeImp-N（即旧版评分）~~可从作品对应页面查看~~已被移除。同时添加 Bangumi 与 EGS 分数作为参考（数据截至 EGS:20/03/22 Bangumi:20/04/29 或对应作品 MoeImp 分数创建日期），Bangumi 排名用 # 表示，EGS 中位数以括号表示。
 
 20/03/28 更新：从 MoeImp #15 「金色 Loveriche」开始不再提供旧版评分，原有的旧版评分彻底废除。从本页面移除 MoeImp-v2，可从作品对应页面查看。此后除非特殊说明 MoeImp 统一指代 MoeImp-N2。
 
