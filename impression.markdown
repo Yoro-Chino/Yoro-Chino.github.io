@@ -155,7 +155,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
-      <td style="text-align: right">8.37</td>
+      <td style="text-align: right">8.33</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">1216×7.21<br>#2430</td>
       <td style="text-align: right">835×78<br>(78)</td>
@@ -165,7 +165,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">4</td>
       <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
-      <td style="text-align: right">8.68</td>
+      <td style="text-align: right">8.55</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">1181×7.48<br>#1544</td>
       <td style="text-align: right">1234×80<br>(80)</td>
@@ -175,7 +175,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
-      <td style="text-align: right">8.31</td>
+      <td style="text-align: right">8.29</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">930×6.95<br>#3254</td>
       <td style="text-align: right">579×76<br>(77)</td>
@@ -235,7 +235,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11B</td>
       <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音">9-nine 天色天歌天籁音</a></td>
-      <td style="text-align: right">9.47</td>
+      <td style="text-align: right">9.39</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">591×7.43<br>#1725</td>
       <td style="text-align: right">354×81<br>(80)</td>
@@ -259,7 +259,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评价">9-nine 整体评价</a></td>
-      <td style="text-align: right">8.73</td>
+      <td style="text-align: right">8.71</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
@@ -317,7 +317,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">16</td>
       <td><a href="http://yoro.xyz/impression/stella">喫茶ステラと死神の蝶（星光咖啡馆与死神之蝶）</a></td>
-      <td style="text-align: right">8.30</td>
+      <td style="text-align: right">8.26</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">225×7.15<br>#2651</td>
       <td style="text-align: right">271×75<br>(75)</td>
