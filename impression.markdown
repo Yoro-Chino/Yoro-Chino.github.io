@@ -138,7 +138,7 @@ permalink: /impression
       <td style="text-align: right">8.00</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">568×7.60<br>#1244</td>
-      <td style="text-align: right">444×81<br>(80)</td>
+      <td style="text-align: right">454×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1¹</td>
     </tr>
@@ -148,7 +148,7 @@ permalink: /impression
       <td style="text-align: right">8.12</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">152×7.73<br>#957</td>
-      <td style="text-align: right">683×81<br>(81)</td>
+      <td style="text-align: right">694×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T2</td>
     </tr>
@@ -158,7 +158,7 @@ permalink: /impression
       <td style="text-align: right">8.33</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">1283×7.21<br>#2463</td>
-      <td style="text-align: right">835×78<br>(78)</td>
+      <td style="text-align: right">857×77<br>(78)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1</td>
     </tr>
@@ -168,7 +168,7 @@ permalink: /impression
       <td style="text-align: right">8.55</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">1238×7.48<br>#1586</td>
-      <td style="text-align: right">1234×80<br>(80)</td>
+      <td style="text-align: right">1258×79<br>(80)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1</td>
     </tr>
@@ -178,7 +178,7 @@ permalink: /impression
       <td style="text-align: right">8.29</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">982×6.92<br>#3382</td>
-      <td style="text-align: right">579×76<br>(77)</td>
+      <td style="text-align: right">606×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
@@ -188,7 +188,7 @@ permalink: /impression
       <td style="text-align: right">7.35</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">257×7.12<br>#2716</td>
-      <td style="text-align: right">205×76<br>(78)</td>
+      <td style="text-align: right">213×76<br>(78)</td>
       <td style="text-align: center">搞笑萌</td>
       <td style="text-align: center">T2</td>
     </tr>
@@ -198,7 +198,7 @@ permalink: /impression
       <td style="text-align: right">5.89</td>
       <td style="text-align: center">C</td>
       <td style="text-align: right">139×6.60<br>#3897</td>
-      <td style="text-align: right">37×71<br>(70)</td>
+      <td style="text-align: right">43×70<br>(70)</td>
       <td style="text-align: center">百合</td>
       <td style="text-align: center">T4</td>
     </tr>
@@ -218,7 +218,7 @@ permalink: /impression
       <td style="text-align: right">2.68</td>
       <td style="text-align: center">D</td>
       <td style="text-align: right">61×7.13<br>#2475</td>
-      <td style="text-align: right">77×76<br>(75)</td>
+      <td style="text-align: right">110×76<br>(76)</td>
       <td style="text-align: center">搞笑萌</td>
       <td style="text-align: center">T3</td>
     </tr>
@@ -228,7 +228,7 @@ permalink: /impression
       <td style="text-align: right">7.99</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">709×6.56<br>#4142</td>
-      <td style="text-align: right">410×74<br>(75)</td>
+      <td style="text-align: right">445×74<br>(75)</td>
       <td style="text-align: center" rowspan="5">剧情萌</td>
       <td style="text-align: center" rowspan="5">T1⁴</td>
     </tr>
@@ -238,7 +238,7 @@ permalink: /impression
       <td style="text-align: right">9.39</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">633×7.43<br>#1714</td>
-      <td style="text-align: right">354×81<br>(80)</td>
+      <td style="text-align: right">395×81<br>(80)</td>
     </tr>
     <tr>
       <td style="text-align: right">11C</td>
@@ -246,7 +246,7 @@ permalink: /impression
       <td style="text-align: right">8.75</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">400×7.32<br>#2026</td>
-      <td style="text-align: right">265×83<br>(83)</td>
+      <td style="text-align: right">309×83<br>(83)</td>
     </tr>
     <tr>
       <td style="text-align: right">11D</td>
@@ -254,7 +254,7 @@ permalink: /impression
       <td style="text-align: right">8.71</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">67×7.97<br>#656</td>
-      <td style="text-align: right">142×89<br>(90)</td>
+      <td style="text-align: right">176×89<br>(90)</td>
     </tr>
     <tr>
       <td style="text-align: right">11</td>
@@ -270,7 +270,7 @@ permalink: /impression
       <td style="text-align: right">8.53</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">588×7.72<br>#962</td>
-      <td style="text-align: right">712×81<br>(80)</td>
+      <td style="text-align: right">720×81<br>(80)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T0#4</td>
     </tr>
@@ -280,7 +280,7 @@ permalink: /impression
       <td style="text-align: right">9.40</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">1247×8.70<br>#40</td>
-      <td style="text-align: right">4095×85<br>(90)</td>
+      <td style="text-align: right">4108×85<br>(90)</td>
       <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T2</td>
     </tr>
@@ -290,7 +290,7 @@ permalink: /impression
       <td style="text-align: right">7.40</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">276×7.03<br>#2957</td>
-      <td style="text-align: right">383×78<br>(79)</td>
+      <td style="text-align: right">394×78<br>(79)</td>
       <td style="text-align: center">搞笑萌</td>
       <td style="text-align: center">T2</td>
     </tr>
@@ -300,7 +300,7 @@ permalink: /impression
       <td style="text-align: right">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: right">2358×8.88<br>#14</td>
-      <td style="text-align: right">2223×89<br>(94)</td>
+      <td style="text-align: right">2234×89<br>(94)</td>
       <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T2</td>
     </tr>
@@ -310,7 +310,7 @@ permalink: /impression
       <td style="text-align: right">9.50</td>
       <td style="text-align: center">SS</td>
       <td style="text-align: right">546×7.96<br>#566</td>
-      <td style="text-align: right">857×82<br>(84)</td>
+      <td style="text-align: right">879×82<br>(84)</td>
       <td style="text-align: center">纯爱萌<br>气氛-泣³</td>
       <td style="text-align: center">T0#3</td>
     </tr>
@@ -320,7 +320,7 @@ permalink: /impression
       <td style="text-align: right">8.26</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">345×7.04<br>#2939</td>
-      <td style="text-align: right">271×75<br>(75)</td>
+      <td style="text-align: right">292×75<br>(75)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
@@ -330,7 +330,7 @@ permalink: /impression
       <td style="text-align: right">8.30</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">82×7.56<br>#1407</td>
-      <td style="text-align: right">885×79<br>(80)</td>
+      <td style="text-align: right">890×79<br>(80)</td>
       <td style="text-align: center" rowspan="3">甜萌</td>
       <td style="text-align: center" rowspan="3">T1.5⁴</td>
     </tr>
@@ -340,7 +340,7 @@ permalink: /impression
       <td style="text-align: right">8.42</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">46×7.65<br>#1237</td>
-      <td style="text-align: right">360×75<br>(75)</td>
+      <td style="text-align: right">363×75<br>(75)</td>
     </tr>
     <tr>
       <td style="text-align: right">17</td>
@@ -356,7 +356,7 @@ permalink: /impression
       <td style="text-align: right">8.19</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">129×7.19<br>#2436</td>
-      <td style="text-align: right">323×77<br>(78)</td>
+      <td style="text-align: right">326×77<br>(78)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
@@ -366,7 +366,7 @@ permalink: /impression
       <td style="text-align: right">10.04</td>
       <td style="text-align: center">SSS</td>
       <td style="text-align: right">979×9.12<br>#3</td>
-      <td style="text-align: right">1176×88<br>(90)</td>
+      <td style="text-align: right">1186×88<br>(90)</td>
       <td style="text-align: center">剧情</td>
       <td style="text-align: center">T0#1</td>
     </tr>
@@ -376,7 +376,7 @@ permalink: /impression
       <td style="text-align: right">7.79</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">383×6.60<br>#4030</td>
-      <td style="text-align: right">231×76<br>(77)</td>
+      <td style="text-align: right">232×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌<br />气氛-燃⁵</td>
       <td style="text-align: center">T2⁶</td>
     </tr>
@@ -386,7 +386,7 @@ permalink: /impression
       <td style="text-align: right">9.00</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">890×7.42<br>#1769</td>
-      <td style="text-align: right">720×78<br>(80)</td>
+      <td style="text-align: right">722×78<br>(80)</td>
       <td style="text-align: center">纯爱萌<br />治愈</td>
       <td style="text-align: center">T0#2</td>
     </tr>
