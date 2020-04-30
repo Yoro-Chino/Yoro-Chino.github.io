@@ -125,8 +125,8 @@ permalink: /impression
       <th>标题</th>
       <th style="text-align: right">Point</th>
       <th style="text-align: center">Rank</th>
-      <th style="text-align: right">Bangumi</th>
-      <th style="text-align: right">EGS</th>
+      <th style="text-align: right">Bangumi⁰</th>
+      <th style="text-align: right">EGS⁰</th>
       <th style="text-align: center; min-width: 65px">分类</th>
       <th style="text-align: center">推荐度</th>
     </tr>
@@ -394,13 +394,15 @@ permalink: /impression
 </table>
 </div>
 
+⁰ 数据截至 20/04/29 或对应作品的 MoeImp 页面创建日期。一般认为 data 数超过 200 时分数具有参考价值。
+
 ¹ Making\*Lovers 的推荐度按线路给出。可怜线与真白线 T1，亚子线与咲线 T2，レイナ线T2.5。
 
 ² 因各种原因本页面 White Album 2 条目只对 coda 部分进行评价，「三女线」暂时不打算动（）
 
 ³ 怎么说呢……金恋这部作品说它是那种没有剧情的日常甜萌也不太准确，说它是魔宴千恋那种轻剧情的话感觉剧情又没多到那个程度，况且这作还有一条特殊的线路，所以分类上不太好分。
 
-⁴ 因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。ラブラブル系列同理。强烈建议在按顺序游玩，推荐度以整体提供。另：9-nine 雪色雪花雪之痕 的大众评分数据截至 20/04/28，但我坚决不承认这作是 90 点台。
+⁴ 因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。ラブラブル系列同理。强烈建议在按顺序游玩，推荐度以整体提供。另：9-nine 雪色雪花雪之痕 的 EGS 评分数据 data 数已经接近 200，但我坚决不承认这作是 90 点台。
 
 ⁵ 我大约是可以理解这一作试图带一点战斗系的燃系风格的，但是我只能说勉勉强强。
 
