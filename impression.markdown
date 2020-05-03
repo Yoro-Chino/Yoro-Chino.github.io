@@ -390,6 +390,16 @@ permalink: /impression
       <td style="text-align: center">纯爱萌<br />治愈</td>
       <td style="text-align: center">T0#2</td>
     </tr>
+    <tr>
+      <td style="text-align: right">22</td>
+      <td><a href="http://yoro.xyz/impression/mashiro">ましろ色シンフォニー（纯白交响曲）</a></td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">943×7.20<br>#2450</td>
+      <td style="text-align: right">1794×78<br>(79)</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">T1</td>
+    </tr>
   </tbody>
 </table>
 </div>
