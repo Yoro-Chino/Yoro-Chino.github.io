@@ -267,7 +267,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">12</td>
       <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
-      <td style="text-align: right">8.53</td>
+      <td style="text-align: right">8.66</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">588×7.72<br>#962</td>
       <td style="text-align: right">720×81<br>(80)</td>
