@@ -92,7 +92,7 @@ permalink: /impression
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。
 
-评分最新更新日期：2020 年 04 月 29 日
+评分最新更新日期：2020 年 05 月 04 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -327,8 +327,8 @@ permalink: /impression
     <tr>
       <td style="text-align: right">17A</td>
       <td><a href="http://yoro.xyz/impression/loverable">ラブラブル ~Lover Able~</a></td>
-      <td style="text-align: right">8.30</td>
-      <td style="text-align: center">A</td>
+      <td style="text-align: right">8.40</td>
+      <td style="text-align: center">S</td>
       <td style="text-align: right">82×7.56<br>#1407</td>
       <td style="text-align: right">890×79<br>(80)</td>
       <td style="text-align: center" rowspan="3">甜萌</td>
@@ -337,7 +337,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">17B</td>
       <td><a href="http://yoro.xyz/impression/loverable">同棲ラブラブル</a></td>
-      <td style="text-align: right">8.42</td>
+      <td style="text-align: right">8.50</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">46×7.65<br>#1237</td>
       <td style="text-align: right">363×75<br>(75)</td>
@@ -345,8 +345,8 @@ permalink: /impression
     <tr>
       <td style="text-align: right">17</td>
       <td><a href="http://yoro.xyz/impression/loverable">ラブラブル 系列</a></td>
-      <td style="text-align: right">8.36</td>
-      <td style="text-align: center">A</td>
+      <td style="text-align: right">8.45</td>
+      <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
     </tr>
@@ -397,7 +397,7 @@ permalink: /impression
       <td style="text-align: center">-</td>
       <td style="text-align: right">943×7.20<br>#2450</td>
       <td style="text-align: right">1794×78<br>(79)</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1</td>
     </tr>
   </tbody>
