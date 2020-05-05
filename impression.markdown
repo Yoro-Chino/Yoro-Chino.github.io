@@ -92,7 +92,7 @@ permalink: /impression
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。
 
-评分最新更新日期：2020 年 05 月 04 日
+评分最新更新日期：2020 年 05 月 05 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -296,9 +296,9 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">7</td>
-      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（未完成）²</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（coda）²</td>
+      <td style="text-align: right">9.81</td>
+      <td style="text-align: center">SS</td>
       <td style="text-align: right">2358×8.88<br>#14</td>
       <td style="text-align: right">2234×89<br>(94)</td>
       <td style="text-align: center">气氛-郁</td>
