@@ -326,7 +326,7 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">17A</td>
-      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル ~Lover Able~</a></td>
+      <td><a href="http://yoro.xyz/impression/la">ラブラブル ~Lover Able~</a></td>
       <td style="text-align: right">8.40</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">82×7.56<br>#1407</td>
@@ -336,7 +336,7 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">17B</td>
-      <td><a href="http://yoro.xyz/impression/loverable">同棲ラブラブル</a></td>
+      <td><a href="http://yoro.xyz/impression/la">同棲ラブラブル</a></td>
       <td style="text-align: right">8.50</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">46×7.65<br>#1237</td>
@@ -344,7 +344,7 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">17</td>
-      <td><a href="http://yoro.xyz/impression/loverable">ラブラブル 系列</a></td>
+      <td><a href="http://yoro.xyz/impression/la">ラブラブル 系列</a></td>
       <td style="text-align: right">8.45</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>

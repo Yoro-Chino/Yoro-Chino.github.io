@@ -8,6 +8,6 @@ permalink: /impression/dsla
 
 主页面：[MoeImp](http://yoro.xyz/impression)
 
-本页面已合并至 [MoeImp - ラブラブル ~Lover Able~](http://yoro.xyz/impression/loverable)
+本页面已合并至 [MoeImp - ラブラブル ~Lover Able~](http://yoro.xyz/impression/la)
 
 游玩时间：2020 年 4 月
