@@ -25,7 +25,7 @@ SMEE 6th Project 「フレラバ ~Friend to Lover~」（2013）
 | 整体评分 |11.08<br />N8.73|
 | Rank |S|
 
-#### [陽茉莉](http://yoro.xyz/kawaiigirls/2020/03/15/ftl-himari-rina.html)
+### [陽茉莉](http://yoro.xyz/kawaiigirls/2020/03/15/ftl-himari-rina.html)
 
 印象分 9.35→8.7/10 趣味性 0.2/0.3 情感 0.3/0.5<br />
 人物刻画 0.3/0.5 剧情 0.1/0.5<br />
@@ -47,7 +47,7 @@ SMEE 6th Project 「フレラバ ~Friend to Lover~」（2013）
 
 唉我真不应该第一个推阳茉莉的，现在想到其他线都有点心痛了（。
 
-#### [理奈](http://yoro.xyz/kawaiigirls/2020/03/15/ftl-himari-rina.html)
+### [理奈](http://yoro.xyz/kawaiigirls/2020/03/15/ftl-himari-rina.html)
 
 印象分 9.5→9.0/10 趣味 0.2/0.3 情感 0.45/0.5<br />
 人物刻画 0.5/0.5 剧情表现 0.25/0.5<br />
@@ -72,7 +72,7 @@ SMEE 6th Project 「フレラバ ~Friend to Lover~」（2013）
 
 我本来想给个更高一点分的但是依旧是因为剧情实在是过于白开水没法再加了（悲）
 
-#### 岬
+### 岬
 
 印象分 9.45→8.9/10 趣味 0.2/0.3 情感 0.3/0.5<br />
 人物刻画 0.45/0.5 剧情表现 0.1/0.5<br />
@@ -91,7 +91,7 @@ SMEE 6th Project 「フレラバ ~Friend to Lover~」（2013）
 
 （思考：みさき为什么是岬而不是美咲（虽然我知道这是官方定的汉字））
 
-#### ゆずゆ
+### ゆずゆ
 
 印象分 9.3→8.6/10 趣味 0.2/0.3 情感 0.25/0.5<br />
 人物刻画 0.3/0.5 剧情表现 0.1/0.5<br />
