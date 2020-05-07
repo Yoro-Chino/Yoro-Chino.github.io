@@ -193,6 +193,16 @@ permalink: /impression
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
+      <td style="text-align: right">7</td>
+      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（coda）²</td>
+      <td style="text-align: right">9.81</td>
+      <td style="text-align: center">SS</td>
+      <td style="text-align: right">2358×8.88<br>#14</td>
+      <td style="text-align: right">2234×89<br>(94)</td>
+      <td style="text-align: center">气氛-郁</td>
+      <td style="text-align: center">T2</td>
+    </tr>
+    <tr>
       <td style="text-align: right">8</td>
       <td><a href="http://yoro.xyz/impression/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
       <td style="text-align: right">5.89</td>
@@ -292,16 +302,6 @@ permalink: /impression
       <td style="text-align: right">276×7.03<br>#2957</td>
       <td style="text-align: right">394×78<br>(79)</td>
       <td style="text-align: center">搞笑萌</td>
-      <td style="text-align: center">T2</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">7</td>
-      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（coda）²</td>
-      <td style="text-align: right">9.81</td>
-      <td style="text-align: center">SS</td>
-      <td style="text-align: right">2358×8.88<br>#14</td>
-      <td style="text-align: right">2234×89<br>(94)</td>
-      <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
