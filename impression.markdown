@@ -397,8 +397,8 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">22</td>
-      <td><a href="http://yoro.xyz/impression/mashiro">ましろ色シンフォニー（纯白交响曲）</a></td>
-      <td style="text-align: right">⁷8.31</td>
+      <td><a href="http://yoro.xyz/impression/mashiro">ましろ色シンフォニー（纯白交响曲）</a>⁷</td>
+      <td style="text-align: right">8.31</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">943×7.20<br>#2450</td>
       <td style="text-align: right">1794×78<br>(79)</td>
