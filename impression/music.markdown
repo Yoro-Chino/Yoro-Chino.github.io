@@ -44,7 +44,7 @@ permalink: /impression/music
 3. FRIEND TO LOVER ([Friend to Lover](./ftl))
 4. 花弁となり 世界は大いに歌う ([樱之诗](./sakuuta))
 5. Clover Day's suite1-6 ([Clover Day's](./cd))
-6. ざくざくと散る錆びた夢 ([樱之诗](./sakuuta))
+6. 手と手をギュッと ([Lover Able](./la))
 7. 未来を描いて ([Friend to Lover](./ftl))
 8. 最後には長いキスを ([Friend to Lover](./ftl))
 9. 色彩力無限 ([樱之诗](./sakuuta))
