@@ -48,4 +48,7 @@ permalink: /impression/music
 7. 未来を描いて ([Friend to Lover](./ftl))
 8. 最後には長いキスを ([Friend to Lover](./ftl))
 9. 色彩力無限 ([樱之诗](./sakuuta))
-10. 氷の刃 ([White Album 2](./wa2))
+10. Orohora ([金色 Loveriche](./kl))  
+Sylvia's Theme ([金色 Loveriche](./kl)，并列)  
+Golden Time ([金色 Loveriche](./kl)，并列)
+
