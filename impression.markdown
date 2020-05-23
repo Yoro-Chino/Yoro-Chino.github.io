@@ -240,7 +240,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色">9-nine 九次九日九重色</a></td>
-      <td style="text-align: right">7.99</td>
+      <td style="text-align: right">7.91</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">709×6.56<br>#4142</td>
       <td style="text-align: right">445×74<br>(75)</td>
@@ -266,7 +266,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11D</td>
       <td><a href="http://yoro.xyz/impression/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
-      <td style="text-align: right">8.71</td>
+      <td style="text-align: right">8.59</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">67×7.97<br>#656</td>
       <td style="text-align: right">176×89<br>(90)</td>
@@ -274,7 +274,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评价">9-nine 整体评价</a></td>
-      <td style="text-align: right">8.71</td>
+      <td style="text-align: right">8.66</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
