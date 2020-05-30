@@ -23,7 +23,7 @@ title: "依田萌绘 / 依田もえ"
 [MoeImp](http://yoro.xyz/impression)   
 [Bilibili@依田もえ](https://space.bilibili.com/431901596)   
 [Bangumi@依田もえ](http://bgm.tv/user/523627)  
-[Bilibili@Yoro_Chino](https://space.bilibili.com/12802748)
+[Bilibili@千乃Kokoro](https://space.bilibili.com/12802748)
 
 友链：
 [Hakula](https://hakula.xyz)
