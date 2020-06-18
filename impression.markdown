@@ -155,7 +155,7 @@ permalink: /impression
       <td style="text-align: right">152×7.73<br>#957</td>
       <td style="text-align: right">694×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">T2</td>
+      <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">3</td>
