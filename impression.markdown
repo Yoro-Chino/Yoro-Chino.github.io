@@ -405,6 +405,26 @@ permalink: /impression
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1</td>
     </tr>
+    <tr>
+      <td style="text-align: right">23</td>
+      <td><a href="http://yoro.xyz/impression/koikake">恋×シンアイ彼女</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">-<br>#-</td>
+      <td style="text-align: right">-<br>(-)</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">24</td>
+      <td><a href="http://yoro.xyz/impression/atri">ATRI -My Dear Moments-</a></td>
+      <td style="text-align: right">8.76</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">-<br>#-</td>
+      <td style="text-align: right">-<br>(-)</td>
+      <td style="text-align: center">剧情<br />气氛-泣⁸</td>
+      <td style="text-align: center">T1</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -424,6 +444,8 @@ permalink: /impression
 ⁶ 絆きらめく恋いろは 的推荐度按线路给出。椿线 T2，其他线路 T3。
 
 ⁷ 首先我觉得这个作品算上 PSP 版的纱凪线才算完整，但是又不能包含结月线，但是纱凪线只有 PSP 版有，所以以「最初发行平台的最新版本」作为评判标准的话就只能舍弃纱凪线了。如果算上纱凪线是 10.60 N8.41 Rank S，可是算不得。
+
+⁸ 暂定分类，其实泣度也没那么高（？）
 
 注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
