@@ -92,7 +92,7 @@ permalink: /impression
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。
 
-评分最新更新日期：2020 年 06 月 12 日
+评分最新更新日期：2020 年 06 月 20 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -312,8 +312,8 @@ permalink: /impression
     <tr>
       <td style="text-align: right">15</td>
       <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a></td>
-      <td style="text-align: right">9.50</td>
-      <td style="text-align: center">SS</td>
+      <td style="text-align: right">9.47</td>
+      <td style="text-align: center">S+</td>
       <td style="text-align: right">546×7.96<br>#566</td>
       <td style="text-align: right">879×82<br>(84)</td>
       <td style="text-align: center">纯爱萌<br>气氛-泣³</td>
