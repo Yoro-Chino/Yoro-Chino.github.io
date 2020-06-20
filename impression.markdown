@@ -258,7 +258,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11C</td>
       <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风">9-nine 春色春恋春熙风</a></td>
-      <td style="text-align: right">8.75</td>
+      <td style="text-align: right">8.63</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">400×7.32<br>#2026</td>
       <td style="text-align: right">309×83<br>(83)</td>
@@ -266,15 +266,15 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11D</td>
       <td><a href="http://yoro.xyz/impression/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
-      <td style="text-align: right">8.59</td>
-      <td style="text-align: center">S</td>
-      <td style="text-align: right">67×7.97<br>#656</td>
-      <td style="text-align: right">176×89<br>(90)</td>
+      <td style="text-align: right">8.39</td>
+      <td style="text-align: center">A</td>
+      <td style="text-align: right">376×7.88<br>#665</td>
+      <td style="text-align: right">363×86<br>(88)</td>
     </tr>
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评价">9-nine 整体评价</a></td>
-      <td style="text-align: right">8.66</td>
+      <td style="text-align: right">8.58</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
@@ -437,7 +437,7 @@ permalink: /impression
 
 ³ 怎么说呢……金恋这部作品说它是那种没有剧情的日常甜萌也不太准确，说它是魔宴千恋那种轻剧情的话感觉剧情又没多到那个程度，况且这作还有一条特殊的线路，所以分类上不太好分。
 
-⁴ 因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。ラブラブル系列同理。计算 MoeImp 排名时，9-nine 系列按整体计入排名，ラブラブル 和 同棲ラブラブル 分别计算排名。强烈建议按顺序游玩，推荐度以整体提供。另：9-nine 雪色雪花雪之痕 的 EGS 评分数据 data 数已经超过 200，但我坚决不承认这作是 90 点台。
+⁴ 因 9-nine 系列为剧情连贯性较强的分割放送，对每个分割放送单元给出一个作品分，并将每个放送单元作为一条线路计算整个系列的评分。因此上表中会将 9-nine 系列四作和系列整体分别列出，指向的实际上是同一个链接。ラブラブル系列同理。计算 MoeImp 排名时，9-nine 系列按整体计入排名，ラブラブル 和 同棲ラブラブル 分别计算排名。强烈建议按顺序游玩，推荐度以整体提供。
 
 ⁵ 我大约是可以理解这一作试图带一点战斗系的燃系风格的，但是我只能说勉勉强强。
 
