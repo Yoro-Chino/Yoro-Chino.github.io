@@ -423,7 +423,7 @@ permalink: /impression
       <td style="text-align: right">119×7.82<br>#858</td>
       <td style="text-align: right">33×81<br>(80)</td>
       <td style="text-align: center">剧情<br />气氛-泣⁸</td>
-      <td style="text-align: center">T1</td>
+      <td style="text-align: center">T2</td>
     </tr>
   </tbody>
 </table>
