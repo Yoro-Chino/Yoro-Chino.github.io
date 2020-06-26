@@ -25,6 +25,8 @@ SMEE 6th Project 「フレラバ ~Friend to Lover~」（2013）
 | 整体评分 |11.08<br />N8.73|
 | Rank |S|
 
+**不用默认名字的话阳茉莉是不会叫你恭酱的！！！**
+
 ### [陽茉莉](http://yoro.xyz/kawaiigirls/2020/03/15/ftl-himari-rina.html)
 
 印象分 9.35→8.7/10 趣味性 0.2/0.3 情感 0.3/0.5<br />
