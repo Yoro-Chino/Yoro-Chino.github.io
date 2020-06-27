@@ -37,7 +37,7 @@ permalink: /impression/sakuuta
 
 ---
 
-### I Fruhlingsbeginn
+## I Fruhlingsbeginn
 
 印象分 9.15→8.3/10 趣味 0.15/0.5 情感 0.1/0.3  
 人物刻画 0.2/0.5 剧情表现 0.1/0.5  
@@ -52,7 +52,7 @@ I 春天的开始
 
 （与其说这一部分是我给 I 章的打分，不如说也包含了 II 章前半段）
 
-### [II Abend](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-2.html)
+## [II Abend](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-2.html)
 
 印象分 9.6→9.2/10 情感 0.6/0.8  
 人物刻画 0.4/0.5 剧情表现 0.3/0.5  
@@ -64,7 +64,7 @@ II 傍晚
 
 在平淡的日常中，之前的伏笔相互串联，最终展开了令人震撼的画卷。
 
-### [III PicaPica 真琴](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-3-makoto.html)
+## [III PicaPica 真琴](http://yoro.xyz/kawaiigirls/2020/04/19/sakuuta-3-makoto.html)
 
 印象分 9.3→8.6/10 情感 0.3/0.5  
 剧情深度与伏笔处理 0.15/0.3  
@@ -81,7 +81,7 @@ ED 设计 +0.1
 
 唉，主要是我对这种家族斗争和艺术本身都没太大兴趣。
 
-### III Olympia 稟
+## III Olympia 稟
 
 印象分 9.45→8.9/10 情感 0.3/0.4  
 剧情深度与伏笔处理 0.3/0.4  
@@ -111,7 +111,7 @@ ED 设计 +0.1
 
 至此故事背景交代的差不多了，该知道的基本都知道了。期待「真正的『樱之诗』」的展开。
 
-### III ZYPRESSEN 里奈 / 优美
+## III ZYPRESSEN 里奈 / 优美
 
 印象分 9.8→9.6/10 情感 0.4/0.4  
 剧情深度与伏笔处理 0.2/0.4  
@@ -141,7 +141,7 @@ III 丝柏
 
 顺便一提，ED 好听，而且哪怕是卷轴形式的一图流也不仅好看，而且贴合作品，在高度概括本线的同时甚至可以当作艺术品看待了。
 
-### III A Nice Derangement of Epitaphs 雫
+## III A Nice Derangement of Epitaphs 雫
 
 印象分 9.9→9.8/10 情感 0.4/0.4  
 剧情深度与伏笔处理 0.4/0.4  
@@ -166,7 +166,7 @@ III 墓志铭的美妙混乱
 
 至此，这个故事的全貌已经完全展开了。不再需要伏笔，不再需要叙述性诡计，已经足够震撼了。
 
-### IV What is mind? No matter. What is matter? Never mind.
+## IV What is mind? No matter. What is matter? Never mind.
 
 IV （因为无法准确体现标题的双关所以拒绝翻译）
 
@@ -184,9 +184,9 @@ IV （因为无法准确体现标题的双关所以拒绝翻译）
 
 以及 staff 表有的是日文有的是英文，有什么深意吗？不知道。
 
-### [V The Happy Prince and Other Tales](http://yoro.xyz/kawaiigirls/2020/04/21/sakuuta-5.html)
+## [V The Happy Prince and Other Tales](http://yoro.xyz/kawaiigirls/2020/04/21/sakuuta-5.html)
 
-#### 蓝（仅计算分支后）
+### 蓝（仅计算分支后）
 
 印象分 9.8→9.6/10 情感 0.75/0.8  
 人物刻画 0.4/0.5 剧情表现 0.4/0.5  
@@ -194,7 +194,7 @@ IV （因为无法准确体现标题的双关所以拒绝翻译）
 剧情深度 +0.2  
 章节总计 11.9/12.5
 
-#### True End（包含分支前）
+### True End（包含分支前）
 
 印象分 9.8→9.6/10 情感 0.75/0.8  
 人物刻画 0.4/0.5 剧情表现 0.5/0.5  
@@ -206,7 +206,7 @@ V 快乐王子与其他的童话
 
 想说的都写在上面的链接了，这里就不多说了。
 
-### VI 櫻の森の下を歩む
+## VI 櫻の森の下を歩む
 
 一切复归平静。  
 总有种物是人非的沧桑感。  
@@ -221,7 +221,7 @@ V 快乐王子与其他的童话
 
 ![fin](http://yoro.xyz/sakuuta.png)
 
-### 整体评价
+## 整体评价
 
 整体体验 11.95  
 系统：ED 差分 +0.1 选项设计 +0.1  

@@ -412,8 +412,8 @@ permalink: /impression
       <td style="text-align: center">-</td>
       <td style="text-align: right">1054×7.59<br>#1258</td>
       <td style="text-align: right">529×71<br>(77)</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">气氛-郁</td>
+      <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">24</td>
@@ -423,7 +423,17 @@ permalink: /impression
       <td style="text-align: right">119×7.82<br>#858</td>
       <td style="text-align: right">33×81<br>(80)</td>
       <td style="text-align: center">剧情<br />气氛-泣⁸</td>
-      <td style="text-align: center">T2</td>
+      <td style="text-align: center">T1.5</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">25</td>
+      <td><a href="http://yoro.xyz/impression/ss">Sugar*Style</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">66×6.94<br>#2959</td>
+      <td style="text-align: right">214×75<br>(75)</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
     </tr>
   </tbody>
 </table>
