@@ -140,7 +140,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
-      <td style="text-align: right">8.00</td>
+      <td style="text-align: right">8.09</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">607×7.59<br>#1248</td>
       <td style="text-align: right">468×81<br>(81)</td>
