@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MoeImp - Sugar*Style"
-date:   2020-03-14 22:33:00 +0800
+date:   2020-07-10 22:33:00 +0800
 categories: Special
 permalink: /impression/ss
 ---
