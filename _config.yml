@@ -21,7 +21,7 @@
 title: 依田萌绘的故事屋
 email: yoro_chino@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  我，可爱w
+  「桃子汽水味的夏天女孩」
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yoro-chino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Yoda_Moe
@@ -33,9 +33,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - index.markdown
-  - impression.markdown
-  - about.markdown
+  - impression.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
