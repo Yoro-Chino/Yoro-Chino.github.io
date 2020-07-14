@@ -432,8 +432,8 @@ permalink: /impression
       <td style="text-align: center">-</td>
       <td style="text-align: right">66×6.94<br>#2959</td>
       <td style="text-align: right">214×75<br>(75)</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">26</td>
@@ -442,8 +442,8 @@ permalink: /impression
       <td style="text-align: center">-</td>
       <td style="text-align: right">292×7.47<br>#1610</td>
       <td style="text-align: right">604×78<br>(80)</td>
-      <td style="text-align: center">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">甜萌</td>
+      <td style="text-align: center">T1.5</td>
     </tr>
   </tbody>
 </table>
