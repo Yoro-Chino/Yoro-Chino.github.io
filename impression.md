@@ -435,6 +435,16 @@ permalink: /impression
       <td style="text-align: center">-</td>
       <td style="text-align: center">-</td>
     </tr>
+    <tr>
+      <td style="text-align: right">26</td>
+      <td><a href="http://yoro.xyz/impression/tonakoi">キミのとなりで恋してる！</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">292×7.47<br>#1610</td>
+      <td style="text-align: right">604×78<br>(80)</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: center">-</td>
+    </tr>
   </tbody>
 </table>
 </div>
