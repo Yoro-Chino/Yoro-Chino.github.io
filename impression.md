@@ -420,8 +420,8 @@ permalink: /impression
       <td><a href="http://yoro.xyz/impression/atri">ATRI -My Dear Moments-</a></td>
       <td style="text-align: right">8.76</td>
       <td style="text-align: center">S</td>
-      <td style="text-align: right">119×7.82<br>#858</td>
-      <td style="text-align: right">33×81<br>(80)</td>
+      <td style="text-align: right">458×7.74<br>#903</td>
+      <td style="text-align: right">175×81<br>(82)</td>
       <td style="text-align: center">剧情<br />气氛-泣⁸</td>
       <td style="text-align: center">T1.5</td>
     </tr>
