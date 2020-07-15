@@ -120,7 +120,9 @@ permalink: /impression
 
 按得分排序的表格可在[这里](http://yoro.xyz/MoeImp.png)查看。
 
-推荐度分为 T0、T1、T1.5、T2、T3、T4 ，其中 T0 内部存在顺序，以 T0#n 表示。
+推荐度分为 T0、T1、T1.5、T2、T3 ，其中 T0 内部存在顺序，以 T0#n 表示。
+
+抛弃作见[此处](http://yoro.xyz/impression/giveup)。
 
 <div class="table-responsive">
 <table>
@@ -140,7 +142,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
-      <td style="text-align: right">8.09</td>
+      <td style="text-align: right">8.07</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">607×7.59<br>#1248</td>
       <td style="text-align: right">468×81<br>(81)</td>
@@ -150,7 +152,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">2</td>
       <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
-      <td style="text-align: right">8.12</td>
+      <td style="text-align: right">8.11</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">166×7.74<br>#911</td>
       <td style="text-align: right">709×81<br>(81)</td>
@@ -160,7 +162,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
-      <td style="text-align: right">8.33</td>
+      <td style="text-align: right">8.26</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">1343×7.20<br>#2487</td>
       <td style="text-align: right">879×77<br>(78)</td>
@@ -170,7 +172,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">4</td>
       <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
-      <td style="text-align: right">8.55</td>
+      <td style="text-align: right">8.52</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">1294×7.48<br>#1559</td>
       <td style="text-align: right">1292×79<br>(80)</td>
@@ -180,7 +182,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
-      <td style="text-align: right">8.29</td>
+      <td style="text-align: right">8.22</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">1028×6.90<br>#3385</td>
       <td style="text-align: right">645×76<br>(77)</td>
@@ -190,7 +192,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">6</td>
       <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
-      <td style="text-align: right">7.35</td>
+      <td style="text-align: right">7.33</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">283×7.10<br>#2757</td>
       <td style="text-align: right">228×76<br>(78)</td>
@@ -200,7 +202,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">7</td>
       <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（coda）²</td>
-      <td style="text-align: right">9.81</td>
+      <td style="text-align: right">9.75</td>
       <td style="text-align: center">SS</td>
       <td style="text-align: right">2432×8.89<br>#12</td>
       <td style="text-align: right">2251×89<br>(94)</td>
@@ -210,37 +212,39 @@ permalink: /impression
     <tr>
       <td style="text-align: right">8</td>
       <td><a href="http://yoro.xyz/impression/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
-      <td style="text-align: right">5.89</td>
+      <td style="text-align: right">5.91</td>
       <td style="text-align: center">C</td>
       <td style="text-align: right">158×6.53<br>#4081</td>
       <td style="text-align: right">48×70<br>(70)</td>
       <td style="text-align: center">百合</td>
-      <td style="text-align: center">T4</td>
+      <td style="text-align: center">T3</td>
     </tr>
     <tr>
       <td style="text-align: right">A1</td>
       <td><a href="http://yoro.xyz/impression/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
-      <td style="text-align: right">9.21</td>
+      <td style="text-align: right">9.15</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">457×8.18<br>#324</td>
       <td style="text-align: right">-</td>
       <td style="text-align: center">全年龄</td>
       <td style="text-align: center">-</td>
     </tr>
+    <!--
     <tr>
       <td style="text-align: right">9</td>
       <td><a href="http://yoro.xyz/impression/hak">HaremKingdom</a>（已弃坑）</td>
-      <td style="text-align: right">2.68</td>
+      <td style="text-align: right">2.64</td>
       <td style="text-align: center">D</td>
       <td style="text-align: right">70×7.06<br>#2674</td>
       <td style="text-align: right">137×75<br>(75)</td>
       <td style="text-align: center">搞笑萌</td>
       <td style="text-align: center">T3</td>
     </tr>
+    -->
     <tr>
       <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色">9-nine 九次九日九重色</a></td>
-      <td style="text-align: right">7.91</td>
+      <td style="text-align: right">7.84</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">806×6.56<br>#4163</td>
       <td style="text-align: right">514×74<br>(75)</td>
@@ -250,7 +254,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11B</td>
       <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音">9-nine 天色天歌天籁音</a></td>
-      <td style="text-align: right">9.39</td>
+      <td style="text-align: right">9.32</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">730×7.45<br>#1684</td>
       <td style="text-align: right">466×80<br>(80)</td>
@@ -258,7 +262,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11C</td>
       <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风">9-nine 春色春恋春熙风</a></td>
-      <td style="text-align: right">8.63</td>
+      <td style="text-align: right">8.56</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">489×7.35<br>#1986</td>
       <td style="text-align: right">385×82<br>(83)</td>
@@ -266,7 +270,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11D</td>
       <td><a href="http://yoro.xyz/impression/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
-      <td style="text-align: right">8.39</td>
+      <td style="text-align: right">8.32</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">376×7.88<br>#665</td>
       <td style="text-align: right">363×86<br>(88)</td>
@@ -274,7 +278,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/9nine#整体评价">9-nine 整体评价</a></td>
-      <td style="text-align: right">8.58</td>
+      <td style="text-align: right">8.51</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
@@ -282,7 +286,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">12</td>
       <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
-      <td style="text-align: right">8.77</td>
+      <td style="text-align: right">8.74</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">610×7.71<br>#967</td>
       <td style="text-align: right">728×81<br>(80)</td>
@@ -292,7 +296,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">13</td>
       <td><a href="http://yoro.xyz/impression/cc">CROSS†CHANNEL</a></td>
-      <td style="text-align: right">9.40</td>
+      <td style="text-align: right">9.38</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">1289×8.70<br>#39</td>
       <td style="text-align: right">4121×85<br>(90)</td>
@@ -312,7 +316,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">15</td>
       <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a></td>
-      <td style="text-align: right">9.47</td>
+      <td style="text-align: right">9.43</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">599×7.94<br>#596</td>
       <td style="text-align: right">918×82<br>(84)</td>
@@ -322,7 +326,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">16</td>
       <td><a href="http://yoro.xyz/impression/stella">喫茶ステラと死神の蝶（星光咖啡馆与死神之蝶）</a></td>
-      <td style="text-align: right">8.26</td>
+      <td style="text-align: right">8.19</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">459×6.99<br>#3126</td>
       <td style="text-align: right">342×75<br>(75)</td>
@@ -342,7 +346,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">17B</td>
       <td><a href="http://yoro.xyz/impression/la">同棲ラブラブル</a></td>
-      <td style="text-align: right">8.50</td>
+      <td style="text-align: right">8.47</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">47×7.66<br>#1242</td>
       <td style="text-align: right">367×75<br>(75)</td>
@@ -350,7 +354,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">17</td>
       <td><a href="http://yoro.xyz/impression/la">ラブラブル 系列</a></td>
-      <td style="text-align: right">8.45</td>
+      <td style="text-align: right">8.44</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
       <td style="text-align: right">-</td>
@@ -358,7 +362,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">18</td>
       <td><a href="http://yoro.xyz/impression/ks">カノジョ＊ステップ（彼女*心渐近）</a></td>
-      <td style="text-align: right">8.19</td>
+      <td style="text-align: right">8.15</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">149×7.19<br>#2429</td>
       <td style="text-align: right">339×77<br>(78)</td>
@@ -368,7 +372,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">19</td>
       <td><a href="http://yoro.xyz/impression/sakuuta">サクラノ詩 －櫻の森の上を舞う－</a></td>
-      <td style="text-align: right">10.04</td>
+      <td style="text-align: right">10.00</td>
       <td style="text-align: center">SSS</td>
       <td style="text-align: right">1095×9.14<br>#2</td>
       <td style="text-align: right">1237×88<br>(90)</td>
@@ -378,7 +382,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">20</td>
       <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a>（含 -椿恋歌-）</td>
-      <td style="text-align: right">7.79</td>
+      <td style="text-align: right">7.78</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">406×6.61<br>#4057</td>
       <td style="text-align: right">245×76<br>(78)</td>
@@ -388,8 +392,8 @@ permalink: /impression
     <tr>
       <td style="text-align: right">21</td>
       <td><a href="http://yoro.xyz/impression/cd">Clover Day's</a> Plus</td>
-      <td style="text-align: right">9.00</td>
-      <td style="text-align: center">S+</td>
+      <td style="text-align: right">8.88</td>
+      <td style="text-align: center">S</td>
       <td style="text-align: right">918×7.41<br>#1799</td>
       <td style="text-align: right">738×78<br>(80)</td>
       <td style="text-align: center">纯爱萌<br />治愈</td>
@@ -398,7 +402,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">22</td>
       <td><a href="http://yoro.xyz/impression/mashiro">ましろ色シンフォニー（纯白交响曲）</a>⁷</td>
-      <td style="text-align: right">8.31</td>
+      <td style="text-align: right">8.30</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">970×7.22<br>#2421</td>
       <td style="text-align: right">1807×78<br>(79)</td>
@@ -418,7 +422,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">24</td>
       <td><a href="http://yoro.xyz/impression/atri">ATRI -My Dear Moments-</a></td>
-      <td style="text-align: right">8.76</td>
+      <td style="text-align: right">8.68</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">458×7.74<br>#903</td>
       <td style="text-align: right">175×81<br>(82)</td>
@@ -451,7 +455,7 @@ permalink: /impression
 
 ⁰ 数据截至 20/06/20 或对应作品的 MoeImp 页面创建日期。一般认为 data 数超过 200 时分数具有参考价值。
 
-¹ Making\*Lovers 的推荐度按线路给出。可怜线与真白线 T1，亚子线与咲线 T2，レイナ线T2.5。
+¹ Making\*Lovers 的推荐度按线路给出。可怜线与真白线 T1，亚子线与咲线 T2，レイナ线 T3。
 
 ² 因各种原因本页面 White Album 2 条目只对 coda 部分进行评价，「三女线」暂时不打算动（）
 
@@ -463,7 +467,7 @@ permalink: /impression
 
 ⁶ 絆きらめく恋いろは 的推荐度按线路给出。椿线 T2，其他线路 T3。
 
-⁷ 首先我觉得这个作品算上 PSP 版的纱凪线才算完整，但是又不能包含结月线，但是纱凪线只有 PSP 版有，所以以「最初发行平台的最新版本」作为评判标准的话就只能舍弃纱凪线了。如果算上纱凪线是 10.60 N8.41 Rank S，可是算不得。
+⁷ 首先我觉得这个作品算上 PSP 版的纱凪线才算完整，但是又不能包含结月线，但是纱凪线只有 PSP 版有，所以以「最初发行平台的最新版本」作为评判标准的话就只能舍弃纱凪线了。如果算上纱凪线是 10.60 N8.40 Rank S，可是算不得。
 
 ⁸ 暂定分类，其实泣度也没那么高（？）
 
