@@ -92,7 +92,7 @@ permalink: /impression
 
 对于其他分项一般认为 9.4 以上佳作，10.7 以上准神作，11.9 以上超神作。
 
-评分最新更新日期：2020 年 06 月 20 日
+评分最新更新日期：2020 年 07 月 15 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -142,7 +142,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
-      <td style="text-align: right">8.07</td>
+      <td style="text-align: right">8.04</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">607×7.59<br>#1248</td>
       <td style="text-align: right">468×81<br>(81)</td>
@@ -286,7 +286,7 @@ permalink: /impression
     <tr>
       <td style="text-align: right">12</td>
       <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
-      <td style="text-align: right">8.74</td>
+      <td style="text-align: right">8.76</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">610×7.71<br>#967</td>
       <td style="text-align: right">728×81<br>(80)</td>
