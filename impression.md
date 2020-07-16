@@ -431,9 +431,9 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">25</td>
-      <td><a href="http://yoro.xyz/impression/ss">Sugar*Style</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td><a href="http://yoro.xyz/impression/ss">Sugar*Style</a></td>
+      <td style="text-align: right">8.11</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">66×6.94<br>#2959</td>
       <td style="text-align: right">214×75<br>(75)</td>
       <td style="text-align: center">甜萌</td>
