@@ -441,13 +441,13 @@ permalink: /impression
     </tr>
     <tr>
       <td style="text-align: right">26</td>
-      <td><a href="http://yoro.xyz/impression/tonakoi">キミのとなりで恋してる！</a>（未完成）</td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td><a href="http://yoro.xyz/impression/tonakoi">キミのとなりで恋してる！</a></td>
+      <td style="text-align: right">8.25</td>
+      <td style="text-align: center">A</td>
       <td style="text-align: right">292×7.47<br>#1610</td>
       <td style="text-align: right">604×78<br>(80)</td>
       <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">T2</td>
+      <td style="text-align: center">T1⁹</td>
     </tr>
   </tbody>
 </table>
@@ -470,6 +470,8 @@ permalink: /impression
 ⁷ 首先我觉得这个作品算上 PSP 版的纱凪线才算完整，但是又不能包含结月线，但是纱凪线只有 PSP 版有，所以以「最初发行平台的最新版本」作为评判标准的话就只能舍弃纱凪线了。如果算上纱凪线是 10.60 N8.40 Rank S，可是算不得。
 
 ⁸ 暂定分类，其实泣度也没那么高（？）
+
+⁹ キミのとなりで恋してる！ 的推荐度按线路给出。なぎさ线 T1，莉奈线 T1.5，凉香线 T2。
 
 注：MoeImp 对于不同类别的作品采取的评分标准略有区别。虽然**不推荐**将不同类别作品评分和其他作品直接比较（主要是直接比较的话最好的说法也是各有千秋），但是非要说的话其实在决定分数和评分标准时并不是完全没有考虑不同作品评分的可比性的。
 
