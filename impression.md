@@ -447,7 +447,7 @@ permalink: /impression
       <td style="text-align: right">292×7.47<br>#1610</td>
       <td style="text-align: right">604×78<br>(80)</td>
       <td style="text-align: center">甜萌</td>
-      <td style="text-align: center">T1.5</td>
+      <td style="text-align: center">T2</td>
     </tr>
   </tbody>
 </table>
