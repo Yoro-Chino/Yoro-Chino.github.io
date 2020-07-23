@@ -6,7 +6,7 @@ categories: Special
 permalink: /impression/giveup
 ---
 
-主页面：[MoeImp](http://yoro.xyz/impression)
+[MoeImp AVG 主页面](http://yoro.xyz/impression/avg)
 
 MoeImp 内目前的抛弃作见下表：
 
@@ -56,5 +56,11 @@ MoeImp 内目前的抛弃作见下表：
 HaremKingdom 姑且还有 [MoeImp 特设页](./hak)，想说的都在那说了。
 
 CLANNAD 是一部据说非常优秀的作品，但是画风和实在是无聊而且非常长的日常非常劝退。有人说这才是三次元的生活的样子，但是我三次元已经够无聊了没必要再在几乎是仅有的娱乐当中接着忍受无聊。
+
+我之前在 [MoeImp - Clover Day's](./cd) 提出过这样的观点：
+
+> 所以还是那句话：搞超展开的前提是前期剧本足够有趣以至于能够让玩家坚持到超展开。
+
+在这里就是前期剧本并没有足够有趣以至于能够让玩家坚持到这部作品真正优秀的部分。
 
 ひとつ飛ばし恋愛（间接之恋）甚至还没撑到我给这作一个专有编号就弃坑了，没记错的话连 OP 都没见到。对于 Asa Project 的部分作品（也包括 SMEE 的 HaremKingdom）我的感觉就是在搞笑这条路上走得太远以至于冲淡了 Galgame 的本质和目的。只有无脑搞笑的作品我觉得是没有灵魂的，而且勉强笑过之后面对的则是更多的空虚与无聊。而且那个黄毛女主实在是……算了。
