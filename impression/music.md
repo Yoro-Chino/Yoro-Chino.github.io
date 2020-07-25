@@ -12,7 +12,7 @@ permalink: /impression/music
 
 然后突然就想给我个人最喜欢的 Gal 音乐排个名。
 
-入选范围：[MoeImp AVG/Gal](http://yoro.xyz/impression#得分总览) 的所有作品。
+入选范围：[MoeImp AVG/Gal](http://yoro.xyz/impression/avg) 的所有作品。
 
 分为 OP(×10)、ED(×5)、插入曲/BGM(×10) 三个部门。
 
