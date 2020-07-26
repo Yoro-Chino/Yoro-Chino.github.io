@@ -449,12 +449,12 @@ permalink: /impression/avg
     <tr>
       <td style="text-align: right">27</td>
       <td><a href="http://yoro.xyz/impression/amachoco">あまいろショコラータ（巧可甜恋）</a></td>
-      <td style="text-align: right">-</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: right">7.70</td>
+      <td style="text-align: center">B</td>
       <td style="text-align: right">66×6.35<br>#4150</td>
       <td style="text-align: right">61×69<br>(70)</td>
       <td style="text-align: center">萌</td>
-      <td style="text-align: center">-</td>
+      <td style="text-align: center">T2</td>
     </tr>
   </tbody>
 </table>
