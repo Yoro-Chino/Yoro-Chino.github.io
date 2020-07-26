@@ -84,9 +84,10 @@ permalink: /impression/avg
 |S+|9.00~9.49|9|当之无愧的神作，有着特殊的闪光点|
 |S|8.40~8.99|8|非常优秀的作品|
 |A|8.00~8.39|7|良作，看起来没什么缺点，但是有些地方差点意思|
-|B|6.50~7.99|6|及格的作品，但是有明显缺陷|
-|C|5.50~6.49|5|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
-|D|< 5.50|<5|我甚至不想推完，一般是按照推完的部分的比例计算出的分数|
+|B|7.50~7.99|6|及格的作品，但是有明显缺陷|
+|B-|6.50~7.49|5|缺陷大到我觉得有点难受的程度了|
+|C|5.50~6.49|4|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
+|D|< 5.50|<4|我甚至不想推完所以一般不存在|
 
 ~~SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告诉我。~~ 已经有了。
 
@@ -189,7 +190,7 @@ permalink: /impression/avg
       <td style="text-align: right">6</td>
       <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
       <td style="text-align: right">7.33</td>
-      <td style="text-align: center">B</td>
+      <td style="text-align: center">B-</td>
       <td style="text-align: right">283×7.10<br>#2757</td>
       <td style="text-align: right">228×76<br>(78)</td>
       <td style="text-align: center">搞笑萌</td>
@@ -303,7 +304,7 @@ permalink: /impression/avg
       <td style="text-align: right">14</td>
       <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a></td>
       <td style="text-align: right">7.40</td>
-      <td style="text-align: center">B</td>
+      <td style="text-align: center">B-</td>
       <td style="text-align: right">300×7.02<br>#2989</td>
       <td style="text-align: right">408×77<br>(79)</td>
       <td style="text-align: center">搞笑萌</td>
@@ -378,7 +379,7 @@ permalink: /impression/avg
     <tr>
       <td style="text-align: right">20</td>
       <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a>（含 -椿恋歌-）</td>
-      <td style="text-align: right">7.78</td>
+      <td style="text-align: right">7.62</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">406×6.61<br>#4057</td>
       <td style="text-align: right">245×76<br>(78)</td>
