@@ -24,13 +24,13 @@ categories: KawaiiGirls
 
 ![ありがとう！](http://yoro.xyz/smee-logos.jpg)
 
-题外话：我在 [MoeImp - Kanojo\*Step](http://yoro.xyz/impression/ks) 里面也提到过，除了 Sugar\*Style 之外已经没有什么值得一推的 SMEE 作品了。心情好的话可能会把 HaremKingdom 捡起来，但是大概率不会。Sugar\*Style 的剧本不是早濑，而且汉化还没做完，所以还是等汉化吧。最早三作实在没啥动力推，风格也没成型所以也没必要（）  
+题外话：我在 [MoeImp - Kanojo\*Step](http://yoro.xyz/impression/avg/ks) 里面也提到过，除了 Sugar\*Style 之外已经没有什么值得一推的 SMEE 作品了。心情好的话可能会把 HaremKingdom 捡起来，但是大概率不会。Sugar\*Style 的剧本不是早濑，而且汉化还没做完，所以还是等汉化吧。最早三作实在没啥动力推，风格也没成型所以也没必要（）  
 但是今年出的这个后宫作让我对这个会社的未来开始担心了。以后还能不能吃到这种高浓度高纯度的糖也成了未知数。
 
 MoeImp  
-[Lover Able (8.30)](http://yoro.xyz/impression/loverable)  
-[同棲 LoverAble (8.42)](http://yoro.xyz/impression/loverable)  
-[Friend to Lover (8.53)](http://yoro.xyz/impression/ftl)  
-[Pure×Connect (8.12)](http://yoro.xyz/impression/pxc)  
-[Kanojo\*Step (8.19)](http://yoro.xyz/impression/ks)  
-[Making\*Lovers (8.00)](http://yoro.xyz/impression/ml)  
+[Lover Able (8.30)](http://yoro.xyz/impression/avg/loverable)  
+[同棲 LoverAble (8.42)](http://yoro.xyz/impression/avg/loverable)  
+[Friend to Lover (8.53)](http://yoro.xyz/impression/avg/ftl)  
+[Pure×Connect (8.12)](http://yoro.xyz/impression/avg/pxc)  
+[Kanojo\*Step (8.19)](http://yoro.xyz/impression/avg/ks)  
+[Making\*Lovers (8.00)](http://yoro.xyz/impression/avg/ml)  

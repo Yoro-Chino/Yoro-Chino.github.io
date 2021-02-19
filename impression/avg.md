@@ -107,9 +107,9 @@ permalink: /impression/avg
 
 另外，一般情况下，此评分尽量以对应作品「最初发行平台的最新版本」作为评判标准，因此比如说 白色相簿 2 的浮气线是不包括「致不共戴天的你」部分的剧情的（因为 PC 版没有），再比如 Clover Day's 选取的是 Plus 版本。可能有我没有注意到的例外，不过一般其实不影响。
 
-## [计算方式](http://yoro.xyz/impression/exp)
+## [计算方式](http://yoro.xyz/impression/avg/exp)
 
-## [更新日志](http://yoro.xyz/impression/history)
+## [更新日志](http://yoro.xyz/impression/avg/history)
 
 ## 得分总览
 
@@ -119,7 +119,7 @@ permalink: /impression/avg
 
 推荐度分为 T0、T1、T1.5、T2、T3 ，其中 T0 内部存在顺序，以 T0#n 表示。
 
-抛弃作见[此处](http://yoro.xyz/impression/giveup)。
+抛弃作见[此处](http://yoro.xyz/impression/avg/giveup)。
 
 <div class="table-responsive">
 <table>
@@ -138,7 +138,7 @@ permalink: /impression/avg
   <tbody>
     <tr>
       <td style="text-align: right">1</td>
-      <td><a href="http://yoro.xyz/impression/ml">Making*Lovers</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/ml">Making*Lovers</a></td>
       <td style="text-align: right">8.04</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">607×7.59<br>#1248</td>
@@ -148,7 +148,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">2</td>
-      <td><a href="http://yoro.xyz/impression/pxc">ピュア×コネクト（Pure×Connect）</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/pxc">ピュア×コネクト（Pure×Connect）</a></td>
       <td style="text-align: right">8.11</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">166×7.74<br>#911</td>
@@ -158,7 +158,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">3</td>
-      <td><a href="http://yoro.xyz/impression/srbk">千恋*万花</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/srbk">千恋*万花</a></td>
       <td style="text-align: right">8.26</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">1343×7.20<br>#2487</td>
@@ -168,7 +168,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">4</td>
-      <td><a href="http://yoro.xyz/impression/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
       <td style="text-align: right">8.52</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">1294×7.48<br>#1559</td>
@@ -178,7 +178,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">5</td>
-      <td><a href="http://yoro.xyz/impression/rj">Riddle Joker</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/rj">Riddle Joker</a></td>
       <td style="text-align: right">8.22</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">1028×6.90<br>#3385</td>
@@ -188,7 +188,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">6</td>
-      <td><a href="http://yoro.xyz/impression/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
       <td style="text-align: right">7.33</td>
       <td style="text-align: center">B-</td>
       <td style="text-align: right">283×7.10<br>#2757</td>
@@ -198,7 +198,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">7</td>
-      <td><a href="http://yoro.xyz/impression/wa2">White Album 2</a>（coda）²</td>
+      <td><a href="http://yoro.xyz/impression/avg/wa2">White Album 2</a>（coda）²</td>
       <td style="text-align: right">9.75</td>
       <td style="text-align: center">SS</td>
       <td style="text-align: right">2432×8.89<br>#12</td>
@@ -208,7 +208,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">8</td>
-      <td><a href="http://yoro.xyz/impression/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
       <td style="text-align: right">5.91</td>
       <td style="text-align: center">C</td>
       <td style="text-align: right">158×6.53<br>#4081</td>
@@ -218,7 +218,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">A1</td>
-      <td><a href="http://yoro.xyz/impression/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
       <td style="text-align: right">9.15</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">457×8.18<br>#324</td>
@@ -229,7 +229,7 @@ permalink: /impression/avg
     <!--
     <tr>
       <td style="text-align: right">9</td>
-      <td><a href="http://yoro.xyz/impression/hak">HaremKingdom</a>（已弃坑）</td>
+      <td><a href="http://yoro.xyz/impression/avg/hak">HaremKingdom</a>（已弃坑）</td>
       <td style="text-align: right">2.64</td>
       <td style="text-align: center">D</td>
       <td style="text-align: right">70×7.06<br>#2674</td>
@@ -240,7 +240,7 @@ permalink: /impression/avg
     -->
     <tr>
       <td style="text-align: right">11A</td>
-      <td><a href="http://yoro.xyz/impression/9nine#九次九日九重色">9-nine 九次九日九重色</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/9nine#九次九日九重色">9-nine 九次九日九重色</a></td>
       <td style="text-align: right">7.84</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">806×6.56<br>#4163</td>
@@ -250,7 +250,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">11B</td>
-      <td><a href="http://yoro.xyz/impression/9nine#天色天歌天籁音">9-nine 天色天歌天籁音</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/9nine#天色天歌天籁音">9-nine 天色天歌天籁音</a></td>
       <td style="text-align: right">9.32</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">730×7.45<br>#1684</td>
@@ -258,7 +258,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">11C</td>
-      <td><a href="http://yoro.xyz/impression/9nine#春色春恋春熙风">9-nine 春色春恋春熙风</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/9nine#春色春恋春熙风">9-nine 春色春恋春熙风</a></td>
       <td style="text-align: right">8.56</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">489×7.35<br>#1986</td>
@@ -266,7 +266,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">11D</td>
-      <td><a href="http://yoro.xyz/impression/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
       <td style="text-align: right">8.32</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">376×7.88<br>#665</td>
@@ -274,7 +274,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">11</td>
-      <td><a href="http://yoro.xyz/impression/9nine#整体评价">9-nine 整体评价</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/9nine#整体评价">9-nine 整体评价</a></td>
       <td style="text-align: right">8.51</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
@@ -282,7 +282,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">12</td>
-      <td><a href="http://yoro.xyz/impression/ftl">フレラバ ~Friend to Lover~</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/ftl">フレラバ ~Friend to Lover~</a></td>
       <td style="text-align: right">8.76</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">610×7.71<br>#967</td>
@@ -292,7 +292,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">13</td>
-      <td><a href="http://yoro.xyz/impression/cc">CROSS†CHANNEL</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/cc">CROSS†CHANNEL</a></td>
       <td style="text-align: right">9.38</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">1289×8.70<br>#39</td>
@@ -302,7 +302,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">14</td>
-      <td><a href="http://yoro.xyz/impression/karigurashi">かりぐらし恋愛</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/karigurashi">かりぐらし恋愛</a></td>
       <td style="text-align: right">7.40</td>
       <td style="text-align: center">B-</td>
       <td style="text-align: right">300×7.02<br>#2989</td>
@@ -312,7 +312,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">15</td>
-      <td><a href="http://yoro.xyz/impression/kl">金色 Loveriche</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/kl">金色 Loveriche</a></td>
       <td style="text-align: right">9.43</td>
       <td style="text-align: center">S+</td>
       <td style="text-align: right">599×7.94<br>#596</td>
@@ -322,7 +322,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">16</td>
-      <td><a href="http://yoro.xyz/impression/stella">喫茶ステラと死神の蝶（星光咖啡馆与死神之蝶）</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/stella">喫茶ステラと死神の蝶（星光咖啡馆与死神之蝶）</a></td>
       <td style="text-align: right">8.19</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">459×6.99<br>#3126</td>
@@ -332,7 +332,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">17A</td>
-      <td><a href="http://yoro.xyz/impression/la">ラブラブル ~Lover Able~</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/la">ラブラブル ~Lover Able~</a></td>
       <td style="text-align: right">8.40</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">84×7.56<br>#1397</td>
@@ -342,7 +342,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">17B</td>
-      <td><a href="http://yoro.xyz/impression/la">同棲ラブラブル</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/la">同棲ラブラブル</a></td>
       <td style="text-align: right">8.47</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">47×7.66<br>#1242</td>
@@ -350,7 +350,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">17</td>
-      <td><a href="http://yoro.xyz/impression/la">ラブラブル 系列</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/la">ラブラブル 系列</a></td>
       <td style="text-align: right">8.44</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">-</td>
@@ -358,7 +358,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">18</td>
-      <td><a href="http://yoro.xyz/impression/ks">カノジョ＊ステップ（彼女*心渐近）</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/ks">カノジョ＊ステップ（彼女*心渐近）</a></td>
       <td style="text-align: right">8.15</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">149×7.19<br>#2429</td>
@@ -368,7 +368,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">19</td>
-      <td><a href="http://yoro.xyz/impression/sakuuta">サクラノ詩 －櫻の森の上を舞う－</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/sakuuta">サクラノ詩 －櫻の森の上を舞う－</a></td>
       <td style="text-align: right">10.00</td>
       <td style="text-align: center">SSS</td>
       <td style="text-align: right">1095×9.14<br>#2</td>
@@ -378,7 +378,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">20</td>
-      <td><a href="http://yoro.xyz/impression/mekuiro">絆きらめく恋いろは</a>（含 -椿恋歌-）</td>
+      <td><a href="http://yoro.xyz/impression/avg/mekuiro">絆きらめく恋いろは</a>（含 -椿恋歌-）</td>
       <td style="text-align: right">7.62</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">406×6.61<br>#4057</td>
@@ -388,7 +388,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">21</td>
-      <td><a href="http://yoro.xyz/impression/cd">Clover Day's</a> Plus</td>
+      <td><a href="http://yoro.xyz/impression/avg/cd">Clover Day's</a> Plus</td>
       <td style="text-align: right">8.88</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">918×7.41<br>#1799</td>
@@ -398,7 +398,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">22</td>
-      <td><a href="http://yoro.xyz/impression/mashiro">ましろ色シンフォニー（纯白交响曲）</a>⁷</td>
+      <td><a href="http://yoro.xyz/impression/avg/mashiro">ましろ色シンフォニー（纯白交响曲）</a>⁷</td>
       <td style="text-align: right">8.30</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">970×7.22<br>#2421</td>
@@ -408,7 +408,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">23</td>
-      <td><a href="http://yoro.xyz/impression/koikake">恋×シンアイ彼女</a>（未完成）</td>
+      <td><a href="http://yoro.xyz/impression/avg/koikake">恋×シンアイ彼女</a>（未完成）</td>
       <td style="text-align: right">-</td>
       <td style="text-align: center">-</td>
       <td style="text-align: right">1054×7.59<br>#1258</td>
@@ -418,7 +418,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">24</td>
-      <td><a href="http://yoro.xyz/impression/atri">ATRI -My Dear Moments-</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/atri">ATRI -My Dear Moments-</a></td>
       <td style="text-align: right">8.68</td>
       <td style="text-align: center">S</td>
       <td style="text-align: right">458×7.74<br>#903</td>
@@ -428,7 +428,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">25</td>
-      <td><a href="http://yoro.xyz/impression/ss">Sugar*Style</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/ss">Sugar*Style</a></td>
       <td style="text-align: right">8.11</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">66×6.94<br>#2959</td>
@@ -438,7 +438,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">26</td>
-      <td><a href="http://yoro.xyz/impression/tonakoi">キミのとなりで恋してる！</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/tonakoi">キミのとなりで恋してる！</a></td>
       <td style="text-align: right">8.25</td>
       <td style="text-align: center">A</td>
       <td style="text-align: right">292×7.47<br>#1610</td>
@@ -448,7 +448,7 @@ permalink: /impression/avg
     </tr>
     <tr>
       <td style="text-align: right">27</td>
-      <td><a href="http://yoro.xyz/impression/amachoco">あまいろショコラータ（巧克甜恋）</a></td>
+      <td><a href="http://yoro.xyz/impression/avg/amachoco">あまいろショコラータ（巧克甜恋）</a></td>
       <td style="text-align: right">7.70</td>
       <td style="text-align: center">B</td>
       <td style="text-align: right">66×6.35<br>#4150</td>

@@ -47,4 +47,4 @@ categories: KawaiiGirls
 
 ![ずっとそばに](http://yoro.xyz/ftl-rina.png)
 
-[MoeImp フレラバ ~Friend to Lover~](http://yoro.xyz/impression/ftl)
+[MoeImp フレラバ ~Friend to Lover~](http://yoro.xyz/impression/avg/ftl)
