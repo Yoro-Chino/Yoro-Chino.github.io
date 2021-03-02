@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Arcaea 随机段位选曲器</title>
+	<style>
+		body {
+		  background: #000000;
+		}
+		select{
+			background:#00000093;
+			color:#fff;
+			bottom: 20%;
+			font-family: mr-eaves-sans, sans-serif;
+			font-size:40px;
+			box-shadow: 4px 4px 0px rgba(23, 95, 168, 0.40);
+		}
+		button{
+			background:#00000093;
+			color:#fff;
+			font-family: mr-eaves-sans, sans-serif;
+			font-size:20px;
+			border:2px solid rgba(103, 177, 252, 0.4);
+			box-shadow: 4px 4px 0px rgba(23, 95, 168, 0.40);
+			text-shadow: 4px 0px 0px rgba(23, 95, 168, 0.80);
+		}
+		.copyright{
+			position:fixed;
+			bottom:10px;
+			left:10px;
+			background:#000;
+			color:#fff;
+			font-family: mr-eaves-sans, sans-serif;
+			font-size:10px;
+			text-shadow: 4px 0px 0px rgba(23, 95, 168, 0.80);
+			text-align:center;
+		}
+		.container {
+		  height: 100%;
+		  width: 100%;
+		  margin: 0 auto;
+		  touch-action: none;
+		}
+		.container .ctr {
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  transform: translate(-50%, -50%);
+		  width: 100%;
+		  background: url('https://lowest.world/background.png') no-repeat center;
+		  height: 100px;
+		  text-align: center;
+		  background-size: cover;
+		  max-width: 1680px;
+		}
+		.container .selectbutton{
+		  background:#000;
+		  color:#fff;
+		  font-family: mr-eaves-sans, sans-serif;
+		  text-shadow: 4px 0px 0px rgba(23, 95, 168, 0.80);
+		  font-size:20px;
+		  font-weight:250;
+		  position: absolute;
+		  top: 68%;
+		  left: 50%;
+		  transform: translate(-50%, -50%);
+		  width: 100%;
+		  height: 100px;
+		  text-align: center;
+		  background-size: cover;
+		  max-width: 1680px;
+		}
+		.container .ctr .text {
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  transform: translate(-50%, -50%);
+		  color: #ffffff;
+		  font-size: 46px;
+		  font-family: mr-eaves-sans, sans-serif;
+		  font-weight: 300;
+		  font-style: normal;
+		  text-shadow: 4px 0px 0px rgba(23, 95, 168, 0.80);
+		  letter-spacing: 2px;
+		  white-space: nowrap;
+		}
+		.container .ctr .timer {
+		  position: relative;
+		  color: #fff;
+		  top: 110px;
+		  opacity: 0.3;
+		  font-family: Arial, Helvetica, sans-serif;
+		  font-weight: 200;
+		  font-size: 16px;
+		  letter-spacing: 0px;
+		}
+		@media only screen and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr .text {
+			font-size: 46px !important;
+		  }
+		}
+		@media only screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr .text {
+			font-size: 39px !important;
+		  }
+		  .container .ctr .timer {
+			font-size: 15px;
+		  }
+		}
+		@media only screen and (max-width: 650px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr {
+			height: 76px;
+		  }
+		  .container .ctr .text {
+			font-size: 34px !important;
+		  }
+		  .container .ctr .timer {
+			font-size: 14px;
+		  }
+		}
+		@media only screen and (max-width: 600px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr .text {
+			font-size: 30px !important;
+		  }
+		  .container .ctr .timer {
+			font-size: 13px;
+		  }
+		}
+		@media only screen and (max-width: 560px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr .text {
+			font-size: 27px !important;
+		  }
+		  .container .ctr .timer {
+			font-size: 12px;
+		  }
+		}
+		@media only screen and (max-width: 520px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr .text {
+			font-size: 25px !important;
+		  }
+		  .container .ctr .timer {
+			font-size: 11px;
+		  }
+		}
+		@media only screen and (max-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr {
+			height: 50px;
+		  }
+		  .container .ctr .text {
+			font-size: 21px !important;
+			letter-spacing: 1.2px;
+		  }
+		  .container .ctr .timer {
+			font-size: 10px;
+			top: 55px;
+		  }
+		}
+		@media only screen and (max-width: 414px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr {
+			height: 50px;
+		  }
+		  .container .ctr .text {
+			font-size: 18px !important;
+			letter-spacing: 1.2px;
+		  }
+		  .container .ctr .timer {
+			font-size: 9px;
+			top: 55px;
+		  }
+		}
+		@media only screen and (max-width: 375px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr {
+			height: 50px;
+		  }
+		  .container .ctr .text {
+			font-size: 16px !important;
+			letter-spacing: 1.2px;
+		  }
+		  .container .ctr .timer {
+			top: 55px;
+			font-size: 9px;
+		  }
+		}
+		@media only screen and (max-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+		  .container .ctr {
+			height: 50px;
+		  }
+		  .container .ctr .text {
+			font-size: 13px !important;
+			letter-spacing: 1.2px;
+		  }
+		  .container .ctr .timer {
+			top: 55px;
+			font-size: 8px;
+		  }
+		}
+		@media only screen and (max-width: 1200px) {
+		  .container .ctr .text {
+			font-size: 46px;
+		  }
+		}
+		@media only screen and (max-width: 831px) {
+		  .container .ctr .text {
+			font-size: 43px;
+		  }
+		}
+		@media only screen and (max-width: 768px) {
+		  .container .ctr .text {
+			font-size: 40px;
+		  }
+		}
+		@media only screen and (max-width: 720px) {
+		  .container .ctr .text {
+			font-size: 38px;
+		  }
+		}
+		@media only screen and (max-width: 640px) {
+		  .container .ctr .text {
+			font-size: 33px;
+		  }
+		}
+		@media only screen and (max-width: 480px) {
+		  .container .ctr .text {
+			font-size: 33px;
+		  }
+		}
+		@media only screen and (max-width: 420px) {
+		  .container .ctr .text {
+			font-size: 30px;
+		  }
+		}
+		@media only screen and (max-width: 400px) {
+		  .container .ctr .text {
+			font-size: 22px;
+		  }
+		}
+		@media only screen and (max-width: 320px) {
+		  .container .ctr .text {
+			font-size: 18px;
+		  }
+		}
+		</style>
+</head>
+<body>
+	<div id="loading" class="container">
+		<div class="ctr">
+			<div class="text">正在加载songlist</div>
+		</div>
+	</div>
+	<div id="main" style="display:none" class="container">
+		<div class="ctr">
+			<div class="text">RANDOM -CLASS <select name="level" id="level">
+				<option value="I">I</option>
+				<option value="II">II</option>
+				<option value="III">III</option>
+				<option value="IV">IV</option>
+				<option value="V">V</option>
+				<option value="∞" selected="true">∞</option>
+			</select> - SET</div>
+		</div>
+		<div class="selectbutton">
+			<div class="text"><button id="chart-select-1" style="display:none">随机选择第一谱面</button><span id="chart-1" style="display:none"></span></div>
+			<div class="text"><button id="chart-select-2" style="display:none">随机选择第二谱面</button><span id="chart-2" style="display:none"></span></div>
+			<div class="text"><button id="chart-select-3" style="display:none">随机选择第三谱面</button><span id="chart-3" style="display:none"></span></div>
+			<div class="text"><button id="chart-select-reset" style="display:none">再来一次</button></p>
+		</div>
+	</div>
+	<div class="copyright">Program by benpigchu, Visual by HCyT</div>
+</body>
+<script>
+	const app=async()=>{
+		//fetch
+		const fetchSonglist=()=>new Promise((res,rej)=>{
+			const script=document.createElement("script")
+			script.type="text/javascript"
+			script.src="https://wiki.arcaea.cn/api.php?action=parse&format=json&page=Template%3ASonglist&prop=wikitext&callback=__JSONP__fetchSonglist"
+			window.__JSONP__fetchSonglist=(data)=>{
+				document.getElementsByTagName("head")[0].removeChild(script)
+				res(JSON.parse(data.parse.wikitext["*"]))
+			}
+			document.getElementsByTagName("head")[0].appendChild(script)
+		})
+		const songlist=await fetchSonglist()
+		console.log(songlist)
+		//config
+		const ratingOfClass={
+			"I":[["8"],["8"],["9"]],
+			"II":[["8"],["9"],["9"]],
+			"III":[["9"],["9"],["9+"]],
+			"IV":[["9"],["9+"],["10"]],
+			"V":[["9+"],["10"],["10+"]],
+			"∞":[["9","9+"],["10","10+"],["11"]],
+		}
+		//preprocess
+		const chartByRating=new Map()
+		for(const song of songlist.songs){
+			song.difficulties.forEach((d,i)=>{
+				const rating=d.rating+(d.ratingPlus?"+":"")
+				const value={diff:i,song}
+				if (!chartByRating.has(rating)){
+					chartByRating.set(rating,[])
+				}
+				chartByRating.get(rating).push(value)
+			})
+		}
+		console.log(chartByRating)
+		//util
+		const select=(level,index)=>{
+			let charts=[]
+			ratingOfClass[level][index].forEach((rating)=>{
+				charts=[...charts,...chartByRating.get(rating)]
+			})
+			const chart=charts[Math.floor(Math.random()*charts.length)]
+			console.log(chart)
+			const d=chart.song.difficulties[chart.diff]
+			const rating=d.rating+(d.ratingPlus?"+":"")
+			const ratingClass=d.ratingClass==0?"PST":
+				d.ratingClass==1?"PRS":
+				d.ratingClass==2?"FTR":
+				d.ratingClass==3?"BYD":
+				"???"
+			const text=`${chart.song.title_localized.en} [${ratingClass} ${rating}]`
+			console.log(text)
+			return text
+		}
+		//ui init
+		document.getElementById("loading").style.display="none"
+		document.getElementById("main").style.display=""
+		const chartSelect1=document.getElementById("chart-select-1")
+		const chartSelect2=document.getElementById("chart-select-2")
+		const chartSelect3=document.getElementById("chart-select-3")
+		const chartSelectReset=document.getElementById("chart-select-reset")
+		const chart1=document.getElementById("chart-1")
+		const chart2=document.getElementById("chart-2")
+		const chart3=document.getElementById("chart-3")
+		const level=document.getElementById("level")
+		chartSelect1.style.display=""
+		chartSelect1.addEventListener("click",()=>{
+			chart1.innerText=select(level.value,0)
+			chart1.style.display=""
+			chartSelect1.style.display="none"
+			chartSelect2.style.display=""
+		})
+		chartSelect2.addEventListener("click",()=>{
+			chart2.innerText=select(level.value,1)
+			chart2.style.display=""
+			chartSelect2.style.display="none"
+			chartSelect3.style.display=""
+		})
+		chartSelect3.addEventListener("click",()=>{
+			chart3.innerText=select(level.value,2)
+			chart3.style.display=""
+			chartSelect3.style.display="none"
+			chartSelectReset.style.display=""
+		})
+		const reset=()=>{
+			chartSelect1.style.display=""
+			chartSelect2.style.display="none"
+			chartSelect3.style.display="none"
+			chartSelectReset.style.display="none"
+			chart1.style.display="none"
+			chart2.style.display="none"
+			chart3.style.display="none"
+		}
+		chartSelectReset.addEventListener("click",reset)
+		level.addEventListener("change",reset)
+	}
+	app()
+</script>
+</html>
