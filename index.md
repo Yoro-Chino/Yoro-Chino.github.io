@@ -3,7 +3,7 @@ layout: home
 title: "依田萌绘 / 依田もえ"
 ---
 
-<iframe height="750" width=100% src="https://ac.yunyoujun.cn" frameborder=0></iframe>
+<iframe height="750" width=100% src="https://ac.yunyoujun.cn" frameborder=0 border=0></iframe>
 
 故事屋冷气开放——话说回来学生间的空调不能用真的要命。
 
