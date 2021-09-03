@@ -26,7 +26,7 @@ Leaf 「White Album 2」（2011）
 | 冬马 TE | 11.90 |
 | 浮气线 | 10.95 |
 | 整体评分 |12.48<br />N9.75|
-| Rank |  SS  |
+| Rank |  SSS  |
 
 ## [雪菜 TE](http://yoro.xyz/kawaiigirls/2020/02/22/wa2-setsuna-moetalk.html)
 
@@ -89,7 +89,7 @@ Leaf 「White Album 2」（2011）
 
 线路平均 11.58  
 coda 突入 +0.3 音乐 +0.6  
-总分 12.48/N9.75 SS
+总分 12.48/N9.75 SSS
 
 coda 的设计精妙之处在[我之前的一个 MoeTalk](https://t.bilibili.com/357881633161860094?tab=2) 已经说过了：
 

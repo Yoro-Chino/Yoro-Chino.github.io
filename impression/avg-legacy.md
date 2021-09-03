@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp AVG - 个人欣赏与评分"
 date:   2020-01-09 01:33:00 +0800
 categories: Special
-permalink: /impression/avg
+permalink: /impression/avg-legacy
 ---
 <style type="text/css">
 .table-responsive {
@@ -75,25 +75,23 @@ permalink: /impression/avg
 
 个人主观评价，全看心情。
 
-对于 AVG/Gal 的评分相对来说形成了一个比较成体系的体系，评价等级按照下表，大概就是这么个等级，然后每个等级细分成三部分，比如 S+ S S-。
+对于 AVG/Gal 的评分相对来说形成了一个比较成体系的体系，评价等级按照下表，大概就是这么个等级。
 
 |Rank|MoeImp-N2|评分|评价|
 |:------:|:------:|---:|:------|
-|SSS+|≥ 10.00|10|……|
-|SSS|9.50~9.99|10|稀有的超神作，值得每一个人都玩一玩|
-|SS|9.00~9.49|9|当之无愧的神作，有着特殊的闪光点|
+|SSS|≥ 10.00|10|……|
+|SS|9.50~9.99|10|稀有的超神作，值得每一个人都玩一玩|
+|S+|9.00~9.49|9|当之无愧的神作，有着特殊的闪光点|
 |S|8.40~8.99|8|非常优秀的作品|
 |A|8.00~8.39|7|良作，看起来没什么缺点，但是有些地方差点意思|
 |B|7.50~7.99|6|及格的作品，但是有明显缺陷|
-|C|6.50~7.49|5|缺陷大到我觉得有点难受的程度了|
-|D|5.50~6.49|4|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
-|F|< 5.50|<4|我甚至不想推完所以一般不存在|
-|DNF|-|-|弃坑了。|
+|B-|6.50~7.49|5|缺陷大到我觉得有点难受的程度了|
+|C|5.50~6.49|4|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
+|D|< 5.50|<4|我甚至不想推完所以一般不存在|
 
-~~SSS+ 的我觉得不太可能有，但是要是有人真的觉得有的话请告诉我。~~ 已经有了。
+~~SSS 的我觉得不太可能有，但是要是有人真的觉得有的话请告诉我。~~ 已经有了。
 
-评分最新更新日期：2020 年 07 月 22 日  
-等级最新更新日期：2021 年 09 月 03 日
+评分最新更新日期：2020 年 07 月 22 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -110,8 +108,6 @@ permalink: /impression/avg
 另外，一般情况下，此评分尽量以对应作品「最初发行平台的最新版本」作为评判标准，因此比如说 白色相簿 2 的浮气线是不包括「致不共戴天的你」部分的剧情的（因为 PC 版没有），再比如 Clover Day's 选取的是 Plus 版本。可能有我没有注意到的例外，不过一般其实不影响。
 
 ## [计算方式](http://yoro.xyz/impression/avg/exp)
-
-（21/09/03 更新）即日起不再给出新的分数，而是直接采用等级制进行评价，原有的总分对应等级不变，但是之后的就只有等级了。
 
 ## [更新日志](http://yoro.xyz/impression/avg/history)
 
@@ -131,7 +127,10 @@ permalink: /impression/avg
     <tr>
       <th style="text-align: right">#</th>
       <th>标题</th>
+      <th style="text-align: right">Point</th>
       <th style="text-align: center">Rank</th>
+      <th style="text-align: right">Bangumi⁰</th>
+      <th style="text-align: right">EGS⁰</th>
       <th style="text-align: center; min-width: 65px">分类</th>
       <th style="text-align: center">推荐度</th>
     </tr>
@@ -140,238 +139,328 @@ permalink: /impression/avg
     <tr>
       <td style="text-align: right">1</td>
       <td><a href="http://yoro.xyz/impression/avg/ml">Making*Lovers</a></td>
-      <td style="text-align: center">A-</td>
+      <td style="text-align: right">8.04</td>
+      <td style="text-align: center">A</td>
+      <td style="text-align: right">607×7.59<br>#1248</td>
+      <td style="text-align: right">468×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1¹</td>
     </tr>
     <tr>
       <td style="text-align: right">2</td>
       <td><a href="http://yoro.xyz/impression/avg/pxc">ピュア×コネクト（Pure×Connect）</a></td>
-      <td style="text-align: center">A-</td>
+      <td style="text-align: right">8.11</td>
+      <td style="text-align: center">A</td>
+      <td style="text-align: right">166×7.74<br>#911</td>
+      <td style="text-align: right">709×81<br>(81)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">3</td>
       <td><a href="http://yoro.xyz/impression/avg/srbk">千恋*万花</a></td>
+      <td style="text-align: right">8.26</td>
       <td style="text-align: center">A</td>
+      <td style="text-align: right">1343×7.20<br>#2487</td>
+      <td style="text-align: right">879×77<br>(78)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">4</td>
       <td><a href="http://yoro.xyz/impression/avg/sanoba">サノバウィッチ （魔女的夜宴）</a></td>
-      <td style="text-align: center">S-</td>
+      <td style="text-align: right">8.52</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">1294×7.48<br>#1559</td>
+      <td style="text-align: right">1292×79<br>(80)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">5</td>
       <td><a href="http://yoro.xyz/impression/avg/rj">Riddle Joker</a></td>
+      <td style="text-align: right">8.22</td>
       <td style="text-align: center">A</td>
+      <td style="text-align: right">1028×6.90<br>#3385</td>
+      <td style="text-align: right">645×76<br>(77)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">6</td>
       <td><a href="http://yoro.xyz/impression/avg/renaikari">恋愛、借りちゃいました（恋爱，我就借走了）</a></td>
-      <td style="text-align: center">C+</td>
+      <td style="text-align: right">7.33</td>
+      <td style="text-align: center">B-</td>
+      <td style="text-align: right">283×7.10<br>#2757</td>
+      <td style="text-align: right">228×76<br>(78)</td>
       <td style="text-align: center">搞笑萌</td>
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">7</td>
       <td><a href="http://yoro.xyz/impression/avg/wa2">White Album 2</a>（coda）²</td>
-      <td style="text-align: center">SSS</td>
+      <td style="text-align: right">9.75</td>
+      <td style="text-align: center">SS</td>
+      <td style="text-align: right">2432×8.89<br>#12</td>
+      <td style="text-align: right">2251×89<br>(94)</td>
       <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">8</td>
       <td><a href="http://yoro.xyz/impression/avg/oshilove">推しのラブより恋のラブ（一生推不如一生恋）</a></td>
-      <td style="text-align: center">D</td>
+      <td style="text-align: right">5.91</td>
+      <td style="text-align: center">C</td>
+      <td style="text-align: right">158×6.53<br>#4081</td>
+      <td style="text-align: right">48×70<br>(70)</td>
       <td style="text-align: center">百合</td>
       <td style="text-align: center">T3</td>
     </tr>
     <tr>
       <td style="text-align: right">A1</td>
       <td><a href="http://yoro.xyz/impression/avg/va11">VA-11 Hall-A: Cyberpunk Bartender Action</a></td>
-      <td style="text-align: center">SS-</td>
+      <td style="text-align: right">9.15</td>
+      <td style="text-align: center">S+</td>
+      <td style="text-align: right">457×8.18<br>#324</td>
+      <td style="text-align: right">-</td>
       <td style="text-align: center">全年龄</td>
       <td style="text-align: center">-</td>
     </tr>
+    <!--
     <tr>
       <td style="text-align: right">9</td>
-      <td><a href="http://yoro.xyz/impression/avg/hak">HaremKingdom</a></td>
-      <td style="text-align: center">DNF</td>
+      <td><a href="http://yoro.xyz/impression/avg/hak">HaremKingdom</a>（已弃坑）</td>
+      <td style="text-align: right">2.64</td>
+      <td style="text-align: center">D</td>
+      <td style="text-align: right">70×7.06<br>#2674</td>
+      <td style="text-align: right">137×75<br>(75)</td>
       <td style="text-align: center">搞笑萌</td>
       <td style="text-align: center">T3</td>
     </tr>
-    <tr>
-      <td style="text-align: right">10</td>
-      <td>CLANNAD</td>
-      <td style="text-align: center">DNF</td>
-      <td style="text-align: center">气氛-泣</td>
-      <td style="text-align: center">T3</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">-</td>
-      <td>ひとつ飛ばし恋愛（间接之恋）</td>
-      <td style="text-align: center">DNF</td>
-      <td style="text-align: center">搞笑萌</td>
-      <td style="text-align: center">T3</td>
-    </tr>
+    -->
     <tr>
       <td style="text-align: right">11A</td>
       <td><a href="http://yoro.xyz/impression/avg/9nine#九次九日九重色">9-nine 九次九日九重色</a></td>
-      <td style="text-align: center">B+</td>
+      <td style="text-align: right">7.84</td>
+      <td style="text-align: center">B</td>
+      <td style="text-align: right">806×6.56<br>#4163</td>
+      <td style="text-align: right">514×74<br>(75)</td>
       <td style="text-align: center" rowspan="5">剧情萌</td>
       <td style="text-align: center" rowspan="5">T1⁴</td>
     </tr>
     <tr>
       <td style="text-align: right">11B</td>
       <td><a href="http://yoro.xyz/impression/avg/9nine#天色天歌天籁音">9-nine 天色天歌天籁音</a></td>
-      <td style="text-align: center">SS</td>
+      <td style="text-align: right">9.32</td>
+      <td style="text-align: center">S+</td>
+      <td style="text-align: right">730×7.45<br>#1684</td>
+      <td style="text-align: right">466×80<br>(80)</td>
     </tr>
     <tr>
       <td style="text-align: right">11C</td>
       <td><a href="http://yoro.xyz/impression/avg/9nine#春色春恋春熙风">9-nine 春色春恋春熙风</a></td>
-      <td style="text-align: center">S-</td>
+      <td style="text-align: right">8.56</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">489×7.35<br>#1986</td>
+      <td style="text-align: right">385×82<br>(83)</td>
     </tr>
     <tr>
       <td style="text-align: right">11D</td>
       <td><a href="http://yoro.xyz/impression/avg/9nine#雪色雪花雪之痕">9-nine 雪色雪花雪之痕</a></td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: right">8.32</td>
+      <td style="text-align: center">A</td>
+      <td style="text-align: right">376×7.88<br>#665</td>
+      <td style="text-align: right">363×86<br>(88)</td>
     </tr>
     <tr>
       <td style="text-align: right">11</td>
       <td><a href="http://yoro.xyz/impression/avg/9nine#整体评价">9-nine 整体评价</a></td>
-      <td style="text-align: center">S-</td>
+      <td style="text-align: right">8.51</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: right">-</td>
     </tr>
     <tr>
       <td style="text-align: right">12</td>
       <td><a href="http://yoro.xyz/impression/avg/ftl">フレラバ ~Friend to Lover~</a></td>
+      <td style="text-align: right">8.76</td>
       <td style="text-align: center">S</td>
+      <td style="text-align: right">610×7.71<br>#967</td>
+      <td style="text-align: right">728×81<br>(80)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T0#4</td>
     </tr>
     <tr>
       <td style="text-align: right">13</td>
       <td><a href="http://yoro.xyz/impression/avg/cc">CROSS†CHANNEL</a></td>
-      <td style="text-align: center">SS+</td>
+      <td style="text-align: right">9.38</td>
+      <td style="text-align: center">S+</td>
+      <td style="text-align: right">1289×8.70<br>#39</td>
+      <td style="text-align: right">4121×85<br>(90)</td>
       <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">14</td>
       <td><a href="http://yoro.xyz/impression/avg/karigurashi">かりぐらし恋愛</a></td>
-      <td style="text-align: center">C+</td>
+      <td style="text-align: right">7.40</td>
+      <td style="text-align: center">B-</td>
+      <td style="text-align: right">300×7.02<br>#2989</td>
+      <td style="text-align: right">408×77<br>(79)</td>
       <td style="text-align: center">搞笑萌</td>
       <td style="text-align: center">T2</td>
     </tr>
     <tr>
       <td style="text-align: right">15</td>
       <td><a href="http://yoro.xyz/impression/avg/kl">金色 Loveriche</a></td>
-      <td style="text-align: center">SS+</td>
+      <td style="text-align: right">9.43</td>
+      <td style="text-align: center">S+</td>
+      <td style="text-align: right">599×7.94<br>#596</td>
+      <td style="text-align: right">918×82<br>(84)</td>
+      <td style="text-align: center">纯爱萌<br>气氛-泣³</td>
       <td style="text-align: center">T0#3</td>
     </tr>
     <tr>
       <td style="text-align: right">16</td>
       <td><a href="http://yoro.xyz/impression/avg/stella">喫茶ステラと死神の蝶（星光咖啡馆与死神之蝶）</a></td>
+      <td style="text-align: right">8.19</td>
       <td style="text-align: center">A</td>
+      <td style="text-align: right">459×6.99<br>#3126</td>
+      <td style="text-align: right">342×75<br>(75)</td>
       <td style="text-align: center">轻剧情萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">17A</td>
       <td><a href="http://yoro.xyz/impression/avg/la">ラブラブル ~Lover Able~</a></td>
-      <td style="text-align: center">S-</td>
+      <td style="text-align: right">8.40</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">84×7.56<br>#1397</td>
+      <td style="text-align: right">895×79<br>(80)</td>
       <td style="text-align: center" rowspan="3">甜萌</td>
       <td style="text-align: center" rowspan="3">T1.5⁴</td>
     </tr>
     <tr>
       <td style="text-align: right">17B</td>
       <td><a href="http://yoro.xyz/impression/avg/la">同棲ラブラブル</a></td>
-      <td style="text-align: center">S-</td>
+      <td style="text-align: right">8.47</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">47×7.66<br>#1242</td>
+      <td style="text-align: right">367×75<br>(75)</td>
     </tr>
     <tr>
       <td style="text-align: right">17</td>
       <td><a href="http://yoro.xyz/impression/avg/la">ラブラブル 系列</a></td>
-      <td style="text-align: center">S-</td>
+      <td style="text-align: right">8.44</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: right">-</td>
     </tr>
     <tr>
       <td style="text-align: right">18</td>
       <td><a href="http://yoro.xyz/impression/avg/ks">カノジョ＊ステップ（彼女*心渐近）</a></td>
+      <td style="text-align: right">8.15</td>
       <td style="text-align: center">A</td>
+      <td style="text-align: right">149×7.19<br>#2429</td>
+      <td style="text-align: right">339×77<br>(78)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">19</td>
       <td><a href="http://yoro.xyz/impression/avg/sakuuta">サクラノ詩 －櫻の森の上を舞う－</a></td>
-      <td style="text-align: center">SSS+</td>
+      <td style="text-align: right">10.00</td>
+      <td style="text-align: center">SSS</td>
+      <td style="text-align: right">1095×9.14<br>#2</td>
+      <td style="text-align: right">1237×88<br>(90)</td>
       <td style="text-align: center">剧情</td>
       <td style="text-align: center">T0#1</td>
     </tr>
     <tr>
       <td style="text-align: right">20</td>
       <td><a href="http://yoro.xyz/impression/avg/mekuiro">絆きらめく恋いろは</a>（含 -椿恋歌-）</td>
-      <td style="text-align: center">B-</td>
+      <td style="text-align: right">7.62</td>
+      <td style="text-align: center">B</td>
+      <td style="text-align: right">406×6.61<br>#4057</td>
+      <td style="text-align: right">245×76<br>(78)</td>
       <td style="text-align: center">轻剧情萌<br />气氛-燃⁵</td>
       <td style="text-align: center">T2⁶</td>
     </tr>
     <tr>
       <td style="text-align: right">21</td>
       <td><a href="http://yoro.xyz/impression/avg/cd">Clover Day's</a> Plus</td>
-      <td style="text-align: center">S+</td>
+      <td style="text-align: right">8.88</td>
+      <td style="text-align: center">S</td>
+      <td style="text-align: right">918×7.41<br>#1799</td>
+      <td style="text-align: right">738×78<br>(80)</td>
       <td style="text-align: center">纯爱萌<br />治愈</td>
       <td style="text-align: center">T0#2</td>
     </tr>
     <tr>
       <td style="text-align: right">22</td>
       <td><a href="http://yoro.xyz/impression/avg/mashiro">ましろ色シンフォニー（纯白交响曲）</a>⁷</td>
-      <td style="text-align: center">A+</td>
+      <td style="text-align: right">8.30</td>
+      <td style="text-align: center">A</td>
+      <td style="text-align: right">970×7.22<br>#2421</td>
+      <td style="text-align: right">1807×78<br>(79)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1</td>
     </tr>
     <tr>
       <td style="text-align: right">23</td>
-      <td><a href="http://yoro.xyz/impression/avg/koikake">恋×シンアイ彼女</a></td>
-      <td style="text-align: center">DNF</td>
+      <td><a href="http://yoro.xyz/impression/avg/koikake">恋×シンアイ彼女</a>（未完成）</td>
+      <td style="text-align: right">-</td>
+      <td style="text-align: center">-</td>
+      <td style="text-align: right">1054×7.59<br>#1258</td>
+      <td style="text-align: right">529×71<br>(77)</td>
       <td style="text-align: center">气氛-郁</td>
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">24</td>
       <td><a href="http://yoro.xyz/impression/avg/atri">ATRI -My Dear Moments-</a></td>
+      <td style="text-align: right">8.68</td>
       <td style="text-align: center">S</td>
+      <td style="text-align: right">458×7.74<br>#903</td>
+      <td style="text-align: right">175×81<br>(82)</td>
       <td style="text-align: center">剧情<br />气氛-泣⁸</td>
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">25</td>
       <td><a href="http://yoro.xyz/impression/avg/ss">Sugar*Style</a></td>
-      <td style="text-align: center">A-</td>
+      <td style="text-align: right">8.11</td>
+      <td style="text-align: center">A</td>
+      <td style="text-align: right">66×6.94<br>#2959</td>
+      <td style="text-align: right">214×75<br>(75)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1.5</td>
     </tr>
     <tr>
       <td style="text-align: right">26</td>
       <td><a href="http://yoro.xyz/impression/avg/tonakoi">キミのとなりで恋してる！</a></td>
+      <td style="text-align: right">8.25</td>
       <td style="text-align: center">A</td>
+      <td style="text-align: right">292×7.47<br>#1610</td>
+      <td style="text-align: right">604×78<br>(80)</td>
       <td style="text-align: center">甜萌</td>
       <td style="text-align: center">T1⁹</td>
     </tr>
     <tr>
       <td style="text-align: right">27</td>
       <td><a href="http://yoro.xyz/impression/avg/amachoco">あまいろショコラータ（巧克甜恋）</a></td>
+      <td style="text-align: right">7.70</td>
       <td style="text-align: center">B</td>
+      <td style="text-align: right">66×6.35<br>#4150</td>
+      <td style="text-align: right">61×69<br>(70)</td>
       <td style="text-align: center">萌</td>
       <td style="text-align: center">T2</td>
     </tr>
   </tbody>
 </table>
 </div>
+
+⁰ 数据截至 20/06/20 或对应作品的 MoeImp 页面创建日期。一般认为 data 数超过 200 时分数具有参考价值。
 
 ¹ Making\*Lovers 的推荐度按线路给出。可怜线与真白线 T1，亚子线与咲线 T2，レイナ线 T3。
 
