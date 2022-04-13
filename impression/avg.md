@@ -89,11 +89,12 @@ permalink: /impression/avg
 |D|5.50~6.49|4|我姑且能推完且愿意给个评分，没推过的就没必要浪费这时间了|
 |F|< 5.50|<4|我甚至不想推完所以一般不存在|
 |DNF|-|-|弃坑了。|
+|TBD|-|-|还没推完。|
 
 ~~SSS+ 的我觉得不太可能有，但是要是有人真的觉得有的话请告诉我。~~ 已经有了。
 
-评分最新更新日期：2020 年 07 月 22 日  
-等级最新更新日期：2021 年 09 月 03 日
+评分最新更新日期：2022 年 04 月 13 日  
+等级最新更新日期：2022 年 04 月 13 日
 
 <p style="color: #AAAAAA">但是我经常忘记改这个评分更新日期，实际最新更新日期以本页面 commit 记录为准。</p>
 
@@ -368,6 +369,13 @@ permalink: /impression/avg
       <td style="text-align: center">B</td>
       <td style="text-align: center">萌</td>
       <td style="text-align: center">T2</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">28</td>
+      <td><a href="http://yoro.xyz/impression/avg/hamidashi">ハミダシクリエイティブ</a></td>
+      <td style="text-align: center">TBD</td>
+      <td style="text-align: center">萌</td>
+      <td style="text-align: center">TBD</td>
     </tr>
   </tbody>
 </table>
