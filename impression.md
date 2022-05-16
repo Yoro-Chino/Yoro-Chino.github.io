@@ -3,7 +3,7 @@ layout: post
 title:  "MoeImp - 个人欣赏与评分"
 date:   2020-01-09 01:33:00 +0800
 categories: Special
-permalink: /impression-archive
+permalink: /impression
 ---
 
 个人主观评价，全看心情。
