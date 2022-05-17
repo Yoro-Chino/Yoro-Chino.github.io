@@ -72,7 +72,7 @@ Saga Planets 21st Project 「金色ラブリッチェ」（2017）
 
 补充一下：不管哪条线玲奈的包容力都很强，令人感动（）
 
-![izumi: 没有觉得玲奈妈妈很棒吗（bushi）](http://yoro.xyz/izumi.png)
+![izumi: 没有觉得玲奈妈妈很棒吗（bushi）](../../image/izumi.png)
 
 ## エロイナ
 

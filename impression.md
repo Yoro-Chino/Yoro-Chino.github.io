@@ -410,4 +410,4 @@ https://www.zhihu.com/question/24522017/answer/28123782)）
 
 因此说这个评分标准实际上是一个基于主观的评分，和我的个人喜好的关系都很大。就拿 ML 来说，有人说 saki 姐姐天下第一，有人喜欢北大路可怜，我喜欢可怜，那么可能就会感觉可怜线回味无穷，这分就上去了（）
 
-<img src="http://yoro.xyz/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
+<img src="./image/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />

@@ -7,7 +7,7 @@ title: "依田萌绘 / 依田もえ"
 
 故事屋冷气开放——话说回来学生间的空调不能用真的要命。
 
-<img src="http://yoro.xyz/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
+<img src="http://yoro.xyz/image/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
 
 博士生，大半退坑音游狗，智乃厨
 

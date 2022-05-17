@@ -219,7 +219,7 @@ V 快乐王子与其他的童话
 
 最后，让人安心的，果然是，那个虽然没有血缘，但是作为亲人的存在。
 
-![fin](http://yoro.xyz/sakuuta.png)
+![fin](../../image/sakuuta.png)
 
 ## 整体评价
 

@@ -29,7 +29,7 @@ categories: KawaiiGirls
 
 「我，最终又一次喜欢上你了」
 
-![言葉より大切な事](http://yoro.xyz/ftl-himari.png)
+![言葉より大切な事](http://yoro.xyz/image/ftl-himari.png)
 
 ---
 
@@ -45,6 +45,6 @@ categories: KawaiiGirls
 
 「我也想像那样，能有一个只注视着我的人……」
 
-![ずっとそばに](http://yoro.xyz/ftl-rina.png)
+![ずっとそばに](http://yoro.xyz/image/ftl-rina.png)
 
 [MoeImp フレラバ ~Friend to Lover~](http://yoro.xyz/impression/avg/ftl)

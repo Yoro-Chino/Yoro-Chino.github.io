@@ -212,4 +212,4 @@ OP1 特别加分 +0.05
 
 看着标题界面的漫天樱花，「你找到属于你的幸运四叶草了吗？」
 
-![Title 6](http://yoro.xyz/cd.png)
+![Title 6](../../image/cd.png)
