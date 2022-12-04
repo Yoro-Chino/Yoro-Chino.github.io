@@ -3,10 +3,6 @@ layout: home
 title: "依田萌绘 / 依田もえ"
 ---
 
-<iframe height="750" width="100%" src="https://ac.yunyoujun.cn" frameborder="0" border="0"></iframe>
-
-故事屋冷气开放——话说回来学生间的空调不能用真的要命。
-
 <img src="http://yoro.xyz/image/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
 
 博士生，大半退坑音游狗，智乃厨
@@ -31,9 +27,9 @@ PCR 早就弃坑了，现在在玩 Alice Gear Aegis 和，呃，明日方舟。
 [Bangumi@依田もえ](http://bgm.tv/user/523627)  
 [Bilibili@花期语织](https://space.bilibili.com/12802748)
 
-友链：
-[Hakula](https://hakula.xyz)  
-空调：[YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner)
+友链：  
+[HAKULA†CHANNEL](https://hakula.xyz)  
+[~~小猫~~ Izumi 的个人主页](https://izumimorin.xyz)  
 
 ---
 
