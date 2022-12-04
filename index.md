@@ -21,11 +21,13 @@ PCR 早就弃坑了，现在在玩 Alice Gear Aegis 和，呃，明日方舟。
 这个站点从很大程度上说已经彻底变成 gal 相关站了
 
 个人相关链接：  
-[提问箱](https://www.popiask.cn/Yoda_Moe)     
+提问箱（炸了，懒得重开，摸了）  
 [MoeImp](http://yoro.xyz/impression)   
 [Bilibili@依田もえ](https://space.bilibili.com/431901596)   
 [Bangumi@依田もえ](http://bgm.tv/user/523627)  
-[Bilibili@花期语织](https://space.bilibili.com/12802748)
+[Bilibili@花期语织](https://space.bilibili.com/12802748)  
+[momolive](http://yoro.xyz/live)
+
 
 友链：  
 [HAKULA†CHANNEL](https://hakula.xyz)  
