@@ -272,6 +272,7 @@ permalink: /impression/avg
       <td style="text-align: right">15</td>
       <td><a href="http://yoro.xyz/impression/avg/kl">金色 Loveriche</a></td>
       <td style="text-align: center">SS+</td>
+      <td style="text-align: center">纯爱萌<br />治愈</td>
       <td style="text-align: center">T0#3</td>
     </tr>
     <tr>
