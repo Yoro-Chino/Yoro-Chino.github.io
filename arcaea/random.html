@@ -275,7 +275,7 @@
 		const fetchSonglist=()=>new Promise((res,rej)=>{
 			const script=document.createElement("script")
 			script.type="text/javascript"
-			script.src="https://wiki.arcaea.cn/api.php?action=parse&format=json&page=Template%3ASonglist&prop=wikitext&callback=__JSONP__fetchSonglist"
+			script.src="https://wiki.arcaea.cn/api.php?action=parse&format=json&page=Template%3ASonglist.json&prop=wikitext&callback=__JSONP__fetchSonglist"
 			window.__JSONP__fetchSonglist=(data)=>{
 				document.getElementsByTagName("head")[0].removeChild(script)
 				res(JSON.parse(data.parse.wikitext["*"]))
