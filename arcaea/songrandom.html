@@ -359,9 +359,10 @@
 			chartSelectReset.style.display=""
 		})
 		const reset=()=>{
-			chartSelect1.style.display=""
-			chartSelectReset.style.display="none"
-			chart1.style.display="none"
+			chart1.innerText=select(level.value,level2.value,0)
+			chart1.style.display=""
+			chartSelect1.style.display="none"
+			chartSelectReset.style.display=""
 		}
 		chartSelectReset.addEventListener("click",reset)
 		level.addEventListener("change",reset)
