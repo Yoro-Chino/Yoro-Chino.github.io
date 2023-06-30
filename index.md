@@ -5,8 +5,6 @@ title: "Cecilia Moe 依田萌绘 / 依田もえ"
 
 <img src="http://yoro.xyz/image/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
 
-<script>(function(d, s, id) {var js, timetacojs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src ='https://www.timetaco.com/static/js/embed.js';timetacojs.parentNode.insertBefore(js, timetacojs);}(document, 'script', 'timetaco-jssdk'));<\/script><div class='timetaco-list' data-timetacoid='aefzvn'></div>
-
 博士生，大半退坑音游狗，智乃厨
 
 信奉「可爱即正义」，柚子厨，SMEE 厨
