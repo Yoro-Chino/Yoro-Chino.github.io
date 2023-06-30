@@ -1,9 +1,11 @@
 ---
 layout: home
-title: "依田萌绘 / 依田もえ"
+title: "Cecilia Moe 依田萌绘 / 依田もえ"
 ---
 
 <img src="http://yoro.xyz/image/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
+
+<script>(function(d, s, id) {var js, timetacojs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src ='https://www.timetaco.com/static/js/embed.js';timetacojs.parentNode.insertBefore(js, timetacojs);}(document, 'script', 'timetaco-jssdk'));<\/script><div class='timetaco-list' data-timetacoid='aefzvn'></div>
 
 博士生，大半退坑音游狗，智乃厨
 
@@ -11,10 +13,10 @@ title: "依田萌绘 / 依田もえ"
 
 没事闲的会推 gal 然后随便写点感想打个分什么的  
 但是最近因为~~毕设和 BCR~~ 博士研究生活太难太忙所以接近停更就很真实  
-PCR 早就弃坑了，现在在玩 Alice Gear Aegis 和，呃，明日方舟。  
-也不知道自己能玩多久。
+PCR 早就弃坑了，现在在~~玩 Alice Gear Aegis 和，呃，明日方舟~~。  
+~~也不知道自己能玩多久。~~ 早就不玩了笑死
 
-**我永远喜欢望月理奈**
+**我永远喜欢圣女大人**
 
 
 
@@ -23,7 +25,7 @@ PCR 早就弃坑了，现在在玩 Alice Gear Aegis 和，呃，明日方舟。
 个人相关链接：  
 提问箱（炸了，懒得重开，摸了）  
 [MoeImp](http://yoro.xyz/impression)   
-[Bilibili@依田もえ](https://space.bilibili.com/431901596)   
+[Bilibili@Cecilia_Moe](https://space.bilibili.com/431901596)   
 [Bangumi@依田もえ](http://bgm.tv/user/523627)  
 [Bilibili@花期语织](https://space.bilibili.com/12802748)  
 [momolive](http://yoro.xyz/live)
