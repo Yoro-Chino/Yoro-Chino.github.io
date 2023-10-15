@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Cecilia Moe 依田萌绘 / 依田もえ"
+title: "Tomori Moe 依田萌绘 / 依田もえ"
 ---
 
 <img src="http://yoro.xyz/image/YodaMoe_v2.png" alt="依田萌绘 2nd “BubbleSodaGirl” beta ver." width="324" height="324" align="middle" />
@@ -14,17 +14,17 @@ title: "Cecilia Moe 依田萌绘 / 依田もえ"
 PCR 早就弃坑了，现在在~~玩 Alice Gear Aegis 和，呃，明日方舟~~。  
 ~~也不知道自己能玩多久。~~ 早就不玩了笑死
 
-**我永远喜欢圣女大人**
+**一緒に迷子になろう**
 
-
+我去我大脑在自动播放诗超绊，救命
 
 这个站点从很大程度上说已经彻底变成 gal 相关站了
 
 个人相关链接：  
 提问箱（炸了，懒得重开，摸了）  
 [MoeImp](http://yoro.xyz/impression)   
-[Bilibili@Cecilia_Moe](https://space.bilibili.com/431901596)   
-[Bangumi@依田もえ](http://bgm.tv/user/523627)  
+[Bilibili@Tomori_Moe](https://space.bilibili.com/431901596)   
+[Bangumi Tomori Moe @chino46](http://bgm.tv/user/523627)  
 [Bilibili@花期语织](https://space.bilibili.com/12802748)  
 [momolive](http://yoro.xyz/live)
 
