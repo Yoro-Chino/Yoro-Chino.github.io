@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 依田萌绘的故事屋
+title: 花期 Hanaki
 email: yoro_chino@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  「桃子汽水味的夏天女孩」
+  「那你愿意让我重新相信童话吗」
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yoro-chino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Yoda_Moe
