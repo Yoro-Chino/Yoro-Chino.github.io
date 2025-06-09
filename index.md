@@ -3,7 +3,9 @@ layout: home
 title: "Hanaki 花期语织"
 ---
 
-<img src="./image/Hanaki_v0.png" alt="花期 Hanaki 0th “FutureVirtualIdol” beta ver." width="648" align="middle" />
+<img src="./image/Hanaki_v1.png" alt="花期 Hanaki 0th “FutureVirtualIdol” beta ver." width="648" align="middle" />
+
+Icon by 寝间 Nemuya
 
 博士生（估计快毕业了），休闲玩家音游狗，智乃厨，粉毛控
 
