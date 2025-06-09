@@ -37,7 +37,6 @@ title: "Hanaki 花期语织"
 
 友链：  
 [HAKULA†CHANNEL](https://hakula.xyz)  
-[~~小猫~~ Izumi 的个人主页](https://izumimorin.xyz)  
 
 ---
 
