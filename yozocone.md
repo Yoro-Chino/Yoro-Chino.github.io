@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Yozora Connection - 游戏文档"
+title:  "Yozora Connect"
 date:   2026-04-19 12:00:00 +0800
 categories: YozoCone
 permalink: /yozocone
 ---
 
-Yozora Connection （也可以简称YozoCone） 是一款由花期 hanaki 开发的移动端浮现式音乐游戏，本页整理了玩家和谱师可能用到的文档。
+Yozora Connect （也可以简称YozoCone） 是一款由花期 hanaki 开发的移动端浮现式音乐游戏，本页整理了玩家和谱师可能用到的文档。
 
 ## 谱面导入
 

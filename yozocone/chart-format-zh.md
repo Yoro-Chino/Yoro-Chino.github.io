@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yozora Connection - 谱面格式规范（v1）"
+title:  "Yozora Connect"
 date:   2026-04-19 12:00:00 +0800
 categories: YozoCone
 permalink: /yozocone/chart-format-zh

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yozora Connection - 制谱器使用指南"
+title:  "Yozora Connect"
 date:   2026-04-19 12:00:00 +0800
 categories: YozoCone
 permalink: /yozocone/editor
