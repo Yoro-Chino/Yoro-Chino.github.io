@@ -7,11 +7,11 @@ permalink: /yozocone/import
 ---
 
 
-将 `.yzcpkg` 谱面包导入 YozoCone 的两种方式。
+将 `.yzcpkg` 谱面包导入 YozoLink 的两种方式。
 
 ## 方法一：应用内导入
 
-1. 打开 YozoCone，进入选曲界面。
+1. 打开 YozoLink，进入选曲界面。
 2. 点击右上角「+ Import song」按钮。
 3. 在弹出的文件选择器中定位并选择 `.yzcpkg` 文件。
 4. 导入完成后，曲库自动刷新，选曲光标跳转至新导入的歌曲。
@@ -20,8 +20,8 @@ permalink: /yozocone/import
 
 从文件管理器、浏览器等任意应用中接收或下载的 `.yzcpkg` 文件：
 
-- **Android**：点击文件，在「打开方式」菜单中选择 YozoCone。
-- **iOS**：点击文件后选择分享按钮，在分享菜单中选择 YozoCone。
+- **Android**：点击文件，在「打开方式」菜单中选择 YozoLink。
+- **iOS**：点击文件后选择分享按钮，在分享菜单中选择 YozoLink。
 
 导入完成后曲库自动刷新。
 
@@ -29,15 +29,24 @@ permalink: /yozocone/import
 
 对同一首歌曲重复导入新版本的 `.yzcpkg`：
 
-- 旧谱面数据被完全覆盖。
+- 新包会先解压到临时目录并完成基础校验，再替换旧目录；如果解压或替换失败，原有歌曲目录会保留。
+- 替换成功后，旧谱面数据被完全覆盖。
 - **游戏记录处理**：若某难度的音符数量未变，原最佳分数保留；若音符发生增减，该难度的分数清零，其余难度不受影响。
+
+## 包名与路径限制
+
+- `song.json` 的 `id` 只能使用小写英文字母、数字和下划线（`[a-z0-9_]`）。
+- `id` 不能与内置歌曲 ID 冲突。
+- 包内文件路径不能包含绝对路径、盘符、反斜杠或 `..` 跳级路径。
 
 ## 常见错误
 
 | 提示 | 原因 | 处理方式 |
 |---|---|---|
+| `Invalid song ID` | `song.json` 中的 `id` 为空，或包含了 `[a-z0-9_]` 之外的字符 | 在编辑器中修改 Song ID 后重新导出 |
 | `Song ID conflicts with a built-in song` | 导入的谱面 ID 与游戏内置歌曲 ID 冲突 | 联系制谱者在编辑器中修改 `song_id` 并重新导出 |
-| `Import failed (error <n>)` | 压缩包损坏、缺少 `song.json`，或文件无法读取 | 重新获取完整的 `.yzcpkg` 文件 |
+| `Unsafe package path` | 压缩包里包含不安全路径（如 `../`、绝对路径或 Windows 盘符） | 不要导入该包；让制谱者重新从编辑器导出 |
+| `Import failed (error <n>)` | 压缩包损坏、缺少 `song.json`、文件无法读取，或替换目录失败 | 重新获取完整的 `.yzcpkg` 文件；若是同 ID 更新失败，原有歌曲通常仍保留 |
 
 ## 关于 `.yzcpkg` 格式
 
