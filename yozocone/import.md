@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Yozora Connect"
+title:  "Yozora Link"
 date:   2026-04-19 12:00:00 +0800
-categories: YozoCone
+categories: YozoLink
 permalink: /yozocone/import
 ---
 
