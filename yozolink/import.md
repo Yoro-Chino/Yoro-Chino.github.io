@@ -41,12 +41,13 @@ permalink: /yozolink/import
 
 ## 常见错误
 
+仅以下一种错误会直接弹出对话框；其它失败情形（包含 `song.json` 缺失/解析失败、`id` 字段非 `[a-z0-9_]`、压缩包路径不安全包含 `../` 或绝对路径、目录替换失败等）会静默地停止导入，错误细节写入运行日志。
+
 | 提示 | 原因 | 处理方式 |
 |---|---|---|
-| `Invalid song ID` | `song.json` 中的 `id` 为空，或包含了 `[a-z0-9_]` 之外的字符 | 在编辑器中修改 Song ID 后重新导出 |
-| `Song ID conflicts with a built-in song` | 导入的谱面 ID 与游戏内置歌曲 ID 冲突 | 联系制谱者在编辑器中修改 `song_id` 并重新导出 |
-| `Unsafe package path` | 压缩包里包含不安全路径（如 `../`、绝对路径或 Windows 盘符） | 不要导入该包；让制谱者重新从编辑器导出 |
-| `Import failed (error <n>)` | 压缩包损坏、缺少 `song.json`、文件无法读取，或替换目录失败 | 重新获取完整的 `.yzcpkg` 文件；若是同 ID 更新失败，原有歌曲通常仍保留 |
+| `Song ID conflicts with a built-in song.<br>Please change the ID in the editor and re-export.` | 导入的谱面 ID 与游戏内置歌曲 ID 冲突 | 联系制谱者在编辑器中修改 `Song ID` 并重新导出 |
+
+> 如果点击导入后曲库没有刷新也没有任何提示，绝大多数情况是包结构不合法（缺 `song.json`、`id` 字段无效、含 `../` 等不安全路径），让制谱者从编辑器重新导出即可。
 
 ## 关于 `.yzcpkg` 格式
 

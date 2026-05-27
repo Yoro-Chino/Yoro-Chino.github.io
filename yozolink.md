@@ -6,7 +6,7 @@ categories: YozoLink
 permalink: /yozolink
 ---
 
-Yozora Link （也可以简称YozoLink） 是一款由花期 hanaki 开发的移动端浮现式音乐游戏，本页整理了玩家和谱师可能用到的文档。
+Yozora Link （也可以简称YozoLink） 是一款由 879 Production 开发的移动端浮现式音乐游戏，本页整理了玩家和谱师可能用到的文档。
 
 ## 谱面导入
 
