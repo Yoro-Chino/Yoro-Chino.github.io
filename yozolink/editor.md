@@ -169,26 +169,29 @@ Slide 的路径节点可以像 tap 一样被单独编辑：
 - **节点时间对齐到当前播放头**：`0` 或 `` ` ``。会校验相邻节点的时间顺序，越界拒绝。
 - **节点时间微调**：左 / 右方向键，按 snap 步长移动。
 - **删除节点**：`Del`。如果删了之后 slide 路径点不足 2 个，整个 slide 也会被删掉。
-- **Inspector 单节点模式**：选中单节点时，Inspector 只显示该节点的 `(time, x, y, fake)` + 可选的 Bezier 控制（见下方）；slide 整体的字段不再显示。重新选中整个 slide 即可回到 slide-level inspector。
+- **Inspector 单节点模式**：选中单节点时，Inspector 只显示该节点的 `(time, x, y)` + 可选的 Bezier 控制（见下方）；slide 整体的字段不再显示。重新选中整个 slide 即可回到 slide-level inspector。注：之前的「Anchor / fake」复选框在 finger-driven 模型下没有效果（所有中间节点游戏加载时一律视为假节点），已从 Inspector 移除。
 
-### Slide 工具：多次点击放置
+### Slide 工具 + Slidetick 工具：多次点击放置
 
-Slide 工具采用「多次点击」流程，类似 Hold 的两步放置：
+Slide 工具放置 slide 头之后**自动切换到 Slidetick 工具（Q）**，由 Slidetick 接管后续节点的添加：
 
-1. 第一次点击 playfield 空白处：放置 slide 的 head（节点 0），自动进入「摆节点」子模式，状态栏提示「Click to add nodes · Esc to finish」。
-2. 后续点击：每次点击都向当前 slide 添加一个路径点（按节点时间自动排序入位）。在两次点击之间可以 scrub 时间轴调整节点时间。
-3. 退出方式：`Esc`、`Enter`、或切换到其他工具。如果 slide 不足 2 个节点（仅 head），整个 slide 会被丢弃（不进 undo）；否则提交。
+1. 在 Slide 工具（G）下点击 playfield 空白处：放置 slide 的 head（节点 0），自动切到 Slidetick 工具。右侧自动切到 **Details** 选项卡，面板顶部显示黄色 banner「Click to add nodes · Esc 或按钮结束」+ Finish 按钮。
+2. Slidetick 工具的点击：每次都向当前 slide 添加一个路径点（按节点时间自动排序入位）。在两次点击之间可以 scrub 时间轴调整节点时间。Playfield 上会画一条暖色虚线从已有最近时间的节点连到鼠标位置作为预览。
+3. 退出方式：`Esc`、`Enter`、Details banner 的 **Finish slide** 按钮、或切换到其他工具。**新增 slide 时退回 Slide 工具**（方便接着开下一条），**已有 slide 加节点时退回 Select 工具**。如果 slide 不足 2 个节点（仅 head），整个 slide 会被丢弃（不进 undo）。
 
-**给已有 slide 添加节点**：在 Slide 工具下，先点击已有 slide 的任意节点——slide 工具会以该 slide 为目标进入摆节点模式；之后的点击向该 slide 添加节点。
+**给已有 slide 添加节点**：选中某个 slide（或它的任意路径点），按 **Q** 切换到 Slidetick 工具——之后的点击向该 slide 添加节点，按 Esc 回到 Select。也可以从工具栏直接点击 Slidetick 按钮（行为相同，需要先有选中的 slide）。
 
 ### Slide Bezier 曲线段
 
 Slide 路径段可以选择直线或二次 Bezier 曲线。每段的弯曲由该段**结束节点**的 `curve_in` 字段决定（详见 chart-format-zh 的 Bezier 章节）。
 
-- **打开 Bezier**：选中某个中间节点（不能是 head），在 Inspector 的「Curve in」勾选「Bezier」。控制点初始化为该段的几何中点（零弯曲）。
+- **打开 Bezier**：选中某个中间节点（不能是 head），用以下任一方式：
+  - 在 Inspector 的「Curve in」勾选「Bezier」
+  - 按 **B 键**快速切换
+  控制点初始化为该段的几何中点（零弯曲）。
 - **拖动控制点**：选中的 Bezier 节点会在 playfield 上显示一个冷蓝色的控制点拖柄 + 两条虚线指示器连接 `prev → cp → this`。直接拖动控制点即可调整曲线形状。
 - **精确输入**：Inspector 在 Bezier 模式下额外显示 `CP X` / `CP Y` 两行 SpinBox，用于精确数值输入。
-- **关闭 Bezier**：把「Curve in」复选框取消勾选，该段恢复为直线（保存时序列化器会自动省略 `cp_x` / `cp_y` 字段）。
+- **关闭 Bezier**：再按一次 B，或把「Curve in」复选框取消勾选，该段恢复为直线（保存时序列化器会自动省略 `cp_x` / `cp_y` 字段）。
 
 ---
 
