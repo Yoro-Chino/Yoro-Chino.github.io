@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Yozora Link"
+title:  "noctilink"
 date:   2026-04-19 12:00:00 +0800
-categories: YozoLink
-permalink: /yozolink/import
+categories: noctilink
+permalink: /noctilink/import
 ---
 
 
-将 `.yzcpkg` 谱面包导入 YozoLink 的两种方式。
+将 `.yzcpkg` 谱面包导入 noctilink 的两种方式。
 
 ## 方法一：应用内导入
 
-1. 打开 YozoLink，进入选曲界面。
+1. 打开 noctilink，进入选曲界面。
 2. 点击右上角「+ Import song」按钮。
 3. 在弹出的文件选择器中定位并选择 `.yzcpkg` 文件。
 4. 导入完成后，曲库自动刷新，选曲光标跳转至新导入的歌曲。
@@ -20,8 +20,8 @@ permalink: /yozolink/import
 
 从文件管理器、浏览器等任意应用中接收或下载的 `.yzcpkg` 文件：
 
-- **Android**：点击文件，在「打开方式」菜单中选择 YozoLink。
-- **iOS**：点击文件后选择分享按钮，在分享菜单中选择 YozoLink。
+- **Android**：点击文件，在「打开方式」菜单中选择 noctilink。
+- **iOS**：点击文件后选择分享按钮，在分享菜单中选择 noctilink。
 
 导入完成后曲库自动刷新。
 

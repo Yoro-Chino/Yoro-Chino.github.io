@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Yozora Link"
+title:  "noctilink"
 date:   2026-04-19 12:00:00 +0800
-categories: YozoLink
-permalink: /yozolink/chart-format-zh
+categories: noctilink
+permalink: /noctilink/chart-format-zh
 ---
 
 
 ## 概述
 
-Yozora Link 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式，内部结构如下：
+noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式，内部结构如下：
 
 - `song.json`：包级元数据与各难度索引
 - 每个难度一个 `.yzc.json` 文件（Stable / Drifting / Faint / Relink）
