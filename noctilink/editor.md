@@ -210,7 +210,7 @@ Slide 的路径节点可以像 tap 一样被单独编辑：
 - **节点时间对齐到当前播放头**：`0` 或 `` ` ``。会校验相邻节点的时间顺序，越界拒绝。
 - **节点时间微调**：左 / 右方向键，按 snap 步长移动。
 - **删除节点**：`Del`。如果删了之后 slide 路径点不足 2 个，整个 slide 也会被删掉。
-- **Inspector 单节点模式**：选中单节点时，Inspector 只显示该节点的 `(time, x, y)`、`On-time` 复选框、+ 可选的 Bezier 控制（见下方）；slide 整体的字段不再显示。重新选中整个 slide 即可回到 slide-level inspector。注：`fake` 字段已从谱面格式移除，对应的「Anchor」复选框也不再存在；中间节点与首末节点按位置区分。On-time 复选框含义见上一节。
+- **Inspector 单节点模式**：选中单节点时，Inspector 只显示该节点的 `(time, x, y)`、`On-time` 复选框、+ 可选的曲线类型控制（Line / Bezier / Arc，见下方）；slide 整体的字段不再显示。重新选中整个 slide 即可回到 slide-level inspector。注：`fake` 字段已从谱面格式移除，对应的「Anchor」复选框也不再存在；中间节点与首末节点按位置区分。On-time 复选框含义见上一节。
 
 ### Slide 工具 + Slidetick 工具：多次点击放置
 
@@ -222,17 +222,22 @@ Slide 工具放置 slide 头之后**自动切换到 Slidetick 工具（Q）**，
 
 **给已有 slide 添加节点**：选中某个 slide（或它的任意路径点），按 **Q** 切换到 Slidetick 工具——之后的点击向该 slide 添加节点，按 Esc 回到 Select。也可以从工具栏直接点击 Slidetick 按钮（行为相同，需要先有选中的 slide）。
 
-### Slide Bezier 曲线段
+### Slide 曲线段（直线 / Bezier / 圆弧）
 
-Slide 路径段可以选择直线或二次 Bezier 曲线。每段的弯曲由该段**结束节点**的 `curve_in` 字段决定（详见 `chart_format.zh.md` 的 Bezier 章节）。
+Slide 路径段可以是直线、二次 Bezier 曲线、或圆弧。每段的形状由该段**结束节点**的 `curve_in` 字段决定（详见 `chart_format.zh.md` 的曲线段章节）。Bezier 与圆弧都用同一个**参考点**（`cp_x` / `cp_y`），但含义不同：
 
-- **打开 Bezier**：选中某个中间节点（不能是 head），用以下任一方式：
-  - 在 Inspector 的「Curve in」勾选「Bezier」
-  - 按 **B 键**快速切换
-  控制点初始化为该段的几何中点（零弯曲）。
-- **拖动控制点**：选中的 Bezier 节点会在 playfield 上显示一个冷蓝色的控制点拖柄 + 两条虚线指示器连接 `prev → cp → this`。直接拖动控制点即可调整曲线形状。
-- **精确输入**：Inspector 在 Bezier 模式下额外显示 `CP X` / `CP Y` 两行 SpinBox，用于精确数值输入。
-- **关闭 Bezier**：再按一次 B，或把「Curve in」复选框取消勾选，该段恢复为直线（保存时序列化器会自动省略 `cp_x` / `cp_y` 字段）。
+- **Bezier**：参考点是曲线**外**的控制点——曲线被它「拉拽」，不经过它。
+- **圆弧（arc）**：参考点是曲线**上**的一点——线段是从上一个节点、**经过**参考点、到这个节点的圆弧。若参考点落在「上一节点→这一节点」的直线上，该段画成直线。
+
+操作方式：
+
+- **切换曲线类型**：选中某个中间节点（不能是 head），用以下任一方式：
+  - 在 Inspector 的「Curve in」下拉选择 `Line` / `Bezier` / `Arc`
+  - 按 **B 键**在 `直线 → Bezier → 圆弧 → 直线` 之间循环
+  从直线进入 Bezier/圆弧时，参考点初始化为该段的几何中点（此时圆弧因共线而显示为直线，拖开参考点即弯曲）。
+- **拖动参考点**：选中的曲线节点会在 playfield 上显示一个参考点拖柄（Bezier 冷蓝、圆弧偏绿）+ 两条虚线指示器连接 `prev → 参考点 → this`。直接拖动即可调整曲线形状。
+- **精确输入**：Inspector 在 Bezier / 圆弧模式下额外显示 `Ref X` / `Ref Y` 两行 SpinBox，用于精确数值输入。
+- **恢复直线**：继续按 B 循环回 `Line`，或在「Curve in」下拉选 `Line`，该段恢复为直线（保存时序列化器会自动省略 `cp_x` / `cp_y` 字段）。
 
 ---
 
@@ -362,7 +367,7 @@ Slide 路径段可以选择直线或二次 Bezier 曲线。每段的弯曲由该
    - 音频文件
    - 封面图（如已配置）
 
-玩家侧的导入流程参见 [谱面导入教程](./import)。
+玩家侧的导入流程参见 [`import_guide.md`](import_guide.md)。
 
 ---
 
