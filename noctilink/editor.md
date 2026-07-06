@@ -54,6 +54,7 @@ noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作
 
 - **Difficulty**：难度槽位，固定为 `Stable / Drifting / Faint / Relink` 四档
 - **Level**：难度等级，任意字符串格式，如 `7`、`9+`、`11`
+- **Display BPM / 表记 BPM**（可选）：该难度在选曲页显示的 BPM 文本；留空则从该谱面的 BPM 变化自动计算。此项保存到该难度的 `.yzc.json` `metadata.display_bpm`，可按难度分别填写
 - **Background / Cover**：该难度的封面图（即谱面格式里的 `background` 字段，名为 background 实为封面），留空则使用项目默认值
 - **Gameplay Background**（可选）：游玩时的背景图，与封面相互独立（谱面格式 `gameplay_background` 字段）。设置后游玩界面显示这张图（模糊 / 变暗处理与封面一致），留空则回退到模糊后的封面；随包导出、LiveLink 实时推送
 - **Audio override**（可选）：该难度单独指定音频文件，用于剪辑或变奏版本

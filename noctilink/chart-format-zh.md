@@ -100,6 +100,7 @@ noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式
 | `cover_source` | string | 封面来源说明（作者、链接、委托备注）；如 `song.json` 的 charts[] 条目里也写了会覆盖此处 |
 | `difficulty_name` | string | 必须与父 `song.json` 条目中的 `difficulty` 一致 |
 | `difficulty_level` | string | 难度等级，自由格式字符串 |
+| `display_bpm` | string | *可选* — 不为空时作为该谱面在选曲页显示的 BPM 文本；为空或缺省时继续从该谱面的 timing 数据计算 |
 | `audio_file` | string | 音频文件名（包根目录相对路径） |
 | `preview_time` | float | 选曲界面试听起始点（秒） |
 | `preview_end_time` | float | 试听结束点（秒），`0` 表示使用默认时长 |
@@ -119,10 +120,12 @@ noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式
 |-----|------|-----|
 | `time` | float | 新 BPM 生效的时间点（秒） |
 | `bpm` | float | BPM 数值 |
+| `reset_beat_color` | bool | *可选* — 为 `true` 时，从该事件处重新计算 beat-snap note 颜色，使该时间点的 note 被视为正拍红色起点；默认 `false` |
 | `beats_per_measure` | int | *可选* — 编辑器时间轴拍号分子，默认 `4` |
 | `beat_unit` | int | *可选* — 编辑器时间轴拍号分母，默认 `4` |
 
 `beats_per_measure` 与 `beat_unit` 只影响编辑器的小节线 / 标尺显示，不改变游戏内判定时序。
+`reset_beat_color` 只影响游戏与编辑器预览中的 beat-snap 颜色分类，不改变时序、吸附、判定或小节编号。
 
 ### `theme_events`
 
