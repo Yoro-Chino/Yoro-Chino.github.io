@@ -216,6 +216,16 @@ noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式
 { "type": "ex-hold", "time": 4.0, "end_time": 5.0, "x": 0.5, "y": 0.5 }
 ```
 
+### Drag Hold
+
+Drag 头接 Hold 持续段。`time` 时不要求新点击：判定窗内只要已有触点位于命中区域，头判即为 Pure+；若到 `time + 120ms` 仍未命中则为 Break。头判始终立即作为一个独立单元结算，之后的中段分段、失误恢复与 Hold 相同。短于 300ms 时没有中段，只有这一个 Drag 头单元；音符本体仍显示到 `end_time`。
+
+```json
+{ "type": "drag-hold", "time": 5.0, "end_time": 6.0, "x": 0.5, "y": 0.5 }
+```
+
+命中前本体是普通 Hold 的 `0.75×` 空心外壳，内部保留 `0.75 × 0.55R` 的 Drag 环。命中后在 `min(120ms, end_time - time)` 内与 duration arc 同步放大至普通 Hold 尺寸，并用当前 note skin 的填充色由圆心向外覆盖内部 Drag 环。
+
 ### Slide / Ex-Slide
 
 在第一个路径点的时间按下，然后**手指拖动**slide 沿路径移动到终点。外层 `time`、`x`、`y` 与第一个路径点一致。
@@ -291,9 +301,9 @@ noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式
 具体的时序判定逻辑依音符类型而异：
 
 - **Tap / Ex-Tap / Hold / Ex-Hold / Slide / Ex-Slide（起始点）**：按相对判定时间的绝对距离，在判定窗口内按差值分档。
-- **Drag**：只要命中在判定窗口内，一律为 Pure+。
+- **Drag / Drag Hold（起始点）**：只要触点在判定窗口内进入命中区域，一律为 Pure+；Drag Hold 未命中的头在 `+120ms` 结算 Break，随后仍可恢复中段。
 - **Flick**：窗口内方向匹配（±45°）的划动 → Pure+；其余情况（包括只点击不划动）→ Break。
-- **Hold / Ex-Hold 与 Slide / Ex-Slide（持续段）**：按独立**判定单元**计分——首节点 tap 一个单元；中段 `[起始 + 120ms, 结束]` 每 240ms 一段（段内出现过有效按压 → Pure+，slide 另需本体在轨迹上），各一个单元；slide 终点再加一个二值单元。失败中段先保留为至多一个滚动 pending，不立即 Break：下一段首次恢复有效输入的同一帧，pending 立即补为 Pure+；若连续第二段仍无效，旧 pending 在该段段尾 Break，当前失败段继续 pending；音符结束时剩余 pending 立即 Break。当前有效段自身仍在段尾结算，且宽限不延伸到音符结束之后。谱面总物量 = 全部单元之和，长 hold/slide 像一串 drag 一样贡献多个判定。短于 300ms 的不产生中段。
+- **Hold / Ex-Hold / Drag Hold 与 Slide / Ex-Slide（持续段）**：按独立**判定单元**计分——首节点一个单元；中段 `[起始 + 120ms, 结束]` 每 240ms 一段（段内出现过有效按压 → Pure+，slide 另需本体在轨迹上），各一个单元；slide 终点再加一个二值单元。失败中段先保留为至多一个滚动 pending，不立即 Break：下一段首次恢复有效输入的同一帧，pending 立即补为 Pure+；若连续第二段仍无效，旧 pending 在该段段尾 Break，当前失败段继续 pending；音符结束时剩余 pending 立即 Break。当前有效段自身仍在段尾结算，且宽限不延伸到音符结束之后。谱面总物量 = 全部单元之和，长 hold/drag-hold/slide 像一串 drag 一样贡献多个判定。短于 300ms 的不产生中段。
 
 ---
 
