@@ -21,7 +21,7 @@ noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作
 
 所有文件选择（打开、保存、导入音频、导出、选封面 / 音效）均调用系统原生文件管理器（Windows / macOS）。首次使用时默认定位到用户「文档」目录；之后会记住上一次选择文件所在的目录，下次打开任意文件选择器时直接定位到该目录。
 
-打开使用旧版难度名（Near / Medium / Distant / Spacey）的旧项目时，编辑器会自动把它们升级为现行难度名（Stable / Drifting / Faint / Relink），并就地改写 `song.json`。改写**只动 `song.json` 的难度字段**：谱面文件不会被改名、新建或删除，`song.json` 中的文件引用仍指向原来的谱面文件。
+打开使用旧版难度名（Near / Medium / Distant / Faint / Spacey）的旧项目时，编辑器会自动把它们升级为现行难度名（Stable / Drifting / Fracture / Relink），并就地改写 `song.json`。Near / Medium / Distant / Spacey 仍只迁移难度字段；若 Faint 条目恰好引用常规文件 `Faint.yzc.json`，且同目录不存在 `Fracture.yzc.json`，编辑器会同时安全改名并更新引用。自定义谱面文件名保持不变。若目标文件已存在，编辑器绝不覆盖，会在状态栏提示并阻止后续保存；移开冲突文件后再次保存即可自动完成迁移。
 
 项目文件夹的典型结构：
 
@@ -30,7 +30,7 @@ noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作
 ├── song.json              # 元数据与各难度引用
 ├── Stable.yzc.json        # 最易难度
 ├── Drifting.yzc.json
-├── Faint.yzc.json         # 默认新建难度
+├── Fracture.yzc.json      # 默认新建难度
 ├── Relink.yzc.json        # 最难
 ├── music.mp3 / music.ogg  # 音频文件
 └── cover.jpg              # 封面图（可选）
@@ -52,7 +52,7 @@ noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作
 
 ### 难度层（各难度独立）
 
-- **Difficulty**：难度槽位，固定为 `Stable / Drifting / Faint / Relink` 四档
+- **Difficulty**：难度槽位，固定为 `Stable / Drifting / Fracture / Relink` 四档
 - **Level**：难度等级，任意字符串格式，如 `7`、`9+`、`11`
 - **Display BPM / 表记 BPM**（可选）：该难度在选曲页显示的 BPM 文本；留空则从该谱面的 BPM 变化自动计算。此项保存到该难度的 `.yzc.json` `metadata.display_bpm`，可按难度分别填写
 - **Background / Cover**：该难度的封面图（即谱面格式里的 `background` 字段，名为 background 实为封面），留空则使用项目默认值

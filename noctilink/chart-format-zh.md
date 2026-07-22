@@ -12,7 +12,7 @@ permalink: /noctilink/chart-format-zh
 noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式，内部结构如下：
 
 - `song.json`：包级元数据与各难度索引
-- 每个难度一个 `.yzc.json` 文件（Stable / Drifting / Faint / Relink）
+- 每个难度一个 `.yzc.json` 文件（Stable / Drifting / Fracture / Relink）
 - 一个音频文件（`.mp3` 或 `.ogg`）
 - 一个封面图文件（可选，`.jpg` 或 `.png`）
 
@@ -36,7 +36,7 @@ noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式
   "charts": [
     { "difficulty": "Stable",   "level": "5",  "chart_constant": 5.0,  "chart": "Stable.yzc.json" },
     { "difficulty": "Drifting", "level": "8",  "chart_constant": 8.0,  "chart": "Drifting.yzc.json" },
-    { "difficulty": "Faint",    "level": "10", "chart_constant": 10.0, "chart": "Faint.yzc.json" },
+    { "difficulty": "Fracture", "level": "10", "chart_constant": 10.0, "chart": "Fracture.yzc.json" },
     { "difficulty": "Relink",   "level": "12", "chart_constant": 12.0, "chart": "Relink.yzc.json" }
   ]
 }
@@ -59,7 +59,7 @@ noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式
 
 | 字段 | 类型 | 说明 |
 |-----|------|-----|
-| `difficulty` | string | 必须为 `"Stable"`、`"Drifting"`、`"Faint"`、`"Relink"` 之一 |
+| `difficulty` | string | 必须为 `"Stable"`、`"Drifting"`、`"Fracture"`、`"Relink"` 之一。读取端会把旧值 `"Faint"` 兼容为 `"Fracture"`；新保存/导出不会再写旧值。 |
 | `level` | string | 显示给玩家的难度等级，如 `"7"`、`"9+"`、`"11"` |
 | `chart_constant` | number | *可选* — rating 用的谱面定数。缺省时，整数 `level` 视为 `.0`，`"9+"` 这类整数加号视为 `.5`，非数字标签视为 `0.0` |
 | `difficulty_label` | string | *可选* — 特殊谱面的显示标签覆盖；留空时使用 `difficulty` |
@@ -314,7 +314,7 @@ mynick_mysong.yzcpkg  (ZIP)
 ├── song.json
 ├── Stable.yzc.json
 ├── Drifting.yzc.json
-├── Faint.yzc.json
+├── Fracture.yzc.json
 ├── Relink.yzc.json
 ├── music.ogg
 └── cover.jpg
