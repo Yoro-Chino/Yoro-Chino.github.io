@@ -267,6 +267,25 @@ Drag 头接 Hold 持续段。`time` 时不要求新点击：判定窗内只要�
 - 终点判定（独立 1 单元）：在末节点 ±120ms 内，本体到末节点的最近距离 ≤240px → Pure+，否则 Break；
 - 首节点 tap 也是独立单元——没有合成评级：每个单元在其结算时刻独立计分（当前有效段在段尾，获救 pending 在恢复输入帧）。短 slide（<300ms）无中段（仅首节点 + 终点）。
 
+### Drag Slide
+
+Drag 头接 Slide 路径。JSON 结构和路径规则与 Slide 完全相同，只把 `type` 写为 `"drag-slide"`：
+
+```json
+{
+  "type": "drag-slide",
+  "time": 4.0, "x": 0.2, "y": 0.5,
+  "path": [
+    { "x": 0.2, "y": 0.5, "time": 4.0 },
+    { "x": 0.8, "y": 0.5, "time": 5.0 }
+  ]
+}
+```
+
+头判使用 Drag 的连续捕获规则：判定窗内只要已有触点进入命中区域，立即结算 Pure+、把该触点设为 Slide 的初始 owner，并播放 Drag 家族头判音效。若到 `time + 120ms` 仍没有触点，头判结算 Break，但 Slide 本体与后续单元仍可恢复。中段、owner 重捕获、终点判定、路径时序和总物量均与 Slide 相同。
+
+判定前的外壳、内部 Drag 环、命中放大和填充揭示与 Drag Hold 相同。头判特效始终使用固定圆形 Drag 特效，不受 `Hold/Slide Shape` 影响；移动本体与终点特效则跟随 Hold/Slide Shape，原则与 Drag Hold 的“圆形头判 + 跟随形状的持续本体”一致。
+
 ### Drag
 
 无需点击。判定时间内任何手指位于命中区域即可触发。
@@ -301,9 +320,9 @@ Drag 头接 Hold 持续段。`time` 时不要求新点击：判定窗内只要�
 具体的时序判定逻辑依音符类型而异：
 
 - **Tap / Ex-Tap / Hold / Ex-Hold / Slide / Ex-Slide（起始点）**：按相对判定时间的绝对距离，在判定窗口内按差值分档。
-- **Drag / Drag Hold（起始点）**：只要触点在判定窗口内进入命中区域，一律为 Pure+；Drag Hold 未命中的头在 `+120ms` 结算 Break，随后仍可恢复中段。
+- **Drag / Drag Hold / Drag Slide（起始点）**：只要触点在判定窗口内进入命中区域，一律为 Pure+；Drag Hold 或 Drag Slide 未命中的头在 `+120ms` 结算 Break，随后仍可恢复中段。
 - **Flick**：窗口内方向匹配（±45°）的划动 → Pure+；其余情况（包括只点击不划动）→ Break。
-- **Hold / Ex-Hold / Drag Hold 与 Slide / Ex-Slide（持续段）**：按独立**判定单元**计分——首节点一个单元；中段 `[起始 + 120ms, 结束]` 每 240ms 一段（段内出现过有效按压 → Pure+，slide 另需本体在轨迹上），各一个单元；slide 终点再加一个二值单元。失败中段先保留为至多一个滚动 pending，不立即 Break：下一段首次恢复有效输入的同一帧，pending 立即补为 Pure+；若连续第二段仍无效，旧 pending 在该段段尾 Break，当前失败段继续 pending；音符结束时剩余 pending 立即 Break。当前有效段自身仍在段尾结算，且宽限不延伸到音符结束之后。谱面总物量 = 全部单元之和，长 hold/drag-hold/slide 像一串 drag 一样贡献多个判定。短于 300ms 的不产生中段。
+- **Hold / Ex-Hold / Drag Hold 与 Slide / Ex-Slide / Drag Slide（持续段）**：按独立**判定单元**计分——首节点一个单元；中段 `[起始 + 120ms, 结束]` 每 240ms 一段（段内出现过有效按压 → Pure+，slide 另需本体在轨迹上），各一个单元；slide 终点再加一个二值单元。失败中段先保留为至多一个滚动 pending，不立即 Break：下一段首次恢复有效输入的同一帧，pending 立即补为 Pure+；若连续第二段仍无效，旧 pending 在该段段尾 Break，当前失败段继续 pending；音符结束时剩余 pending 立即 Break。当前有效段自身仍在段尾结算，且宽限不延伸到音符结束之后。谱面总物量 = 全部单元之和，长 hold/drag-hold/slide/drag-slide 像一串 drag 一样贡献多个判定。短于 300ms 的不产生中段。
 
 ---
 

@@ -131,6 +131,8 @@ noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作
 | **Flick** | 定向快速滑动（0° 右 / 90° 上 / 180° 左 / 270° 下） |
 | **Hold / Ex-Hold** | 长按音符，包含起止时间 |
 | **Slide / Ex-Slide** | 玩家拖动跟随的轨迹音符，由多个路径点组成（finger-driven 模型 — 详见 `chart_format.zh.md` 的 Slide 章节） |
+| **Drag Hold** | Drag 头接 Hold 持续段；头判固定为圆形 Drag 特效，持续本体跟随 Hold/Slide Shape |
+| **Drag Slide** | Drag 头接 Slide 路径；头判与 Drag 相同，后续判定与 Slide 相同 |
 
 ### 放置操作
 
@@ -159,13 +161,15 @@ noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作
 | 是 | 否 | **Flick**（方向＝按下→松手，吸附最近 45°） |
 | 是 | 是 | **Slide**（从按下点到松手点，自动选中以便继续加节点） |
 
-- 按住左键时用滚轮调整尾时间（鼠标不必在时间轴上），**松手提交**；Hold 与 Drag 串都在松手时落定。判定「是否改了时间」看的是松手时播放头相对按下时是否移动，因此**滚轮以及 `,` / `.` 播放头 scrub 快捷键在手势进行中同样有效**（方向键移动的是选中音符的时间，不是播放头，故手势中无效）。
-- `Shift` 改放 **Drag 家族**：`Shift`+单击＝单个 Drag；按住鼠标、不移动位置而只 scrub 时间＝**Drag Hold**；拖动位置并同时 scrub 时间＝均匀分布的 **Drag 串**（个数 = 当前时间轴刻度在该时间跨度内的格数）。只移动位置而不改时间仍回退为单个 Drag。
+- 按住左键时用滚轮调整尾时间（鼠标不必在时间轴上），**松手提交**；Hold、Drag Hold、Drag Slide 与 Drag 串都在松手时落定。判定「是否改了时间」看的是松手时播放头相对按下时是否移动，因此**滚轮以及 `,` / `.` 播放头 scrub 快捷键在手势进行中同样有效**（方向键移动的是选中音符的时间，不是播放头，故手势中无效）。
+- `Shift` 改放 **Drag 家族**：`Shift`+单击＝单个 Drag；按住鼠标、不移动位置而只 scrub 时间＝**Drag Hold**；默认情况下，拖动位置并同时 scrub 时间＝**Drag Slide**（从按下点到松手点，自动选中以便继续加节点），手势进行中按住 `Alt` 则切为旧的均匀 **Drag 串**（个数 = 当前时间轴刻度在该时间跨度内的格数）。只移动位置而不改时间仍回退为单个 Drag。
 - 选中某 slide 或其节点时，**单击**即向该 slide 追加节点（无需 `Shift`，优先于新建音符）。
 
-**Drag 工具**手势与 Tap 工具相同，但 `Shift` 反转：原本在 Tap 下需要 `Shift` 的（Drag、Drag Hold、Drag 串）在此**不需要** `Shift`；原本不需要 `Shift` 的（Tap / Hold / Flick / Slide）在此**需要** `Shift`。因此 Drag 工具下按住左键、不移动鼠标而只用滚轮或 `,` / `.` 移动时间轴，松手即生成 Drag Hold；一旦同时移动位置则仍生成原有 Drag 串。中键 / 右键照旧不需要 `Shift`；「单击给选中 slide 加节点」也照旧不需要 `Shift`。
+**Drag 工具**手势与 Tap 工具相同，但 `Shift` 反转：原本在 Tap 下需要 `Shift` 的（Drag、Drag Hold、Drag Slide / Drag 串）在此**不需要** `Shift`；原本不需要 `Shift` 的（Tap / Hold / Flick / Slide）在此**需要** `Shift`。因此 Drag 工具下按住左键、不移动鼠标而只用滚轮或 `,` / `.` 移动时间轴，松手即生成 Drag Hold；默认一旦同时移动位置则生成 Drag Slide，手势进行中按住 `Alt` 切为 Drag 串。中键 / 右键照旧不需要 `Shift`；「单击给选中 slide 加节点」也照旧不需要 `Shift`。
 
-手势进行中（包括鼠标未按下时）playfield 会**实时**绘制松手将生成的内容：按住 `Shift` 时光标 ghost 即变为 Drag（Drag 工具下相反）；按下后随移动与时间 scrub 在 tap / hold / flick / slide / drag / drag hold / drag 串间即时切换。松手或取消后清除。
+设置弹窗的「放置模式」下提供 **Drag Slide without Alt / 无需 Alt 时生成 Drag Slide** 开关，默认开启。关闭后，上述“移动位置＋改变时间”的两项结果反转：不按 `Alt` 生成 Drag 串，按住 `Alt` 才生成 Drag Slide。该偏好保存在 `editor_prefs.cfg`，只影响现代模式的 Drag 家族手势；Tap 家族和经典模式不变。
+
+手势进行中（包括鼠标未按下时）playfield 会**实时**绘制松手将生成的内容：`Shift` 与 `Alt` 都不是在鼠标按下时锁定；按住、松开会立刻在 Tap / Drag 家族以及 Drag Slide / Drag 串之间来回切换，鼠标松开时提交当前预览。Drag Slide 预览遵循游戏侧样式：固定圆形 Drag 头判、Drag Hold 同款放大/填充动画、跟随 Hold/Slide Shape 的路径本体与终点。松手或取消后清除。
 
 #### 经典模式
 
@@ -203,11 +207,11 @@ noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作
 - **时间微调**：选中后使用 `←` / `→` 进行小步位移。
 - **音符时间对齐到当前时间**：选中单个音符后按 `0` 或 `` ` ``，将整体（含 Hold 尾、Slide 路径）整体平移到当前播放位置。
 - **Hold 结束时间对齐到当前时间**：选中单个 Hold / Drag Hold 音符后按 `1`。若当前时间早于起点会被拒绝。
-- **Slide 路径点时间对齐到当前时间**：选中单个 Slide 后按 `0` ~ `9` 对应第 0 ~ 9 个路径点；按 `Shift+0` ~ `Shift+9` 对应第 10 ~ 19 个；左手用户可用 `` ` `` / ``Shift+` `` 作为 `0` / `10` 的别名。仅该路径点平移，相邻路径点不会跟随移动；尝试越过相邻路径点的时间会被拒绝。
-- **Slide 添加新路径点**：选中单个 Slide 后按 `Q`，在最后一个路径点的位置上以 `+0.1 X / +半拍时间` 偏移新增节点。Inspector 中的「+ Add point」按钮等价。
+- **Slide 路径点时间对齐到当前时间**：选中单个 Slide / Ex-Slide / Drag Slide 后按 `0` ~ `9` 对应第 0 ~ 9 个路径点；按 `Shift+0` ~ `Shift+9` 对应第 10 ~ 19 个；左手用户可用 `` ` `` / ``Shift+` `` 作为 `0` / `10` 的别名。仅该路径点平移，相邻路径点不会跟随移动；尝试越过相邻路径点的时间会被拒绝。
+- **Slide 添加新路径点**：选中单个 Slide / Ex-Slide / Drag Slide 后按 `Q`，在最后一个路径点的位置上以 `+0.1 X / +半拍时间` 偏移新增节点。Inspector 中的「+ Add point」按钮等价。
 - **Slide 路径点 On-time（准）**：Inspector 每一行路径点都有一个「准」复选框（取代了之前的「锚」/ fake 复选框 — `fake` 字段已从谱面格式移除，中间节点与首末节点的区分按位置决定）。**勾上（默认）**：该路径点的 `time` 锚定 autoplay / guide-light 的位置——本体在该时刻位于该点。**取消勾选**：该点只作为几何锚存在，autoplay 不在该 `time` 锚定，而是用「前后相邻的 on-time 节点对」之间的总弧长 / 总时长算平均速度匀速通过。常用于：纯粹用来塑形的几何锚（Bezier 控制中段、急转弯），其 `time` 是为画路径而填的而非节拍，标为非 on-time 可避免本体视觉卡顿。**首节点与末节点必须保持 on-time**，对应复选框禁用。注意：on_time 只影响 autoplay / 预览节奏，不影响判定 / 得分 / SFX。
 
-### Slide 节点级编辑（finger-driven 模型）
+### Slide / Drag Slide 节点级编辑（finger-driven 模型）
 
 Slide 的路径节点可以像 tap 一样被单独编辑：
 
