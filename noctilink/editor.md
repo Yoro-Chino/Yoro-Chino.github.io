@@ -6,8 +6,7 @@ categories: noctilink
 permalink: /noctilink/editor
 ---
 
-
-noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作、编辑并导出 `.yzcpkg` 谱面包。本指南按工作流顺序组织。详细格式规范见 [谱面格式规范](./chart-format-zh)。
+noctilink editor 是独立于游戏主体的桌面端制谱工具，用于创作、编辑并导出 `.yzcpkg` 谱面包。本指南按工作流顺序组织。详细格式规范见 [`chart_format.zh.md`](./chart-format-zh)。
 
 ---
 
@@ -377,7 +376,7 @@ Slide 路径段可以是直线、二次 Bezier 曲线、或圆弧。每段的形
    - 音频文件
    - 封面图（如已配置）
 
-玩家侧的导入流程参见 [玩家导入指南](./import)。
+玩家侧的导入流程参见 [`import_guide.md`](./import)。
 
 ---
 

@@ -6,7 +6,6 @@ categories: noctilink
 permalink: /noctilink/chart-format-zh
 ---
 
-
 ## 概述
 
 noctilink 以 `.yzcpkg` 包的形式分发歌曲，这是标准 ZIP 压缩格式，内部结构如下：
@@ -282,7 +281,9 @@ Drag 头接 Slide 路径。JSON 结构和路径规则与 Slide 完全相同，�
 }
 ```
 
-头判使用 Drag 的连续捕获规则：判定窗内只要已有触点进入命中区域，立即结算 Pure+、把该触点设为 Slide 的初始 owner，并播放 Drag 家族头判音效。若到 `time + 120ms` 仍没有触点，头判结算 Break，但 Slide 本体与后续单元仍可恢复。中段、owner 重捕获、终点判定、路径时序和总物量均与 Slide 相同。
+头判使用 Drag 的连续捕获规则：判定窗内只要已有触点进入命中区域，立即结算 Pure+、把该触点设为 Slide 的初始 owner，并播放 Drag 家族头判音效。若到 `time + 120ms` 仍没有触点，头判结算 Break，但 Slide 本体与后续单元仍可恢复。中段、终点判定、路径时序和总物量均与 Slide 相同。
+
+Owner 重捕获为谱师主动编写的一指叠 Slide 保留一个仅限 Drag Slide 的例外：普通 Slide / EX Slide 仍按独占规则优先回收；无主 Drag Slide 随后优先选择正常缩放后 400px 回收范围内最近的空闲触点，只有不存在合格空闲触点时，才可附着到已经控制 Slide、EX Slide 或 Drag Slide 的触点。因此一根触点最多拥有一个普通/EX Slide，并可额外拥有任意数量的 Drag Slide；也可同时拥有多个 Drag Slide。各音符的本体、轨迹距离、中段和终点状态仍然独立，相同 owner ID 不会合并判定。
 
 判定前的外壳、内部 Drag 环、命中放大和填充揭示与 Drag Hold 相同。头判特效始终使用固定圆形 Drag 特效，不受 `Hold/Slide Shape` 影响；移动本体与终点特效则跟随 Hold/Slide Shape，原则与 Drag Hold 的“圆形头判 + 跟随形状的持续本体”一致。
 
