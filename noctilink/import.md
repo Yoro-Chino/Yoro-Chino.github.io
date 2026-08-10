@@ -8,9 +8,11 @@ permalink: /noctilink/import
 
 将 `.yzcpkg` 谱面包导入 noctilink 的两种方式。
 
+> 当前产品边界（2026-08-10）：导入/删除菜单、`user://songs/` 用户曲显示和系统文件关联只在 **dev flavor** 开放。public flavor 会隐藏这些入口与用户曲，并在导出时剥离文件关联；底层 `SongLibrary.import_package()` 仍保留，但不是公开版玩家功能。以下操作均以 dev flavor 为前提。
+
 ## 方法一：应用内导入
 
-1. 打开 noctilink，进入选曲界面。
+1. 打开 noctilink dev，进入选曲界面。
 2. 点击右上角「+ Import song」按钮。
 3. 在弹出的文件选择器中定位并选择 `.yzcpkg` 文件。
 4. 导入完成后，曲库自动刷新，选曲光标跳转至新导入的歌曲。
@@ -19,10 +21,10 @@ permalink: /noctilink/import
 
 从文件管理器、浏览器等任意应用中接收或下载的 `.yzcpkg` 文件：
 
-- **Android**：点击文件，在「打开方式」菜单中选择 noctilink。
-- **iOS**：点击文件后选择分享按钮，在分享菜单中选择 noctilink。
+- **Android dev**：点击文件，在「打开方式」菜单中选择 noctilink dev。
+- **iOS dev**：点击文件后选择分享按钮，在分享菜单中选择 noctilink dev。
 
-导入完成后曲库自动刷新。
+导入完成后曲库自动刷新。public flavor 不声明这类外部文件入口；在公开版看不到 noctilink 作为打开/分享目标属于预期行为。
 
 ## 重新导入与更新
 
