@@ -12,7 +12,7 @@ permalink: /noctilink/import
 
 ## 方法一：应用内导入
 
-1. 打开 noctilink dev，进入选曲界面。
+1. 打开 noctilink dev Godot，进入选曲界面。
 2. 点击右上角「+ Import song」按钮。
 3. 在弹出的文件选择器中定位并选择 `.yzcpkg` 文件。
 4. 导入完成后，曲库自动刷新，选曲光标跳转至新导入的歌曲。
@@ -21,8 +21,8 @@ permalink: /noctilink/import
 
 从文件管理器、浏览器等任意应用中接收或下载的 `.yzcpkg` 文件：
 
-- **Android dev**：点击文件，在「打开方式」菜单中选择 noctilink dev。
-- **iOS dev**：点击文件后选择分享按钮，在分享菜单中选择 noctilink dev。
+- **Android dev**：点击文件，在「打开方式」菜单中选择 noctilink dev Godot。
+- **iOS dev**：点击文件后选择分享按钮，在分享菜单中选择 noctilink dev Godot。
 
 导入完成后曲库自动刷新。public flavor 不声明这类外部文件入口；在公开版看不到 noctilink 作为打开/分享目标属于预期行为。
 
